@@ -110,12 +110,19 @@ The current compact table of contents is provisional:
 3. Limit
 4. Sustain
 5. Make a Harmonic World
-6. Repeat Without Returning
-7. Layer
-8. Color
-9. Release Control
-10. Place
-11. Discover the Form
+6. Repeat — Making Sameness Consequential
+7. Drift — Coordinating Without Locking
+8. Layer
+9. Color
+10. Release Control
+11. Place
+12. Discover the Form
+
+`Repeat` and `Drift` were separated after the sample repetition chapter showed
+that each carries a distinct full argument. Repetition concerns recurrence,
+memory, invariants, accumulation, pressure, and reframing. Drift concerns phase,
+asynchronous layers, multiple tempos, breath, and parts that remain related
+without sharing one clock.
 
 The sixteen-chapter map in `book-map-and-outline.md` remains useful for finding
 subtopics. Revise the compact contents when a draft demonstrates that two ideas
@@ -302,4 +309,3 @@ A chapter is ready for editorial review only when:
 - The chapter acknowledges where its method can fail.
 - Its ending changes the meaning of its opening.
 - Any resulting outline changes have been recorded.
-

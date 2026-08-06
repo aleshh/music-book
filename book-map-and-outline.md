@@ -725,22 +725,29 @@ If sixteen chapters feels too expansive, combine:
 
 - **Wait + Remember** into **Experience Time**
 - **Tune + Connect** into **Make a Harmonic World**
-- **Repeat + Drift** into **Repeat Without Returning**
 - **Share + Chance** into **Release Control**
 - **Continue + End** into **Discover the Form**
 
-That yields an eleven-chapter book:
+Keep **Repeat** and **Drift** separate. Drafting the sample chapter on repetition
+showed that recurrence, memory, invariants, accumulation, pressure, and
+reframing already form a complete argument. Phase, asynchronous layers,
+multiple tempos, and breath-governed coordination pose a different question:
+how recurring parts remain related when they cease to share one clock.
+
+That yields a twelve-chapter book:
 
 1. Attend
 2. Experience Time
 3. Limit
 4. Sustain
 5. Make a Harmonic World
-6. Repeat Without Returning
-7. Layer
-8. Color
-9. Release Control
-10. Place
-11. Discover the Form
+6. Repeat — Making Sameness Consequential
+7. Drift — Coordinating Without Locking
+8. Layer
+9. Color
+10. Release Control
+11. Place
+12. Discover the Form
 
-This shorter version is probably the best starting table of contents. The sixteen-chapter version is more useful as a complete map from which to select.
+This twelve-chapter version is the current working table of contents. The
+sixteen-chapter version remains useful as a complete map from which to select.
