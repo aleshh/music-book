@@ -747,8 +747,8 @@ That yields a twelve-chapter book:
 5. Make a Harmonic World
 6. Repeat — Making Sameness Consequential
 7. Drift — Coordinating Without Locking
-8. Layer
-9. Color
+8. Layer — Turning Relationship into Form
+9. Color — Letting Sound Carry the Argument
 10. Release Control
 11. Place
 12. Discover the Form
@@ -762,9 +762,18 @@ owns the movement among focal, peripheral, and distributed notice, while
 and endurance. The boundary keeps later chapters on Place and Sustain from
 becoming second general theories of attention or duration.
 
-Research on Patrick Shiroishi's live self-layering and DJ Shadow's construction
-of beats from separately captured drum hits strengthens the existing `Layer`
-and `Color` chapters rather than requiring another structural change. These
-examples also establish a narrow scope exception: the book may name a device or
+Drafting `Layer` and `Color` confirmed that they require separate chapters.
+`Layer` owns changing relations among concurrent strands: density, register,
+masking, fusion, saturation, clearing, and residue. `Color` owns the internal
+identity and transformation of an event: attack, continuation, release,
+articulation, dynamics, blend, resistance, and timbral trajectory. Patrick
+Shiroishi's live self-layering and DJ Shadow's construction of beats from
+separately captured drum hits strengthen those distinct arguments without
+requiring another structural change.
+
+The drafts also confirm a narrow scope exception: the book may name a device or
 production action when it is the condition of an audible compositional choice,
 but it should move immediately to musical agency, relationship, and consequence.
+`Layer` ends by exposing the internal life of one strand, leading to `Color`;
+`Color` ends by asking who makes and controls that life, leading to `Release
+Control`.

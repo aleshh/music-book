@@ -41,7 +41,7 @@ after giving the reader something audible for it to name.
   possibilities. Preserve it as source material; do not rewrite it unless the
   user explicitly asks.
 - `book-map-and-outline.md` — expanded topic map, alternative architectures,
-  and provisional sixteen- and eleven-chapter outlines. This is a working
+  and provisional sixteen- and twelve-chapter outlines. This is a working
   document and may be revised when drafting reveals a better book structure.
 - `book-tracker.md` — book-wide progress, concept ownership, and use ledger for
   anecdotes, repertoire, and invented examples. Update it before and after
@@ -124,8 +124,8 @@ The current compact table of contents is provisional:
 5. Make a Harmonic World
 6. Repeat — Making Sameness Consequential
 7. Drift — Coordinating Without Locking
-8. Layer
-9. Color
+8. Layer — Turning Relationship into Form
+9. Color — Letting Sound Carry the Argument
 10. Release Control
 11. Place
 12. Discover the Form

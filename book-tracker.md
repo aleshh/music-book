@@ -73,8 +73,8 @@ existing heading.
 | 5 | Make a Harmonic World | Not started | Not started | Not started | — |
 | 6 | Repeat — Making Sameness Consequential | Complete | Complete | Drafted | Partial reader review; full editorial passes remain |
 | 7 | Drift — Coordinating Without Locking | Not started | Not started | Not started | — |
-| 8 | Layer | Not started | Not started | Not started | — |
-| 9 | Color | Not started | Not started | Not started | — |
+| 8 | Layer — Turning Relationship into Form | Complete | Complete | Drafted | Initial structural, source, overlap, musical, and voice pass complete; reader review pending |
+| 9 | Color — Letting Sound Carry the Argument | Complete | Complete | Drafted | Initial structural, source, overlap, musical, and voice pass complete; reader review pending |
 | 10 | Release Control | Not started | Not started | Not started | — |
 | 11 | Place | Not started | Not started | Not started | — |
 | 12 | Discover the Form | Not started | Not started | Not started | — |
@@ -88,6 +88,10 @@ Current chapter files:
   `chapter-notes/02-experience-time-source-ledger.md`
 - Chapter 6: `chapters/06-repeat.md`, `chapter-notes/06-repeat-brief.md`,
   `chapter-notes/06-repeat-source-ledger.md`
+- Chapter 8: `chapters/08-layer.md`, `chapter-notes/08-layer-brief.md`,
+  `chapter-notes/08-layer-source-ledger.md`
+- Chapter 9: `chapters/09-color.md`, `chapter-notes/09-color-brief.md`,
+  `chapter-notes/09-color-source-ledger.md`
 
 ## Primary ownership of ideas
 
@@ -131,13 +135,13 @@ deciding what musical claim the story will support.
 | 12 | Pärt finds a language in a two-page piece | Available | Limit or Make a Harmonic World |
 | 13 | Ravel designs `Boléro` as an experiment with almost no development | **Used—primary, Ch. 6** | Limited experiment, orchestral reassignment, crescendo, and late rupture used; Color needs another anchor or a narrowly signposted deepening |
 | 14 | Brahms turns a Bach bass into a symphonic finale | **Used—supporting, Ch. 6** | Spitta, BWV 150, the eight-measure ground, and its later use are told; harmonic/form analysis may return without retelling the provenance |
-| 15 | An audience demands an immediate repeat of Ligeti's `Atmosphères` | Available | Layer |
-| 16 | Cage prepares a piano because there is no room for percussion | Available | Limit or Color |
+| 15 | An audience demands an immediate repeat of Ligeti's `Atmosphères` | **Used—primary, Ch. 8** | “Eighty-Nine Parts, No Soloist”; the premiere story establishes that behavior at the level of mass can be immediately legible without a foreground melody |
+| 16 | Cage prepares a piano because there is no room for percussion | **Used—primary, Ch. 9** | “A Percussion Ensemble Inside One Piano”; constraint reveals a latent ensemble inside one keyboard and makes pitch inseparable from material attack and resonance |
 | 17 | Feldman composes `Rothko Chapel` for the room | Available | Place; possibly Color if the room story is reserved elsewhere |
 | 18 | `Music for 18 Musicians` runs on clock time and breath time | Available | Drift |
 | 19 | Debussy hears Javanese gamelan—and the simple influence story fails | Available | Make a Harmonic World or Color; retain the colonial-history caution |
 | 20 | Messiaen's prison-camp premiere, with the legend corrected | Available | Limit; use the correction as part of the story, not as a sidebar fact-check |
-| 21 | Meredith Monk discovers the voice can be an instrument | Available | Color |
+| 21 | Meredith Monk discovers the voice can be an instrument | **Used—primary, Ch. 9** | “The Voice Finds More Voices”; embodied vocal exploration becomes a vocabulary of attacks, registers, textures, and distinct ensemble identities |
 | 22 | Roscoe Mitchell holds a hostile crowd with one repeated phrase | **Used—primary, Ch. 6** | Opens and closes the chapter; Willisau circumstances, phrase transformations, audience exchange, and return all used |
 | 23 | Scelsi improvises; assistants turn the sound into scores | Available | Release Control; acknowledge disputed labor and authorship |
 | 24 | Feldman meets Cage in the lobby after Webern | Available | Prelude, Experience Time, or an interlude; use only if the community-of-listening idea earns the space |
@@ -147,8 +151,8 @@ deciding what musical claim the story will support.
 | 28 | Harrison and Colvig build “Old Granddad” | Available | Make a Harmonic World or Sustain; preserve collaboration and cultural context |
 | 29 | FLUX Quartet confronts Feldman's four oversized `String Quartet II` scores | **Used—primary, Ch. 2** | Opens and closes the chapter; score size, long sections, distant recurrences, performance history, and bodily scale used |
 | 30 | Kronos races the CBC midnight clock during Feldman's quartet premiere | **Used—supporting, Ch. 2** | “Midnight”; external clock, onstage watch, acceleration, and `O Canada` deadline used |
-| 31 | Patrick Shiroishi makes a changing ensemble from one saxophonist through live self-layering | Available | Favor Layer: captured past gestures become strands the present player can answer, oppose, mask, or clear; Release Control may later make a brief callback to the asymmetry of agency |
-| 32 | DJ Shadow treats a drum break as a family of nonidentical events, preserving alternate hits, decay, ambience, and performed timing | Available | Favor Color: repeated rhythmic function with varied sonic identity; the exact “dozen snares from a jazz record” version remains unverified and must not be stated as fact |
+| 31 | Patrick Shiroishi makes a changing ensemble from one saxophonist through live self-layering | **Used—primary, Ch. 8** | Opens and closes the chapter; captured past gestures become strands the present player can answer, oppose, mask, or clear. Release Control may make only a brief callback to the agency asymmetry |
+| 32 | DJ Shadow treats a drum break as a family of nonidentical events, preserving alternate hits, decay, ambience, and performed timing | **Used—primary, Ch. 9** | Opens and closes the chapter; repeated rhythmic function carries varied sonic identity. The corrected nine- and sixteen-fragment accounts are used; never restore the unverified “dozen snares from a jazz record” version |
 
 Source-bank locations:
 
@@ -182,6 +186,14 @@ job already performed, so a future return must do something else.
 | Gavin Bryars, `Jesus' Blood Never Failed Me Yet` | Ethical relation to a found, irregularly timed fragment | Do not reuse the studio anecdote; a later ending analysis may cite the work briefly if it studies different evidence |
 | Brahms, Symphony No. 4 finale | Ground as a stable support for extensive variation | A later harmonic or formal analysis is allowed; do not repeat the Bach/Spitta provenance |
 | Steve Reich, “Music as a Gradual Process” | Perceptible process, complicated by the composer's duty to judge results | Drift may develop phase with works and audible detail; do not reuse the essay as a general definition at length |
+| Patrick Shiroishi, 2024 Cafe OTO solo performance and `Forgetting Is Violent` | Ch. 8; live self-layering, unequal agency between present and captured action, gathering, clearing, and historically charged recorded voices | Release Control may briefly name the agency asymmetry; do not retell the tour, Cafe OTO sequence, or Hiroshima-survivor opening |
+| György Ligeti, `Atmosphères` | Ch. 8; eighty-nine exact parts fusing into saturated polyphony, registral rupture, and behavior at the level of mass | Color may mention the work only as a compact example of fusion; do not retell the premiere or high-to-low clearing |
+| Phill Niblock, `Early Winter` and long-tone recording practice | Ch. 8; close sustained strata, emergent interactions, and local sameness across large-scale change | Sustain may analyze beating or long tones from another work; do not repeat the approximate fifty-five-track/five-minute-comparison account |
+| DJ Shadow, `Endtroducing.....`, “The Number Song,” and “Napalm Brain” | Ch. 9; noninterchangeable drum fragments, decay, record ambience, vocal residue, and preserved drag | Repeat may briefly distinguish recurring function from recurring object; do not retell the chopping method or “air” account |
+| John Cage, `Bacchanale` and prepared piano | Ch. 9; Fort's commission and spatial constraint reveal a family of material attacks within one keyboard | Limit may refer briefly to the stage constraint but should not retell the pie-plate, nail, screw, and bolt sequence |
+| Meredith Monk, early vocal practice and `Dolmen Music` | Ch. 9; embodied timbral vocabulary, distinct ensemble voices, and color carrying provenance into DJ Shadow's work | Release Control may study ensemble collaboration from different evidence; do not retell the 1965 realization or DJ Shadow connection |
+| Arnold Schoenberg, “Farben” from `Five Pieces for Orchestra`, op. 16 | Ch. 9 supporting account of instrumental handoffs creating continuous color change over a nearly stable chord | Make a Harmonic World may discuss the chord only if harmonic evidence, not the same timbral-modulation account, is central |
+| McAdams, Goodchild, and Soden, orchestral grouping taxonomy | Chs. 8–9; perceptual distinction among parts, streams, blend, emergence, and heterogeneity; timbre covaries with pitch, effort, dynamics, and articulation | Later use should cite a new analytical problem rather than restating the general grouping principles |
 
 ## Invented examples and exercises already used
 
@@ -200,10 +212,17 @@ job already performed, so a future return must do something else.
 | Ten Returns | Ch. 6 exercise; recognition, redirected attention, and the absent eleventh statement | Do not duplicate the missing-event device in another exercise |
 | Calm and Pressure | Ch. 6 exercise; same cell, contrasting affect through other parameters | May be referenced as a general principle, not assigned again |
 | A Repeating Condition | Ch. 6 ensemble exercise; modules, shared reference, proximity, listening behavior, ending | Release Control should devise a different agency problem |
+| Three performers: low sustained tone, high three-note figure, and soft tremor | Ch. 8, “Parts, Streams, and Layers”; separates written parts, auditory streams, and formal layers by changing register, attack, and common motion | Do not reuse this three-role configuration as a general texture example |
+| Bass clarinet, violin harmonic, and alto voice across an empty middle register | Ch. 8, “Register Draws the Field”; a third strand bridges or screens two registral distances | Register examples in harmony or orchestration chapters should use different forces and a different problem |
+| When Two Become One; Mask Without Muting; Archive and Answer | Ch. 8 exercises; perceptual fusion, relational concealment, and live or delegated preservation of past action | Do not duplicate the fusion-threshold, continuous-hidden-layer, or archived-self mechanisms |
+| Middle C as an underspecified sounding action | Ch. 9, “A Note Is Not Its Name”; pitch notation does not contain attack, bloom, continuation, release, and resonance | Sustain may deepen one stage acoustically but should not reopen with the written-middle-C contrast |
+| Four equal notes with dry attacks versus overlapping decays | Ch. 9, “Articulation Gives Time an Edge”; articulation changes whether a rhythm is heard as points or a continuous body | Do not reuse this fixed-onset comparison in another exercise |
+| One Note, Several Bodies; A Family of Attacks; A Three-Part Color Form | Ch. 9 exercises; embodied variation, noninterchangeable recurring events, and blend-to-resistance-to-return | Do not duplicate these mechanisms; Release Control should make performer choice, not timbral transformation, the central problem |
 
 ## Before drafting the next chapter
 
-- [ ] Read `Voice`, the outline, this tracker, and Chapter 6's boundary notes.
+- [ ] Read `Voice`, the outline, this tracker, and the boundary notes from the
+      nearest drafted chapters.
 - [ ] State the chapter's one central question and the concepts it owns.
 - [ ] Search existing prose for each proposed composer, work, anecdote, pitch
   example, metaphor, and exercise mechanism.
@@ -243,3 +262,30 @@ job already performed, so a future return must do something else.
 - The CBC midnight story discovered during verification is now anecdote 30 and
   has one supporting use in Chapter 2.
 - No accidental reuse of a researched anecdote or invented example was found.
+
+## Latest post-draft audit: Chapters 8 and 9
+
+- Completed 2026-08-06: structural, coverage, musical, source, voice, momentum,
+  continuity, name/work overlap, and exercise-mechanism scans.
+- Chapter 8 owns relations among strands: separation, fusion, masking, density,
+  register, saturation, clearing, and residue. Chapter 9 owns the internal
+  identity of an event: attack, continuation, decay, articulation, dynamics,
+  blend, resistance, and timbral trajectory.
+- The short return to foreground roles in Chapter 8 deliberately deepens the
+  boundary established in Chapter 1; it does not retell the earlier theory of
+  attention or reuse its viola-and-flute example.
+- Ligeti and Niblock remain distinct: precise active lines saturate into mass in
+  `Atmosphères`, while close sustained strata make interaction itself the event
+  in Niblock's practice.
+- The DJ Shadow chapter uses only the verified break-chopping account. It
+  explicitly withholds the unsupported jazz-source and dozen-snares details.
+- Cage's `Bacchanale` story now belongs to Color. Limit may mention the spatial
+  constraint only in passing and should choose another main account of
+  constraint.
+- The Meredith Monk–DJ Shadow connection is used once to show that timbre
+  carries provenance across contexts, not as a second anecdotal reveal.
+- The narrow technology exception proved sufficient: devices and sampled
+  operations are named only where they create audible questions of memory,
+  decay, timing, identity, and agency.
+- No structural merge or split is required. Color's ending now points directly
+  toward Release Control.
