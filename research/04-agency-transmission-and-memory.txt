@@ -1,0 +1,229 @@
+ANECDOTE BANK 04: AGENCY, TRANSMISSION, AND MEMORY
+Working research notes for a book on ambient and minimalist musical practice
+
+These stories ask who makes a work: composer, performer, audience, room,
+assistant, accident, or memory. Several concern music whose identity cannot be
+located in a complete conventional score.
+
+==========================================================================
+22. ROSCOE MITCHELL HOLDS A HOSTILE CROWD WITH ONE REPEATED PHRASE
+
+Musical idea: Repetition can be confrontation, negotiation, and collective
+form—not only contemplation.
+
+At the Willisau Jazz Festival on August 28, 1976, Roscoe Mitchell substituted
+for Anthony Braxton at short notice. Some members of the audience of roughly a
+thousand greeted him with catcalls and demands for Braxton. Mitchell began
+Nonaah with a short, angular saxophone phrase and repeated it insistently. The
+crowd's noise became part of the event: each return of the phrase refused to be
+dislodged, while small changes in accent, pacing, register, and extension made
+the repetition an active response rather than a loop. Mitchell later explained
+that the music could not move forward until the audience respected his right
+to play. Over a long span, hostility gave way to concentrated listening and an
+ovation. Minimal material here becomes a boundary held in public. Persistence
+changes both the phrase and the people hearing it.
+
+Verification: STRONG. The performance is recorded, and George Lewis's
+recollection, Mitchell's comments, festival details, and close scholarly
+analysis align. Exact estimates of elapsed time and crowd size vary, so the
+account avoids stopwatch precision. The audience did not act as one body;
+“some members” is more accurate than calling the entire room hostile.
+
+Sources:
+- Music Theory Online, Paul Steinbeck's analysis of the Willisau Nonaah
+  https://mtosmt.org/issues/mto.16.22.3/mto.16.22.3.steinbeck.html
+- New World Records, Roscoe Mitchell liner notes
+  https://nwr-site-liner-notes.s3.amazonaws.com/sa029.pdf
+
+==========================================================================
+23. SCELSI IMPROVISES; ASSISTANTS TURN THE SOUND INTO SCORES
+
+Musical idea: Composition may pass through listening, performance, memory, and
+collaboration before it reaches notation.
+
+From the 1950s onward, Giacinto Scelsi often developed music by improvising,
+recording the results, and having assistants transcribe and orchestrate them.
+He then revised or approved the scores. This working method helps explain why
+his mature pieces can feel organized around the life of a sound rather than a
+sequence of symbols: pitch bends, beating, register, dynamics, and changing
+overtone color are primary events. It also complicates the romantic picture of
+the composer alone. Transcription was interpretive. Assistants brought ears,
+instrumental knowledge, and notational choices to material that no page could
+capture automatically. The book could use Scelsi to ask a generative question:
+what if a score is a negotiated memory of a sounding event rather than its
+origin?
+
+Verification: STRONG for the recorded-improvisation and assistant-transcription
+workflow, supported by archival and scholarly research. CAUTION on authorship.
+Accounts differ about how much particular assistants contributed and whether
+Scelsi's public mystique obscured them. The fair formulation neither dismisses
+Scelsi's compositional judgment nor erases collaborative labor. The popular
+story that a mental crisis led him simply to play one piano note for hours is
+too unstable to serve as the evidence for his method.
+
+Sources:
+- Fondazione Giorgio Cini, archival study of Scelsi's compositional process
+  https://onlinepublishing.cini.it/index.php/arno/article/view/202
+- Cambridge University Press, “Orality and Rhetoric in Scelsi's Music”
+  https://www.cambridge.org/core/journals/twentieth-century-music/article/abs/orality-and-rhetoric-in-scelsis-music/103BB11FF35E4E9F587E8E597B21B251
+- Music Analysis, study of Scelsi's creative process
+  https://onlinelibrary.wiley.com/doi/10.1111/j.1468-2249.2012.00336.x
+
+==========================================================================
+24. FELDMAN MEETS CAGE IN THE LOBBY AFTER WEBERN
+
+Musical idea: A shared way of listening can found a community before it founds
+an aesthetic program.
+
+In early 1950, Morton Feldman attended a New York Philharmonic concert at
+Carnegie Hall that included Webern's Symphony, Op. 21, conducted by Dimitri
+Mitropoulos. At intermission he went to the lobby, where John Cage approached
+and asked what he had thought of Webern. The encounter began a close friendship
+and an association with the circle later called the New York School. The small
+scene matters because Webern's compressed scale and exquisitely exposed sounds
+acted almost like a password: before Cage and Feldman agreed on procedures,
+they recognized a common intensity of listening. A creative movement can begin
+not with a manifesto but with two people noticing that the same unlikely music
+has altered the proportions of everything around it.
+
+Verification: STRONG for the Carnegie Hall lobby meeting, the Webern work, and
+the ensuing friendship, based on Feldman's recollection and archival scholarship.
+CAUTION on a popular embellished version in which both men independently flee
+the hall because nothing after Webern can be heard. Feldman's documented account
+places their conversation at intermission and does not require that neat image.
+
+Sources:
+- University at Buffalo Music Library, Morton Feldman archival summary
+  https://library2.buffalo.edu/music/collections/pdf/ubmu-pdf-feldman2006summary.pdf
+- Modernism/modernity Print Plus, scholarly account of Cage and Feldman
+  https://modernismmodernity.org/node/1398
+
+==========================================================================
+25. STAY ON IT SURVIVES AS INSTRUCTIONS, RECORDINGS, AND PEOPLE
+
+Musical idea: A work can retain identity through a network of partial memories
+rather than a definitive page.
+
+Julius Eastman's Stay On It, first developed in the 1970s, combines a bright
+repeating figure with conducted cues, modules, improvisation, and moments of
+collective release. No complete conventional score survives. Musicians who knew
+the work have described sparse written materials—closer to a lead sheet or
+page of cues—with crucial information communicated orally in rehearsal.
+Contemporary performers reconstruct it from surviving notation, recordings,
+scholarship, and the memories of people connected to Eastman's practice. This
+does not make every realization arbitrary. The repeated figure, sectional
+behaviors, and social energy remain powerful identifiers. Stay On It can
+therefore illuminate a living model of form: exact in its commitments, flexible
+in its surface, and distributed across a community of transmission.
+
+Verification: STRONG for the incomplete surviving notation and the importance
+of verbal/rehearsal transmission, supported by score archives, performer
+accounts, publisher material, and scholarship. CAUTION when assigning a single
+“correct” historical version. Eastman changed pieces in performance, and modern
+editions necessarily make editorial decisions. Those decisions should be named
+rather than disguised as recovery of a lost final text.
+
+Sources:
+- Mary Jane Leach, Julius Eastman scores and archival information
+  https://www.mjleach.com/EastmanScores.htm
+- WRTI/NPR, account of Wild Up reconstructing Stay On It
+  https://www.wrti.org/latest-classical-from-npr-music/latest-classical-from-npr-music/2022-05-18/wild-up-stay-on-it
+- Wise Music Classical, Eastman work and performance background
+  https://www.wisemusicclassical.com/work/57875/Femenine--Julius-Eastman/
+- University of Wisconsin dissertation on Julius Eastman
+  https://asset.library.wisc.edu/1711.dl/V6T5OMFH67UO69A/R/file-5f598.pdf
+
+==========================================================================
+26. ALVIN LUCIER LETS A ROOM SMOOTH HIS SPEECH
+
+Musical idea: A process can be simple enough to hear while producing a result
+too complex to predict.
+
+In I Am Sitting in a Room (1969), Alvin Lucier speaks a short text in a room,
+then repeatedly returns the room's response to itself. With each generation,
+the speech becomes less intelligible and the resonant frequencies of the space
+become more prominent, until cadence and vowel traces dissolve into a shimmering
+chord. Lucier's text openly announces the process and adds a personal purpose:
+he wants to smooth out irregularities in his speech. He stuttered, and the work
+neither hides the stutter nor turns it into confession. The room gradually
+translates it into resonance. This creates an unusually transparent drama: the
+listener knows what will happen in principle but cannot know the exact route or
+sound, because every voice and room supplies different material.
+
+Verification: STRONG. The 1969 work, Lucier's score-text, his first-person
+accounts, and Museum of Modern Art documentation agree on the procedure and his
+reference to speech irregularity. A technical account can distract from the
+musical idea; for this book, one sentence about the method is enough, followed
+by attention to the audible transformation, pacing, and ethics of self-exposure.
+
+Sources:
+- Museum of Modern Art, “Collecting Alvin Lucier's I Am Sitting in a Room”
+  https://www.moma.org/explore/inside_out/2015/01/20/collecting-alvin-luciers-i-am-sitting-in-a-room/
+- IRCAM, Alvin Lucier work chronology
+  https://brahms.ircam.fr/en/composer/alvin-lucier/workcourse
+- MIT Music and Theater Arts, interview with Alvin Lucier
+  https://mta.mit.edu/video/interview-alvin-lucier
+
+==========================================================================
+27. GAVIN BRYARS RETURNS TO FIND AN OFFICE SILENCED BY A SINGER
+
+Musical idea: Repetition can reveal the dignity and completeness of a fragment
+without “improving” it.
+
+In 1971, filmmaker Alan Power gave Gavin Bryars unused recordings from a film
+about people living rough in London. One unnamed man sang a brief religious
+song, “Jesus' Blood Never Failed Me Yet,” in tune but with an irregular pulse.
+Bryars made a repeating cycle of the approximately thirteen-bar song while
+working at Leicester. He has recalled leaving the adjoining art studio for
+coffee and returning to find the normally lively room quiet; some people were
+weeping as the unaccompanied voice repeated. Bryars then built a slowly growing
+accompaniment that follows rather than corrects the singer. The fragment's
+uneven timing remains sovereign. The composer changes the surrounding light,
+not the person at the center.
+
+Verification: STRONG for the recording's origin, Bryars's receipt of it, the
+loop, and the gradually evolving composition. Bryars never met the singer, a
+fact that corrects many retellings. CAUTION: the art-studio reaction is Bryars's
+own vivid recollection and lacks a known independent eyewitness account. It is
+fair to tell it explicitly as his memory, not as externally corroborated fact.
+
+Sources:
+- Gavin Bryars interview, Now Then Magazine
+  https://nowthenmagazine.com/articles/gavin-bryars-never-failed-me-yet
+- The Guardian, correction concerning the unidentified singer
+  https://www.theguardian.com/music/2018/jun/20/homeless-mystery-jesus-blood-never-failed-me-yet-gavin-bryars
+- Gavin Bryars, official note on the work's flexible orchestration
+  https://gavinbryars.com/post/full-orchestra-version-of-jesus-blood
+
+==========================================================================
+28. LOU HARRISON AND WILLIAM COLVIG BUILD “OLD GRANDDAD”
+
+Musical idea: Tuning and timbre can grow together from the materials at hand.
+
+In 1971, Lou Harrison and his partner William Colvig began building an ensemble
+they called an American gamelan and later “Old Granddad.” Its sounding bodies
+included aluminum slabs, conduit, oxygen tanks, and resonators made from cans
+and other readily available material. Colvig's craft and Harrison's tuning
+ideas were equally fundamental: these were not neutral found objects but parts
+shaped into a coherent, justly tuned musical world. The ensemble let Harrison
+compose harmony, resonance, and instrumental construction as one activity.
+For a methodology book, the point is not picturesque thrift. It is that a
+tuning system becomes tangible when each interval has a weight, decay, and
+physical source, and that making an ensemble can itself be composition.
+
+Verification: STRONG for the 1971 collaboration, nickname, materials, and
+tuning, documented by archival programs and Harrison interviews. CULTURAL
+CAUTION: Harrison deliberately called it an American gamelan, distinguishing
+it from Indonesian instruments, and later studied Javanese practice more
+deeply. The ensemble should be discussed as a cross-cultural invention with a
+specific history, not as an inexpensive equivalent to “authentic” gamelan or
+as evidence that Indonesian traditions are merely a collection of timbres.
+
+Sources:
+- Other Minds, Lou Harrison and American gamelan archival program
+  https://www.otherminds.org/wp-content/uploads/2017/08/om22program_lorez.pdf
+- New Music USA, “Lou Harrison: Renaissance Man”
+  https://newmusicusa.org/nmbx/view-from-the-west-lou-harrison-renaissance-man-a-model-for-the-next-generation/
+- American Mavericks, interview with Lou Harrison
+  https://musicmavericks.publicradio.org/features/interview_harrison.html
+
