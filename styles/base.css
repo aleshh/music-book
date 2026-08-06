@@ -1,0 +1,160 @@
+/*
+  Shared typography for PDF and EPUB.
+
+  Change the first available family in each stack to change the book's fonts.
+  Licensed local fonts can also be declared with @font-face; see BUILDING.md.
+*/
+
+:root {
+  --book-serif: "Adobe Caslon Pro", "Iowan Old Style", Palatino, Georgia, serif;
+  --book-sans: "Cooper Hewitt", "Avenir Next", "Helvetica Neue", sans-serif;
+  --body-size: 1rem;
+  --body-leading: 1.55;
+  --text-color: #171717;
+  --muted-color: #5c5c5c;
+  --rule-color: #b9b5ad;
+  --link-color: #315a70;
+}
+
+html {
+  color: var(--text-color);
+  font-family: var(--book-serif);
+  font-size: var(--body-size);
+  font-kerning: normal;
+  font-variant-ligatures: common-ligatures;
+  line-height: var(--body-leading);
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+  orphans: 3;
+  text-indent: 1.25em;
+  widows: 3;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  break-after: avoid;
+  font-family: var(--book-sans);
+  font-weight: 600;
+  hyphens: none;
+  line-height: 1.15;
+  page-break-after: avoid;
+}
+
+h1 {
+  font-size: 2rem;
+  letter-spacing: -0.015em;
+  margin: 0 0 0.45em;
+}
+
+h2 {
+  font-size: 1.28rem;
+  letter-spacing: 0.005em;
+  margin: 2.35em 0 0.7em;
+}
+
+h3 {
+  font-size: 1.05rem;
+  margin: 1.8em 0 0.6em;
+}
+
+h1 + h2 {
+  color: var(--muted-color);
+  font-family: var(--book-serif);
+  font-size: 1.16rem;
+  font-style: italic;
+  font-weight: 400;
+  margin: -0.25em 0 2.2em;
+}
+
+h1 + p,
+h2 + p,
+h3 + p,
+blockquote + p,
+ol + p,
+ul + p,
+.chapter-notes p {
+  text-indent: 0;
+}
+
+a {
+  color: var(--link-color);
+  text-decoration-thickness: 0.06em;
+  text-underline-offset: 0.12em;
+}
+
+blockquote {
+  border-left: 0.12em solid var(--rule-color);
+  color: #3f3f3f;
+  margin: 1.5em 1.25em;
+  padding-left: 1em;
+}
+
+blockquote p {
+  text-indent: 0;
+}
+
+ol,
+ul {
+  margin: 1em 0 1.3em;
+  padding-left: 1.6em;
+}
+
+li {
+  margin-bottom: 0.35em;
+}
+
+li p {
+  text-indent: 0;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--rule-color);
+  margin: 2.5em auto;
+  width: 35%;
+}
+
+code {
+  font-size: 0.9em;
+}
+
+.note-ref {
+  font-family: var(--book-sans);
+  font-size: 0.72em;
+  line-height: 0;
+}
+
+.note-ref a {
+  text-decoration: none;
+}
+
+.chapter-notes {
+  font-size: 0.86em;
+  line-height: 1.4;
+}
+
+.chapter-notes ol {
+  padding-left: 1.85em;
+}
+
+.chapter-notes li {
+  margin-bottom: 0.75em;
+}
+
+.chapter-notes a[href^="#chapter-note-ref-"] {
+  font-family: var(--book-sans);
+  font-size: 0.78em;
+  margin-left: 0.25em;
+  text-transform: uppercase;
+}
