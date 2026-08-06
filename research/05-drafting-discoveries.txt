@@ -1,0 +1,89 @@
+ANECDOTE BANK 05: DISCOVERIES MADE WHILE DRAFTING
+Working research notes for a book on ambient and minimalist musical practice
+
+This bank receives stories discovered during chapter-led research. Its numbering
+continues the original four research banks so every anecdote retains a stable ID.
+
+=========================================================================
+29. FOUR OVERSIZED SCORES ASK A QUARTET TO EXPERIENCE MUSICAL SCALE
+
+Musical idea: Extreme duration reorganizes formal memory and makes performers'
+bodies part of a work's timescale.
+
+Morton Feldman wrote String Quartet II in 1983 on a commission from the Canadian
+Broadcasting Corporation, and the Kronos Quartet gave the premiere. The notated
+work was so large that early performances were cut, and Feldman never heard a
+complete realization. A member of the FLUX Quartet remembers receiving four
+thick, bound, oversized scores about three months before the ensemble's 1999
+landmark complete performance at Cooper Union. In the score, a cell may repeat
+as many as thirteen times; a section may last fifteen minutes; and recognizable
+material may return after an hour. The
+musicians cannot depend on the scale of formal memory used for an ordinary
+quartet movement.
+
+The duration is also physical. In 1996 Kronos cancelled a planned performance
+after rehearsals produced serious back and shoulder problems. FLUX has since
+performed the complete work repeatedly, sometimes taking more than six hours.
+The point is not that pain certifies artistic seriousness. It is that a duration
+of this scale belongs to arms, backs, concentration, and institutional schedules
+as surely as it belongs to harmony and motive. A composer who changes musical
+scale also changes the conditions under which the music can be carried.
+
+Verification: STRONG for the 1983 commission and premiere, the variable
+duration, the cut early performances, FLUX's 1999 complete performance, the
+performer's description of the scores and long recurrences, and Kronos's 1996
+cancellation. CONTESTED for the frequent claim that FLUX gave the first complete
+performance: later performance-history research indicates an uncut Auryn
+Quartet performance may have occurred in 1996 and other complete performances
+preceded FLUX during 1999. CAUTION on giving one definitive duration: the score
+permits a range, tempos differ, and accounts do not always distinguish cut and
+complete performances.
+
+Sources:
+- FLUX Quartet, account and performance history:
+  https://www.fluxquartet.com/feldman2.html
+- Mode Records, recording history and notes:
+  https://moderecords.com/catalog/112feldmancd/
+- IRCAM work record:
+  https://ressources.ircam.fr/en/work/string-quartet-ii
+- Universal Edition work page:
+  https://www.universaledition.com/en/String-Quartet-Nr.-2/P0001744
+- Original 1983 concert program:
+  https://www.newmusicconcerts.com/wp-content/uploads/2021/06/December-4-1983-Concert-Program-1.pdf
+- Contemporary report of the 1996 cancellation:
+  https://www.deseret.com/1996/8/25/19262220/kronos-quartet-cancels-feldman-date/
+- Nicholas W. Miskey, performance-history caution:
+  https://dspace.library.uvic.ca/server/api/core/bitstreams/71a4f3f9-fb4c-43f2-86e7-570b873cd248/content
+
+=========================================================================
+30. A NATIONAL BROADCAST CLOCK SPEEDS UP FELDMAN'S QUARTET
+
+Musical idea: An external clock can alter the musical duration it supposedly
+only measures.
+
+At the 1983 Toronto premiere of Morton Feldman's `String Quartet II`, the Kronos
+Quartet faced a peculiar constraint. David Harrington later recalled that the
+CBC broadcast had to finish at exactly midnight, when `O Canada` was scheduled
+to begin. The players brought a watch onstage, cast worried glances at it as the
+hours passed, and accelerated enough to finish the cut version in just under
+four hours.
+
+The anecdote separates clock duration from musical scale with unusual clarity.
+The broadcast schedule was not an innocent container around the performance.
+Because the players had to obey it, the clock changed their tempo and therefore
+the music it was timing.
+
+Verification: STRONG as David Harrington's retrospective first-person account,
+quoted in a scholarly thesis that identifies its original publication. The
+original 1983 program and IRCAM independently verify the commission, date,
+place, and performers. Keep “just under four hours” attached to this particular
+cut performance, not to the work's general duration.
+
+Sources:
+- Nicholas W. Miskey, `Elusive Quartet, Imaginary Songs`, pp. 7–8, quoting
+  David Harrington, “Morton Feldman: String Quartet II”:
+  https://dspace.library.uvic.ca/server/api/core/bitstreams/71a4f3f9-fb4c-43f2-86e7-570b873cd248/content
+- IRCAM work record:
+  https://ressources.ircam.fr/en/work/string-quartet-ii
+- Original 1983 concert program:
+  https://www.newmusicconcerts.com/wp-content/uploads/2021/06/December-4-1983-Concert-Program-1.pdf

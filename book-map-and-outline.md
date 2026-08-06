@@ -736,8 +736,8 @@ how recurring parts remain related when they cease to share one clock.
 
 That yields a twelve-chapter book:
 
-1. Attend
-2. Experience Time
+1. Attend — Composing the Listener's Notice
+2. Experience Time — Making Duration Perceptible
 3. Limit
 4. Sustain
 5. Make a Harmonic World
@@ -751,3 +751,9 @@ That yields a twelve-chapter book:
 
 This twelve-chapter version is the current working table of contents. The
 sixteen-chapter version remains useful as a complete map from which to select.
+
+Drafting Chapters 1 and 2 confirmed the `Wait + Remember` merge. `Attend` now
+owns the movement among focal, peripheral, and distributed notice, while
+`Experience Time` owns clock time, felt passage, remembered span, anticipation,
+and endurance. The boundary keeps later chapters on Place and Sustain from
+becoming second general theories of attention or duration.

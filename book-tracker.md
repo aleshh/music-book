@@ -65,8 +65,8 @@ existing heading.
 
 | No. | Working chapter | Brief | Source ledger | Draft | Editorial state |
 |---:|---|---|---|---|---|
-| 1 | Attend | Not started | Not started | Not started | — |
-| 2 | Experience Time | Not started | Not started | Not started | — |
+| 1 | Attend | Complete | Complete | Drafted | Initial structural, source, overlap, and voice pass complete; reader review pending |
+| 2 | Experience Time | Complete | Complete | Drafted | Initial structural, source, overlap, and voice pass complete; reader review pending |
 | 3 | Limit | Not started | Not started | Not started | — |
 | 4 | Sustain | Not started | Not started | Not started | — |
 | 5 | Make a Harmonic World | Not started | Not started | Not started | — |
@@ -78,11 +78,15 @@ existing heading.
 | 11 | Place | Not started | Not started | Not started | — |
 | 12 | Discover the Form | Not started | Not started | Not started | — |
 
-Current files for Chapter 6:
+Current chapter files:
 
-- Draft: `chapters/06-repeat.md`
-- Brief: `chapter-notes/06-repeat-brief.md`
-- Evidence: `chapter-notes/06-repeat-source-ledger.md`
+- Chapter 1: `chapters/01-attend.md`, `chapter-notes/01-attend-brief.md`,
+  `chapter-notes/01-attend-source-ledger.md`
+- Chapter 2: `chapters/02-experience-time.md`,
+  `chapter-notes/02-experience-time-brief.md`,
+  `chapter-notes/02-experience-time-source-ledger.md`
+- Chapter 6: `chapters/06-repeat.md`, `chapter-notes/06-repeat-brief.md`,
+  `chapter-notes/06-repeat-source-ledger.md`
 
 ## Primary ownership of ideas
 
@@ -113,13 +117,13 @@ deciding what musical claim the story will support.
 | ID | Anecdote | Status | Likely home or next decision |
 |---:|---|---|---|
 | 1 | Cage hears two sounds in an anechoic chamber | Available | Attend; choose against or carefully distinguish from the `4'33"` weather story |
-| 2 | The first audience for `4'33"` listens to weather | Available | Attend, with Place as a possible brief callback |
-| 3 | Eno's quiet harp record mingles with rain | Available | Place; likely useful for defining ambient as a listening relation |
+| 2 | The first audience for `4'33"` listens to weather | **Used—primary, Ch. 1** | “A Frame in Three Movements”; Place may make a brief callback without retelling the premiere |
+| 3 | Eno's quiet harp record mingles with rain | **Used—primary, Ch. 1** | “The Harp and the Rain”; do not retell the origin story in Place |
 | 4 | A forty-five-second reverberation gives Deep Listening its name | Available | Place or Sustain; do not reduce Oliveros's practice to the cistern alone |
 | 5 | La Monte Young listens to wind and telephone poles | Available | Sustain |
 | 6 | Takemitsu hears a forbidden love song during wartime | Available | Attend or the prelude; requires historical care |
 | 7 | `Inuksuit` lets a landscape enter the piece | Available | Place |
-| 8 | Satie asks an audience not to listen | Available | Attend or Place; distinct from the `Vexations` story already used |
+| 8 | Satie asks an audience not to listen | **Used—primary, Ch. 1** | Opens and closes the chapter; instructions, audience silence, and Satie's appeals all used |
 | 9 | `Vexations` becomes an eighteen-hour community | **Used—primary, Ch. 6** | Full 1963 realization told in “Eight Hundred and Forty”; do not retell |
 | 10 | Riley finds `In C` on a bus; Reich adds the pulse | **Used—primary, Ch. 6** | Bus, early rehearsal, pulse, and proximity rule all used; later chapters may analyze different ensemble behavior without retelling |
 | 11 | Eastman explains organic music before `Gay Guerrilla` | **Used—primary, Ch. 6** | Organic form, title, accumulation, hymn, and pressure used; choose another Eastman work for a new large encounter |
@@ -140,6 +144,8 @@ deciding what musical claim the story will support.
 | 26 | Lucier lets a room smooth his speech | Available | Sustain, with Place as a possible callback; the room process should be told once |
 | 27 | Bryars returns to find an office silenced by a singer | **Used—primary, Ch. 6** | Recording origin, unidentified singer, flexible cycle, accompaniment, and Bryars's remembered studio response used; do not retell |
 | 28 | Harrison and Colvig build “Old Granddad” | Available | Make a Harmonic World or Sustain; preserve collaboration and cultural context |
+| 29 | FLUX Quartet confronts Feldman's four oversized `String Quartet II` scores | **Used—primary, Ch. 2** | Opens and closes the chapter; score size, long sections, distant recurrences, performance history, and bodily scale used |
+| 30 | Kronos races the CBC midnight clock during Feldman's quartet premiere | **Used—supporting, Ch. 2** | “Midnight”; external clock, onstage watch, acceleration, and `O Canada` deadline used |
 
 Source-bank locations:
 
@@ -147,14 +153,23 @@ Source-bank locations:
 - 8–14: `research/02-repetition-process-and-form.txt`
 - 15–21: `research/03-texture-timbre-and-embodiment.txt`
 - 22–28: `research/04-agency-transmission-and-memory.txt`
+- 29 onward: `research/05-drafting-discoveries.txt`
 
-## Repertoire and authority already used in Chapter 6
+## Repertoire and authority already used in drafted chapters
 
 This table is stricter than a name index. It records the particular analytical
 job already performed, so a future return must do something else.
 
-| Person or work | Chapter 6 job | Rule for a future appearance |
+| Person or work | Chapter and analytical job | Rule for a future appearance |
 |---|---|---|
+| Erik Satie and Darius Milhaud, `musique d'ameublement` | Ch. 1 opening and return; the concert frame defeats an instruction to let music recede | Do not retell the gallery episode; Place may study public setting through different evidence |
+| John Cage, `4'33"` | Ch. 1 contrast; a frame redirects notice toward unintended sound | Do not retell the premiere or wind/rain sequence; later chapters may analyze another work or a narrowly different consequence |
+| Brian Eno, harp-and-rain account and `Music for Airports` | Ch. 1; disputed origin account and music that tolerates departure and return | Do not retell the convalescence story; Place should prefer another work or a clearly distinct site question |
+| Pauline Oliveros, Deep Listening and `Tuning Meditation` | Ch. 1; focal, global, and distributed attention as ensemble actions | The cistern story remains unused for Place or Sustain; do not rebuild the attentional-width explanation |
+| Morton Feldman, `String Quartet II` | Ch. 2 main frame; scale, uncertain memory, external clocks, and bodily duration | Do not retell the score packages, CBC deadline, or Kronos cancellation; a later form chapter may make a brief, signposted callback |
+| Morton Feldman, `Triadic Memories` | Ch. 2 supporting account of deliberately disoriented formal memory | Do not repeat the forgotten-chord account; use another work for a new major Feldman encounter |
+| Éliane Radigue, `Trilogie de la Mort` | Ch. 2; gradual transformation recognized retrospectively | Sustain may analyze the sound's acoustical interior without retelling the trilogy's dates or temporal argument |
+| Olivier Messiaen, `Abîme des oiseaux` | Ch. 2; contrasting breath-and-silence time with rapid birdsong time | Limit retains the prison-camp premiere story; do not reuse this movement there as the main analysis |
 | Roscoe Mitchell, `Nonaah` | Main narrative frame; repetition changes material, audience relation, and context | Brief cross-reference only unless new musical evidence is analyzed |
 | Erik Satie, `Vexations` | Duration transfers form from page to bodies and social time | Do not repeat the 1963 relay story; Experience Time may refer back to its perceptual scale |
 | Terry Riley, `In C` | Bounded performer freedom inside a shared pulse and ordered modules | Drift or Release Control may analyze another temporal/social feature, explicitly acknowledging the earlier account |
@@ -168,6 +183,13 @@ job already performed, so a future return must do something else.
 
 | Material | Location and purpose | Reuse rule |
 |---|---|---|
+| A–E middle-register field with one high B | Ch. 1, “What Calls the Ear”; relative salience through rarity and register | Do not reuse this pitch field in another chapter |
+| Sustained viola G–D beneath a flute | Ch. 1, “Foreground Is a Job”; roles change without volume or material changing | Layer may use a more developed and differently scored relation, not this example |
+| Three Widths of Attention; Foreground Without Force; Permit the Exit | Ch. 1 exercises; attentional scale, salience, and recoverability | Do not duplicate these mechanisms; Place should create a site-dependent exercise |
+| Three equal one-minute passages | Ch. 2, “Six Hours Is Not a Tempo”; separates length, tempo, event rate, and change rate | Do not reopen another chapter with equal clock-span comparisons |
+| Nine attacks across four minutes | Ch. 2 main example and exercise; event rate, magnitude, spacing, and segmentation | Do not reuse a fixed attack-count study elsewhere |
+| Unequal chord counts and one altered return | Ch. 2, `Triadic Memories`; imperfect formal memory | Repeat is already drafted; later exercises should not imitate this counting device |
+| Continuous transformation between two states | Ch. 2 Radigue analysis and exercise; retrospective recognition without a boundary | Sustain may focus on acoustical content, not repeat the no-identifiable-crossing exercise |
 | Repeated low D with an expected attack withheld | Ch. 6, “Same Sound, Different Event”; occurrence becomes relation and expectation | Do not reopen another chapter with this example |
 | C–E–D over C, A, and no bass | Ch. 6, “Where Change Can Go”; unchanged material gains new harmonic action | Reserve new pitch material for the harmony chapter |
 | Three-beat figure, four-beat bass, sixteen-measure span | Ch. 6, “How Large Is ‘Again’?”; nested cycles and crossing boundaries | Drift may briefly recall it, but should build a more developed asynchronous example |
@@ -200,3 +222,20 @@ job already performed, so a future return must do something else.
   duplication; revise accidental duplication.
 - [ ] Update the chapter-progress row and any changed concept ownership.
 - [ ] Record structural consequences in `book-map-and-outline.md`.
+
+## Latest post-draft audit: Chapters 1 and 2
+
+- Completed 2026-08-05: source, structure, voice, scope, continuity, and
+  name/work overlap scans.
+- The appearances of Satie in Chapters 1 and 6 are deliberate and use different
+  works, events, and arguments: social listening in `musique d'ameublement`
+  versus bodily/social scale in `Vexations`.
+- Chapter 1 defers the general account of place, acoustics, density, and
+  performer agency. Chapter 2 defers drone acoustics, phase, and the Messiaen
+  prison-premiere account.
+- A check of the performance history corrected the “first complete FLUX
+  performance” claim to “landmark complete performance” and records the
+  possibility of earlier uncut performances.
+- The CBC midnight story discovered during verification is now anecdote 30 and
+  has one supporting use in Chapter 2.
+- No accidental reuse of a researched anecdote or invented example was found.

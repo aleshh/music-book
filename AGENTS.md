@@ -54,6 +54,8 @@ after giving the reader something audible for it to name.
 - `research/04-agency-transmission-and-memory.txt` — verified anecdotes
   concerning Mitchell, Scelsi, Cage and Feldman, Eastman, Lucier, Bryars, and
   Harrison.
+- `research/05-drafting-discoveries.txt` — verified anecdotes discovered during
+  chapter-led research, continuing the stable numbering of the original banks.
 
 The research files are a source bank, not finished prose. Recheck their source
 links before making a claim more exact than the note itself.
