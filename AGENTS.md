@@ -39,6 +39,9 @@ after giving the reader something audible for it to name.
 - `book-map-and-outline.md` — expanded topic map, alternative architectures,
   and provisional sixteen- and eleven-chapter outlines. This is a working
   document and may be revised when drafting reveals a better book structure.
+- `book-tracker.md` — book-wide progress, concept ownership, and use ledger for
+  anecdotes, repertoire, and invented examples. Update it before and after
+  every full chapter draft.
 - `Voice` — canonical author persona and prose guide. Read it before outlining,
   drafting, or revising a chapter. When local chapter prose conflicts with it,
   `Voice` wins unless the user requests a new direction.
@@ -198,6 +201,19 @@ practices, routes of encounter, and historical power. Never use gamelan, raga,
 chant, Indigenous practice, or African rhythmic traditions as anonymous sources
 of atmosphere or technique.
 
+Consult `book-tracker.md` before assigning an anecdote or example. An anecdote
+normally receives one full telling. Composers are not single-use, and works may
+return when a later passage analyzes different musical evidence. Log the reason
+for every planned return so recurrence is deliberate rather than accidental.
+
+When the user supplies a new anecdote, idea, work, metaphor, objection, or
+personal note, add it first to the incoming-material queue in
+`book-tracker.md`. Preserve any attribution or source the user provides,
+identify the musical function it could serve, check it against prior use, and
+recommend its best chapter home. Hold material that has no earned place rather
+than forcing it into the current draft. Verify factual claims before moving an
+item into publication-quality prose.
+
 ## Research and fact-checking protocol
 
 Factual anecdotes, quotations, dates, premiere claims, biographical details,
@@ -265,13 +281,17 @@ The most useful exercise sequence is:
 Before drafting a chapter:
 
 1. Read `Voice`, the relevant outline sections, and all related research notes.
-2. Write a one-page chapter brief: central question, promise, necessary topics,
+2. Consult `book-tracker.md`; search existing drafts for every proposed
+   anecdote, work, distinctive factual detail, and pedagogical example.
+3. Write a one-page chapter brief: central question, promise, necessary topics,
    primary encounters, counterexample, experiments, and material reserved for
    other chapters.
-3. Build a source ledger with claim, source, confidence, and caveat.
-4. Decide which location or locations of change organize the argument.
-5. Create a section-level narrative arc, including the opening and afterimage.
-6. Set a working length based on the chapter brief.
+4. Reserve chosen anecdotes in `book-tracker.md`, stating what each will make
+   audible and whether any return to prior material performs new analytical work.
+5. Build a source ledger with claim, source, confidence, and caveat.
+6. Decide which location or locations of change organize the argument.
+7. Create a section-level narrative arc, including the opening and afterimage.
+8. Set a working length based on the chapter brief.
 
 During drafting:
 
@@ -294,6 +314,8 @@ After drafting, use separate passes:
    chapter briefs, or cross-references?
 8. Line pass: Remove throat-clearing, repeated claims, inert abstractions,
    ornamental metaphor, and unearned aphorisms.
+9. Ledger pass: Mark used anecdotes and examples, record all deliberate
+   returns, and update chapter status in `book-tracker.md`.
 
 ## Definition of done
 
@@ -309,3 +331,5 @@ A chapter is ready for editorial review only when:
 - The chapter acknowledges where its method can fail.
 - Its ending changes the meaning of its opening.
 - Any resulting outline changes have been recorded.
+- Its chapter status, anecdotes, repertoire, and invented examples are current
+  in `book-tracker.md`.
