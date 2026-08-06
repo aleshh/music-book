@@ -16,10 +16,14 @@ environment. Treat minimalism as a family of approaches involving repetition,
 reduction, process, duration, and gradual change. Do not police genre borders or
 pretend that all music discussed belongs to one tradition.
 
-The book may discuss acoustic and electronic sound, but it should not discuss
-equipment, software, recording technique, or production technology. Describe
-musical consequences: pitch, rhythm, duration, density, register, articulation,
-resonance, timbre, form, interaction, and attention.
+The book may discuss acoustic and electronic sound. It may briefly identify a
+device, medium, or production action when that fact is necessary to understand
+an audible compositional method—for example, live self-layering or choosing
+among several nonidentical samples of one drum. Keep the explanation at the
+level of musical agency, constraint, and consequence. Do not provide equipment
+reviews, software walkthroughs, signal-chain instructions, or general production
+tutorials. Describe the resulting pitch, rhythm, duration, density, register,
+articulation, resonance, timbre, form, interaction, and attention.
 
 ## Working reader
 
@@ -56,6 +60,9 @@ after giving the reader something audible for it to name.
   Harrison.
 - `research/05-drafting-discoveries.txt` — verified anecdotes discovered during
   chapter-led research, continuing the stable numbering of the original banks.
+- `research/06-user-contributed-material.txt` — researched versions of ideas and
+  remembered anecdotes supplied by the user, including explicit corrections or
+  caveats when the remembered form cannot be verified.
 
 The research files are a source bank, not finished prose. Recheck their source
 links before making a claim more exact than the note itself.

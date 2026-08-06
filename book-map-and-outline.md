@@ -586,8 +586,10 @@ The “Try it” sections should be propositions rather than recipes. The goal i
 - Foreground, halo, disturbance, echo, and horizon
 - Register as landscape
 - Accumulation, saturation, clearing, and residue
+- Live self-layering: a performer's captured past becoming an ensemble the
+  present performer can answer but that cannot listen back
 
-**Possible lenses:** Ligeti, Eno, Eastman, Roscoe Mitchell
+**Possible lenses:** Ligeti, Eno, Eastman, Roscoe Mitchell, Patrick Shiroishi
 
 **Experiment:** Keep every layer unchanged but alter which one functions as foreground through spacing, articulation, and the activity around it.
 
@@ -600,8 +602,10 @@ The “Try it” sections should be propositions rather than recipes. The goal i
 - Dynamics as atmospheric pressure
 - Articulation as proximity, weight, and edge
 - Continuous transformation without thematic development
+- Families of related attacks: repeated instrumental function carrying
+  nonidentical touch, decay, bleed, ambience, and performed time
 
-**Possible lenses:** Debussy, Takemitsu, Radigue, Scelsi
+**Possible lenses:** Debussy, Takemitsu, Radigue, Scelsi, DJ Shadow
 
 **Experiment:** Compose a clear three-part form while keeping pitch and rhythm nearly constant and changing only tone, touch, and resonance.
 
@@ -757,3 +761,10 @@ owns the movement among focal, peripheral, and distributed notice, while
 `Experience Time` owns clock time, felt passage, remembered span, anticipation,
 and endurance. The boundary keeps later chapters on Place and Sustain from
 becoming second general theories of attention or duration.
+
+Research on Patrick Shiroishi's live self-layering and DJ Shadow's construction
+of beats from separately captured drum hits strengthens the existing `Layer`
+and `Color` chapters rather than requiring another structural change. These
+examples also establish a narrow scope exception: the book may name a device or
+production action when it is the condition of an audible compositional choice,
+but it should move immediately to musical agency, relationship, and consequence.

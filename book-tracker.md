@@ -1,6 +1,6 @@
 # Book Progress and Material Ledger
 
-Last updated: 2026-08-05
+Last updated: 2026-08-06
 
 This is the book-wide editorial dashboard. It tracks chapter progress, the
 primary home of major ideas, and the use of anecdotes, repertoire, and invented
@@ -41,9 +41,10 @@ from the user enter here before they enter a chapter. Preserve the substance of
 the contribution and any supplied source; do not polish away what made it
 interesting before deciding what job it can do.
 
-| Item | Kind | Possible function | Candidate home(s) | Status and source |
-|---|---|---|---|---|
-| — | — | — | — | Queue empty |
+No unresolved incoming material as of 2026-08-06. The Patrick Shiroishi and DJ
+Shadow contributions have been researched and moved to the anecdote ledger as
+items 31 and 32. Their original wording and all verification caveats are
+preserved in `research/06-user-contributed-material.txt`.
 
 For each incoming item:
 
@@ -146,6 +147,8 @@ deciding what musical claim the story will support.
 | 28 | Harrison and Colvig build “Old Granddad” | Available | Make a Harmonic World or Sustain; preserve collaboration and cultural context |
 | 29 | FLUX Quartet confronts Feldman's four oversized `String Quartet II` scores | **Used—primary, Ch. 2** | Opens and closes the chapter; score size, long sections, distant recurrences, performance history, and bodily scale used |
 | 30 | Kronos races the CBC midnight clock during Feldman's quartet premiere | **Used—supporting, Ch. 2** | “Midnight”; external clock, onstage watch, acceleration, and `O Canada` deadline used |
+| 31 | Patrick Shiroishi makes a changing ensemble from one saxophonist through live self-layering | Available | Favor Layer: captured past gestures become strands the present player can answer, oppose, mask, or clear; Release Control may later make a brief callback to the asymmetry of agency |
+| 32 | DJ Shadow treats a drum break as a family of nonidentical events, preserving alternate hits, decay, ambience, and performed timing | Available | Favor Color: repeated rhythmic function with varied sonic identity; the exact “dozen snares from a jazz record” version remains unverified and must not be stated as fact |
 
 Source-bank locations:
 
@@ -153,7 +156,8 @@ Source-bank locations:
 - 8–14: `research/02-repetition-process-and-form.txt`
 - 15–21: `research/03-texture-timbre-and-embodiment.txt`
 - 22–28: `research/04-agency-transmission-and-memory.txt`
-- 29 onward: `research/05-drafting-discoveries.txt`
+- 29–30: `research/05-drafting-discoveries.txt`
+- 31 onward: `research/06-user-contributed-material.txt`
 
 ## Repertoire and authority already used in drafted chapters
 
