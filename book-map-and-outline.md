@@ -777,3 +777,15 @@ but it should move immediately to musical agency, relationship, and consequence.
 `Layer` ends by exposing the internal life of one strand, leading to `Color`;
 `Color` ends by asking who makes and controls that life, leading to `Release
 Control`.
+
+Drafting `Limit` and `Sustain` confirms their sequence and separation. `Limit`
+owns restriction as a redistribution of consequence: inventory, behavior,
+circumstance, exception, and responsibility. `Sustain` assumes that a material
+has already been selected and enters its changing spectrum, tuning, renewal,
+resonance, and decay. Lucier's `I Am Sitting in a Room` now belongs primarily
+to `Sustain`; `Place` should make only a brief callback. Scelsi's `Quattro
+pezzi su una nota sola` belongs to `Sustain` as audible evidence, while the
+assistant-labor and authorship history remains reserved for `Release Control`.
+The progression is now explicit: narrow the field, hear the interior of one
+sound, then ask how other pitches gather around a reference to make a harmonic
+world.

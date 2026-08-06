@@ -68,8 +68,8 @@ existing heading.
 |---:|---|---|---|---|---|
 | 1 | Attend | Complete | Complete | Drafted | Initial structural, source, overlap, and voice pass complete; reader review pending |
 | 2 | Experience Time | Complete | Complete | Drafted | Initial structural, source, overlap, and voice pass complete; reader review pending |
-| 3 | Limit | Not started | Not started | Not started | — |
-| 4 | Sustain | Not started | Not started | Not started | — |
+| 3 | Limit | Complete | Complete | Drafted | Initial structural, source, overlap, musical, and voice pass complete; reader review pending |
+| 4 | Sustain | Complete | Complete | Drafted | Initial structural, source, overlap, musical, and voice pass complete; reader review pending |
 | 5 | Make a Harmonic World | Not started | Not started | Not started | — |
 | 6 | Repeat — Making Sameness Consequential | Complete | Complete | Drafted | Partial reader review; full editorial passes remain |
 | 7 | Drift — Coordinating Without Locking | Not started | Not started | Not started | — |
@@ -86,6 +86,10 @@ Current chapter files:
 - Chapter 2: `chapters/02-experience-time.md`,
   `chapter-notes/02-experience-time-brief.md`,
   `chapter-notes/02-experience-time-source-ledger.md`
+- Chapter 3: `chapters/03-limit.md`, `chapter-notes/03-limit-brief.md`,
+  `chapter-notes/03-limit-source-ledger.md`
+- Chapter 4: `chapters/04-sustain.md`, `chapter-notes/04-sustain-brief.md`,
+  `chapter-notes/04-sustain-source-ledger.md`
 - Chapter 6: `chapters/06-repeat.md`, `chapter-notes/06-repeat-brief.md`,
   `chapter-notes/06-repeat-source-ledger.md`
 - Chapter 8: `chapters/08-layer.md`, `chapter-notes/08-layer-brief.md`,
@@ -125,14 +129,14 @@ deciding what musical claim the story will support.
 | 2 | The first audience for `4'33"` listens to weather | **Used—primary, Ch. 1** | “A Frame in Three Movements”; Place may make a brief callback without retelling the premiere |
 | 3 | Eno's quiet harp record mingles with rain | **Used—primary, Ch. 1** | “The Harp and the Rain”; do not retell the origin story in Place |
 | 4 | A forty-five-second reverberation gives Deep Listening its name | Available | Place or Sustain; do not reduce Oliveros's practice to the cistern alone |
-| 5 | La Monte Young listens to wind and telephone poles | Available | Sustain |
+| 5 | La Monte Young listens to wind and telephone poles | **Used—primary, Ch. 4** | Opens and closes Sustain; the recollection introduces a stable sound with a changing interior; do not retell the childhood account |
 | 6 | Takemitsu hears a forbidden love song during wartime | Available | Attend or the prelude; requires historical care |
 | 7 | `Inuksuit` lets a landscape enter the piece | Available | Place |
 | 8 | Satie asks an audience not to listen | **Used—primary, Ch. 1** | Opens and closes the chapter; instructions, audience silence, and Satie's appeals all used |
 | 9 | `Vexations` becomes an eighteen-hour community | **Used—primary, Ch. 6** | Full 1963 realization told in “Eight Hundred and Forty”; do not retell |
 | 10 | Riley finds `In C` on a bus; Reich adds the pulse | **Used—primary, Ch. 6** | Bus, early rehearsal, pulse, and proximity rule all used; later chapters may analyze different ensemble behavior without retelling |
 | 11 | Eastman explains organic music before `Gay Guerrilla` | **Used—primary, Ch. 6** | Organic form, title, accumulation, hymn, and pressure used; choose another Eastman work for a new large encounter |
-| 12 | Pärt finds a language in a two-page piece | Available | Limit or Make a Harmonic World |
+| 12 | Pärt finds a language in a two-page piece | **Used—primary, Ch. 3** | “Two Voices, One Language”; rule, relation, deliberate exception, and human specificity used; harmony remains for Ch. 5 |
 | 13 | Ravel designs `Boléro` as an experiment with almost no development | **Used—primary, Ch. 6** | Limited experiment, orchestral reassignment, crescendo, and late rupture used; Color needs another anchor or a narrowly signposted deepening |
 | 14 | Brahms turns a Bach bass into a symphonic finale | **Used—supporting, Ch. 6** | Spitta, BWV 150, the eight-measure ground, and its later use are told; harmonic/form analysis may return without retelling the provenance |
 | 15 | An audience demands an immediate repeat of Ligeti's `Atmosphères` | **Used—primary, Ch. 8** | “Eighty-Nine Parts, No Soloist”; the premiere story establishes that behavior at the level of mass can be immediately legible without a foreground melody |
@@ -140,13 +144,13 @@ deciding what musical claim the story will support.
 | 17 | Feldman composes `Rothko Chapel` for the room | Available | Place; possibly Color if the room story is reserved elsewhere |
 | 18 | `Music for 18 Musicians` runs on clock time and breath time | Available | Drift |
 | 19 | Debussy hears Javanese gamelan—and the simple influence story fails | Available | Make a Harmonic World or Color; retain the colonial-history caution |
-| 20 | Messiaen's prison-camp premiere, with the legend corrected | Available | Limit; use the correction as part of the story, not as a sidebar fact-check |
+| 20 | Messiaen's prison-camp premiere, with the legend corrected | **Used—primary, Ch. 3** | Opens and closes Limit; imposed conditions select the ensemble without receiving credit for the composition; do not retell the corrected premiere |
 | 21 | Meredith Monk discovers the voice can be an instrument | **Used—primary, Ch. 9** | “The Voice Finds More Voices”; embodied vocal exploration becomes a vocabulary of attacks, registers, textures, and distinct ensemble identities |
 | 22 | Roscoe Mitchell holds a hostile crowd with one repeated phrase | **Used—primary, Ch. 6** | Opens and closes the chapter; Willisau circumstances, phrase transformations, audience exchange, and return all used |
 | 23 | Scelsi improvises; assistants turn the sound into scores | Available | Release Control; acknowledge disputed labor and authorship |
 | 24 | Feldman meets Cage in the lobby after Webern | Available | Prelude, Experience Time, or an interlude; use only if the community-of-listening idea earns the space |
 | 25 | `Stay On It` survives through instructions, recordings, and people | Available | Release Control |
-| 26 | Lucier lets a room smooth his speech | Available | Sustain, with Place as a possible callback; the room process should be told once |
+| 26 | Lucier lets a room smooth his speech | **Used—primary, Ch. 4** | “The Room Selects”; resonance as selective continuation and embodied transformation used; Place may make only a brief callback |
 | 27 | Bryars returns to find an office silenced by a singer | **Used—primary, Ch. 6** | Recording origin, unidentified singer, flexible cycle, accompaniment, and Bryars's remembered studio response used; do not retell |
 | 28 | Harrison and Colvig build “Old Granddad” | Available | Make a Harmonic World or Sustain; preserve collaboration and cultural context |
 | 29 | FLUX Quartet confronts Feldman's four oversized `String Quartet II` scores | **Used—primary, Ch. 2** | Opens and closes the chapter; score size, long sections, distant recurrences, performance history, and bodily scale used |
@@ -194,6 +198,12 @@ job already performed, so a future return must do something else.
 | Meredith Monk, early vocal practice and `Dolmen Music` | Ch. 9; embodied timbral vocabulary, distinct ensemble voices, and color carrying provenance into DJ Shadow's work | Release Control may study ensemble collaboration from different evidence; do not retell the 1965 realization or DJ Shadow connection |
 | Arnold Schoenberg, “Farben” from `Five Pieces for Orchestra`, op. 16 | Ch. 9 supporting account of instrumental handoffs creating continuous color change over a nearly stable chord | Make a Harmonic World may discuss the chord only if harmonic evidence, not the same timbral-modulation account, is central |
 | McAdams, Goodchild, and Soden, orchestral grouping taxonomy | Chs. 8–9; perceptual distinction among parts, streams, blend, emergence, and heterogeneity; timbre covaries with pitch, effort, dynamics, and articulation | Later use should cite a new analytical problem rather than restating the general grouping principles |
+| Olivier Messiaen, `Quartet for the End of Time` premiere and ensemble | Ch. 3 opening and return; corrected prison-premiere legend distinguishes imposed conditions from compositional decisions | Do not retell the three-string-cello or 5,000-listener corrections; Ch. 2 already owns `Abîme des oiseaux` as a distinct temporal analysis |
+| Arvo Pärt, `Für Alina` | Ch. 3; tintinnabuli as a restricted relation whose clarity gives deliberate exceptions musical force and whose dedication keeps the method humanly specific | Ch. 5 may analyze harmonic relation with an explicit callback; do not repeat the eight-year-search or rule-breaking account |
+| Tom Johnson, `The Four Note Opera` | Ch. 3; severe pitch restriction becomes comic, theatrical, self-referential, and flexible rather than automatically serene | Do not retell the four-pitch premise, Pirandello connection, or immobilized ending |
+| La Monte Young, childhood wind and electrical-hum recollections; sustained-sound practice | Ch. 4 opening and return; a stable sound contains changes of spectrum, position, energy, and attention | Do not retell the log-cabin and telephone-pole memories; a future tuning discussion should use different works and evidence |
+| Giacinto Scelsi, `Quattro pezzi su una nota sola` | Ch. 4; one pitch center becomes internally articulated through register, microtonal inflection, density, intensity, and orchestration | Ch. 10 may tell the assistant/transcription authorship story with explicit new evidence; do not repeat the audible single-center analysis |
+| Alvin Lucier, `I Am Sitting in a Room` | Ch. 4; repeated return through a room reveals resonance as selective continuation while cadence keeps the process embodied | Place may make only a brief signposted callback; do not retell the process or stutter account |
 
 ## Invented examples and exercises already used
 
@@ -218,6 +228,8 @@ job already performed, so a future return must do something else.
 | Middle C as an underspecified sounding action | Ch. 9, “A Note Is Not Its Name”; pitch notation does not contain attack, bloom, continuation, release, and resonance | Sustain may deepen one stage acoustically but should not reopen with the written-middle-C contrast |
 | Four equal notes with dry attacks versus overlapping decays | Ch. 9, “Articulation Gives Time an Edge”; articulation changes whether a rhythm is heard as points or a continuous body | Do not reuse this fixed-onset comparison in another exercise |
 | One Note, Several Bodies; A Family of Attacks; A Three-Part Color Form | Ch. 9 exercises; embodied variation, noninterchangeable recurring events, and blend-to-resistance-to-return | Do not duplicate these mechanisms; Release Control should make performer choice, not timbral transformation, the central problem |
+| The Cost of One Event; One Inventory, Three Laws; The Constraint Audit | Ch. 3 exercises; scarcity and consequence, behavioral rules, and listener-versus-performer effects of limits | Do not duplicate the subtractive audit or fixed-inventory/changed-law mechanism |
+| Follow the Decay; Tune the Motion; One Sound, Three Continuities | Ch. 4 exercises; decay thresholds, beating as tunable rhythm, and continuous/renewed/resonant sustain | Do not duplicate these mechanisms; Place should make architecture and site, not resonance alone, the variable |
 
 ## Before drafting the next chapter
 
@@ -289,3 +301,30 @@ job already performed, so a future return must do something else.
   decay, timing, identity, and agency.
 - No structural merge or split is required. Color's ending now points directly
   toward Release Control.
+
+## Latest post-draft audit: Chapters 3 and 4
+
+- Completed 2026-08-06: structural, coverage, musical, source, voice, momentum,
+  continuity, name/work overlap, and exercise-mechanism scans.
+- Chapter 3 owns the general theory and ethics of limitation: inventories,
+  operational and relational rules, circumstantial boundaries, consequence,
+  exception, and tasteful thinness. Chapter 4 begins after the selection has
+  been made and owns the changing acoustical and bodily interior of a sound.
+- Messiaen's return is deliberate. Chapter 2 analyzes contrasting forms of
+  time inside `Abîme des oiseaux`; Chapter 3 tells the corrected premiere and
+  ensemble history without reusing that movement's temporal argument.
+- Pärt appears in Chapter 3 for rule, relation, and exception. Chapter 5 may
+  return only for a focused harmonic analysis that explicitly acknowledges
+  the earlier account.
+- Scelsi's credited orchestral work is analyzed in Chapter 4 through audible
+  pitch-centered evidence. The improvisation, transcription, assistant labor,
+  and authorship history remains protected for Chapter 10.
+- Lucier's room process now belongs to Sustain because it demonstrates
+  selective resonance and recurrence as continuity. Place may name it only in
+  a brief callback and should use another work for its primary room argument.
+- Niblock, Radigue, and the middle-C example remain unrepeated. Chapter 4 uses
+  Young, Scelsi, and Lucier rather than rebuilding Layer's long-tone strata,
+  Experience Time's continuous transformation, or Color's notation argument.
+- No structural merge or split is required. Limit narrows the field, Sustain
+  enters one selected sound, and its ending leads directly to harmonic gravity
+  in Chapter 5.
