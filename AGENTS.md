@@ -115,7 +115,7 @@ the hidden intellectual framework:
    acclimation.
 4. The context changes: performers, acoustics, activity, place, or duration.
 
-The current compact table of contents is provisional:
+The completed first draft uses this compact table of contents:
 
 1. Attend
 2. Experience Time
@@ -130,16 +130,19 @@ The current compact table of contents is provisional:
 11. Place
 12. Discover the Form
 
-`Repeat` and `Drift` were separated after the sample repetition chapter showed
+All twelve chapter drafts, briefs, and source ledgers now exist. `Repeat` and
+`Drift` were separated after the sample repetition chapter showed
 that each carries a distinct full argument. Repetition concerns recurrence,
 memory, invariants, accumulation, pressure, and reframing. Drift concerns phase,
 asynchronous layers, multiple tempos, breath, and parts that remain related
 without sharing one clock.
 
 The sixteen-chapter map in `book-map-and-outline.md` remains useful for finding
-subtopics. Revise the compact contents when a draft demonstrates that two ideas
-need separate development or that two chapters repeat one another. Do not
-change structure merely to make the table of contents look symmetrical.
+subtopics. The first-draft audit found no current reason to merge, split, or
+reorder the compact sequence. Reconsider it during reader revision only when
+the manuscript demonstrates that two ideas repeat one another or require
+separate development. Do not change structure merely to make the table of
+contents look symmetrical.
 
 When revising the outline:
 

@@ -789,3 +789,24 @@ assistant-labor and authorship history remains reserved for `Release Control`.
 The progression is now explicit: narrow the field, hear the interior of one
 sound, then ask how other pitches gather around a reference to make a harmonic
 world.
+
+Drafting the five remaining chapters confirms the rest of the sequence.
+`Make a Harmonic World` distinguishes a pitch inventory from a field of unequal
+gravity; `Repeat` gives events recurring identity; `Drift` lets related copies
+and cycles separate; `Layer` asks how those relations are perceptually grouped;
+and `Color` enters the internal identity of each sounding event. The progression
+from pitch relation through temporal relation to perceptual relation is now
+continuous without requiring a separate chapter on melodic line.
+
+The final three chapters also remain distinct. `Release Control` asks who makes
+a musical decision and bears its consequences. `Place` asks how a work admits
+acoustics, histories, activities, publics, and surrounding sound. `Discover the
+Form` asks why the resulting world should continue, how several formal clocks
+can coexist, and what kind of ending belongs to its mode of continuation.
+Performer, environment, and duration are related but not interchangeable
+sources of contingency.
+
+The completed first draft confirms the twelve-chapter architecture. No merge,
+split, or reorder is recommended before a full reader revision. The sixteen-
+chapter map remains an index of subtopics, while the compact sequence is now
+the manuscript's actual table of contents rather than a provisional cut.

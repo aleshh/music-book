@@ -125,3 +125,36 @@ Sources:
   https://musicmavericks.publicradio.org/features/interview_reich.html
 - Steve Reich, `Writings on Music 1965–2000`, Oxford University Press:
   https://academic.oup.com/book/27047
+
+=========================================================================
+34. THE ORCHESTRA SINKS; THE MUSIC CONTINUES
+
+Musical idea: An ending can change the conditions of continuation rather than
+bringing continuation to a cadence.
+
+Gavin Bryars began `The Sinking of the Titanic` as a conceptual sketch for a
+1969 exhibition supporting art students at Portsmouth. He made a performing
+version in 1972 and recorded one for the first release on Brian Eno's Obscure
+label in 1975, but he dates the work `1969–`: it remains capable of collecting
+new materials, spaces, and versions around its premise.
+
+That premise begins with a historical uncertainty. Junior wireless operator
+Harold Bride recalled that the ship's band was still playing a hymn called
+`Autumn` when he last saw it, although accounts disagree about the band's final
+music and even hymn tunes bearing that name. Bryars turns the testimony into a
+deliberate speculation. Music generated on the sinking ship might continue to
+reverberate in water, descend with the vessel, and repeat on the ocean floor.
+The players' last action, the sound's ending, the event's ending, and the
+work's final version cease to be the same boundary.
+
+Verification: STRONG for Bryars's composition history, his continuing date,
+the testimony he cites, and the work's stated poetic premise. CONTESTED for
+the identity of the final hymn. The underwater continuation is a conceptual
+conceit, not a documentary acoustical claim. Preserve both qualifications.
+
+Sources:
+- Gavin Bryars, official work and recording note:
+  https://gavinbryars.com/post/the-sinking-of-the-titanic-5
+- Gavin Bryars, expanded official recording notes and discussion of the hymn
+  evidence:
+  https://gavinbryars.bandcamp.com/album/sinking-of-the-titanic
