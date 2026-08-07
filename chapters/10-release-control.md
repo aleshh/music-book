@@ -1,21 +1,24 @@
-# Chapter 10: Release Control
+# Section 10: Release Control
 
-## Who Makes the Next Decision?
+## Chapter 120: Who Makes the Next Decision?
 
 A group preparing Julius Eastman's *Stay On It* cannot begin by opening the
 composer's definitive full score. No such manuscript is known.
 
 There are surviving materials, recordings, recollections, scholarship, and
 modern editions. Musicians know the bright main theme and a family of layered
-cells. They know that instrumentation can be open, that material may repeat at
+cells.
+
+They know that instrumentation can be open, that material may repeat at
 performers' discretion, that improvisation can enter, and that cues move the
-piece through sections. They also know that Eastman's own performances were
-not instances of a fixed object polished to consistency.[^1]
+piece through sections. They also know that Eastman's own performances were not
+instances of a fixed object polished to consistency.[^1]
 
 The work is not therefore missing in the way a lost suitcase is missing. It
-exists, but its information is distributed. Some lives on pages. Some is
-audible in recordings. Some passed through rehearsal and memory. Every modern
-performance decides how those forms of evidence should meet.
+exists, but its information is distributed. Some lives on pages.
+
+Some is audible in recordings. Some passed through rehearsal and memory. Every
+modern performance decides how those forms of evidence should meet.
 
 This situation is partly the result of neglect. Eastman died in 1990 at
 forty-nine, after years in which manuscripts and possessions were dispersed.
@@ -24,29 +27,34 @@ gay composer's incomplete archive is not proof that music is better when
 institutions fail to preserve it.
 
 Yet *Stay On It* was never a piece whose identity depended only on a complete
-conventional score. It asks people to sustain a repeating idea, choose among
-cells, improvise, listen, cue, intensify, and release. Its form has always
-needed decisions that notation could not make at the moment of performance.
+conventional score.
 
-This chapter concerns those decisions. What must a composer fix? What can a
+It asks people to sustain a repeating idea, choose among cells, improvise,
+listen, cue, intensify, and release. Its form has always needed decisions that
+notation could not make at the moment of performance.
+
+This section concerns those decisions. What must a composer fix? What can a
 performer choose? How does chance differ from improvisation? When does an open
 instruction create responsibility, and when does it merely transfer unfinished
-work? Who receives credit for what emerges? And how can a piece accept results
-the composer did not select without pretending that no one remains accountable?
+work?
+
+Who receives credit for what emerges? And how can a piece accept results the
+composer did not select without pretending that no one remains accountable?
 
 To release control is not to remove a hand from the music. It is to decide
 whose hand, ear, memory, or circumstance can act next.
 
-## Control Is Not One Thing
+## Chapter 121: Control Is Not One Thing
 
 Imagine a short piece for three players. The pitches are fixed, the durations
 are approximate, and each performer chooses when to begin. Is it controlled or
 free?
 
 The question is too blunt. Pitch is controlled one way. Duration is bounded
-another way. Entrances belong to performers. Balance may be negotiated in
-rehearsal. The ending may depend on a cue. A single scale from fixed to free
-cannot describe the division.
+another way. Entrances belong to performers.
+
+Balance may be negotiated in rehearsal. The ending may depend on a cue. A
+single scale from fixed to free cannot describe the division.
 
 Musical control has several objects.
 
@@ -70,9 +78,11 @@ and circumstances that no performer owns completely.
 
 Every score distributes these differently. A fully notated sonata fixes many
 pitches and rhythms while leaving tempo nuance, voicing, balance, and phrase
-character to performers. A text score may prescribe one exact listening action
-while leaving pitch entirely open. An improvisation may use no page but depend
-on years of shared vocabulary and firm conventions about who may enter when.
+character to performers.
+
+A text score may prescribe one exact listening action while leaving pitch
+entirely open. An improvisation may use no page but depend on years of shared
+vocabulary and firm conventions about who may enter when.
 
 The useful question is not “How much control have I given up?” It is “Who is
 deciding each consequential feature, with what information?”
@@ -80,7 +90,7 @@ deciding each consequential feature, with what information?”
 Sometimes the answer is no one. That is where open music begins to reveal its
 debts.
 
-## The Score as a Map of Responsibility
+## Chapter 122: The Score as a Map of Responsibility
 
 Notation is often described as a representation of sound. It is also a map of
 responsibility.
@@ -112,18 +122,22 @@ quality of listening is exact.
 
 These categories overlap. A score might fix a pitch result, prescribe a
 physical action, make its entrance relational, and direct attention toward the
-sound's decay. The point is not to select the most radical-looking notation.
-It is to use the form that places the decision where it can be made well.
+sound's decay.
+
+The point is not to select the most radical-looking notation. It is to use the
+form that places the decision where it can be made well.
 
 If the precise voicing carries the harmony, notate it. If balance must respond
-to the actual room, let performers adjust. If the piece depends on one player
-recognizing another's fatigue, a stopwatch may be less exact than an attentive
-cue. If the ending must interrupt a political text at one particular word,
-“end when it feels right” is not generosity.
+to the actual room, let performers adjust.
+
+If the piece depends on one player recognizing another's fatigue, a stopwatch
+may be less exact than an attentive cue. If the ending must interrupt a
+political text at one particular word, “end when it feels right” is not
+generosity.
 
 Good notation does not maximize information. It makes responsibility legible.
 
-## What Makes the Work Itself?
+## Chapter 123: What Makes the Work Itself?
 
 Open form raises a question fixed scores can postpone: how different may two
 performances become before they are no longer performances of the same work?
@@ -146,9 +160,11 @@ page contains.
 
 *Stay On It* retains several of these. Its main theme and cells are strong
 materials. Repetition and layered choice establish behavior. Cues create
-collective transition. The poem and historical presence of Eastman make the
-work more specific than an anonymous open groove. A modern edition can clarify
-these commitments, but it also makes an argument about them.[^2]
+collective transition.
+
+The poem and historical presence of Eastman make the work more specific than an
+anonymous open groove. A modern edition can clarify these commitments, but it
+also makes an argument about them.[^2]
 
 Openness requires exclusion. If no possible realization can fail to belong,
 the work has no way to distinguish itself from whatever happens nearby. A
@@ -158,16 +174,17 @@ result was secretly intended.
 
 Name what must survive. Then allow the surface to discover how.
 
-## Chance Does Not Improvise
+## Chapter 124: Chance Does Not Improvise
 
 Chance, indeterminacy, and improvisation are often placed in one large box
 labeled freedom. They locate decisions in different places.
 
 In 1951, John Cage composed *Music of Changes* for piano using the *I Ching*,
 the Chinese *Book of Changes*, to select among charts of musical possibilities.
-Chance operations affected the process by which Cage chose events. The
-resulting score is fixed, detailed, and notoriously demanding. The pianist does
-not consult the oracle during the concert or decide to replace a difficult
+Chance operations affected the process by which Cage chose events.
+
+The resulting score is fixed, detailed, and notoriously demanding. The pianist
+does not consult the oracle during the concert or decide to replace a difficult
 passage with birdsong.[^3]
 
 Chance at the **compositional stage** can therefore produce a determined
@@ -184,49 +201,58 @@ improviser is not a random device with good reflexes.
 
 Environmental contingency admits conditions that neither composer nor
 performer fully controls: a room, weather, public sound, instrument behavior,
-or audience movement. We will consider that field in the next chapter.
+or audience movement. We will consider that field in the next section.
 
 These methods can combine. A chance process selects pitch collections; a
 performer chooses their order; ensemble cues determine duration; the room
-changes resonance. The composer has not relinquished one substance called
-intention. He has assigned several decisions to several agents.
+changes resonance.
+
+The composer has not relinquished one substance called intention. He has
+assigned several decisions to several agents.
 
 Cage's use of the *I Ching* also deserves more than the phrase “random-number
 generator.” The book belongs to Chinese intellectual and divinatory traditions
 that Cage encountered through particular translations and philosophical
-interests. His use is historically consequential and not culturally
-exhaustive. Chance procedures do not become neutral because numbers appear.
+interests.
+
+His use is historically consequential and not culturally exhaustive. Chance
+procedures do not become neutral because numbers appear.
 
 Most important, chance does not make a composer innocent. Choosing the chart,
 question, range, instrumentation, duration, and stopping rule shapes the family
 of results. If a procedure repeatedly produces harm, tedium, or cliché, the
 oracle is not available for cross-examination. The composer is.
 
-## Precision Moves into the Relationship
+## Chapter 125: Precision Moves into the Relationship
 
 Christian Wolff's *For 1, 2 or 3 People*, composed in 1964, leaves
-instrumentation open and permits a performance to select from ten pieces. Many
-pitches are unspecified. Yet the work is not an invitation to make agreeable
-experimental sounds in one another's vicinity.
+instrumentation open and permits a performance to select from ten pieces.
 
-Its precision has moved into relationships. Symbols can require sounds to
-begin or end in coordination with other sounds, sometimes without an
-intentional signal. Players must hear what is happening, determine which
-condition has been met, and act. The material surface may vary widely while
-the responsive structure remains rigorous.[^4]
+Many pitches are unspecified. Yet the work is not an invitation to make
+agreeable experimental sounds in one another's vicinity.
 
-Wolff has described imagining extreme possible interpretations while
-composing. If the most outlandish legal realization remained acceptable, the
-instructions held. If it exposed an outcome that violated the piece, the
-system needed revision.
+Its precision has moved into relationships. Symbols can require sounds to begin
+or end in coordination with other sounds, sometimes without an intentional
+signal.
+
+Players must hear what is happening, determine which condition has been met,
+and act. The material surface may vary widely while the responsive structure
+remains rigorous.[^4]
+
+Wolff has described imagining extreme possible interpretations while composing.
+
+If the most outlandish legal realization remained acceptable, the instructions
+held. If it exposed an outcome that violated the piece, the system needed
+revision.
 
 This is a crucial discipline for open work. Do not test the score only with
 performers who know your taste, forgive unclear language, and quietly repair
-every gap. Give the instruction to a literal reader. Try the shortest legal
-version, the longest, the densest, the most hesitant, and the one in which
-everyone chooses the same option. If the piece survives only because musicians
-infer what you left unstated, the openness is being subsidized by social
-guesswork.
+every gap. Give the instruction to a literal reader.
+
+Try the shortest legal version, the longest, the densest, the most hesitant,
+and the one in which everyone chooses the same option. If the piece survives
+only because musicians infer what you left unstated, the openness is being
+subsidized by social guesswork.
 
 Relational notation can produce outcomes too complex to prescribe efficiently.
 Three players responding to one another's beginnings and endings create a
@@ -236,7 +262,7 @@ conditions of that network.
 The freedom lies inside attentiveness. A player must decide, but cannot decide
 alone.
 
-## Improvisation Is Prepared Attention
+## Chapter 126: Improvisation Is Prepared Attention
 
 The word *improvise* can mean several very different tasks.
 
@@ -248,23 +274,29 @@ practice into a meeting whose result no participant can predict.
 Each demands preparation.
 
 An improviser has habits, references, physical techniques, memories of prior
-encounters, and preferences about form. An ensemble develops shared knowledge:
-who tends to fill silence, who can hold a pitch without claiming foreground,
-how conflict is signaled, when a joke is an invitation and when it is an exit.
-The absence of a fixed score can make this knowledge more important, not less.
+encounters, and preferences about form.
+
+An ensemble develops shared knowledge: who tends to fill silence, who can hold
+a pitch without claiming foreground, how conflict is signaled, when a joke is
+an invitation and when it is an exit. The absence of a fixed score can make
+this knowledge more important, not less.
 
 A composer writing for improvisers should decide whether their personal
 vocabularies are welcome. “Play freely” may invite a saxophonist's abrasive
 multiphonics, a pianist's tonal fragments, and a percussionist's theatrical
-silences. If the composer really wants soft long tones in one mode, those
-desires belong in the instruction. Calling the result improvisation does not
-entitle the composer to be disappointed that performers brought themselves.
+silences.
+
+If the composer really wants soft long tones in one mode, those desires belong
+in the instruction. Calling the result improvisation does not entitle the
+composer to be disappointed that performers brought themselves.
 
 Conversely, over-specification can remove the reason for improvisation. A page
 that fixes register, density, dynamics, pitch field, attack type, maximum
 gesture length, interaction rule, and emotional character may leave the player
-only clerical choices. If the work needs exact behavior, notate it without
-pretending the remaining crumbs represent shared authorship.
+only clerical choices.
+
+If the work needs exact behavior, notate it without pretending the remaining
+crumbs represent shared authorship.
 
 Ask what expertise only these performers can contribute. Perhaps they can hear
 when a texture has become saturated, sustain a conflict without resolving it,
@@ -273,37 +305,43 @@ decision at the scale of that expertise.
 
 Trust is not vagueness. It is confidence placed in a named capacity.
 
-## From Sound to Tape to Page
+## Chapter 127: From Sound to Tape to Page
 
-In Chapter 4, we heard Giacinto Scelsi's *Quattro pezzi su una nota sola* as
+In Section 4, we heard Giacinto Scelsi's *Quattro pezzi su una nota sola* as
 music that finds several forms of activity inside one pitch center. The score
 through which performers realize such detail did not necessarily begin as
 notation.
 
 Many of Scelsi's mature works developed through improvisations recorded on
 tape, often using an Ondiola, a small keyboard instrument capable of pitch
-inflection and timbral variation. Hired assistants transcribed the recordings
-and translated them for acoustic instruments. Scelsi revised or approved the
-resulting scores.[^5]
+inflection and timbral variation.
 
-The process is sometimes narrated in two equally convenient ways. In the
-first, Scelsi is a visionary who receives sound directly while assistants
-perform neutral secretarial labor. In the second, he is a fraud and the
-assistants are the real composers. Archival evidence makes both stories
-difficult.
+Hired assistants transcribed the recordings and translated them for acoustic
+instruments. Scelsi revised or approved the resulting scores.[^5]
+
+The process is sometimes narrated in two equally convenient ways. In the first,
+Scelsi is a visionary who receives sound directly while assistants perform
+neutral secretarial labor.
+
+In the second, he is a fraud and the assistants are the real composers.
+Archival evidence makes both stories difficult.
 
 Transcription was not neutral. A recording does not announce which fluctuation
 is structural, how a pitch bend should be notated, which instrument can carry
 it, or how several overdubbed layers should become an orchestral score. An
-assistant's ear, technique, and aesthetic judgment enter the page. Vieri
-Tosatti performed a major share of this work and later made sweeping claims
-about his authorship. Other musicians, including Frances-Marie Uitti, have
-described collaborative processes in which Scelsi's improvisation and judgment
-remained decisive while transcription contributed real creative labor.[^6]
+assistant's ear, technique, and aesthetic judgment enter the page.
+
+Vieri Tosatti performed a major share of this work and later made sweeping
+claims about his authorship. Other musicians, including Frances-Marie Uitti,
+have described collaborative processes in which Scelsi's improvisation and
+judgment remained decisive while transcription contributed real creative
+labor.[^6]
 
 The archive contains hundreds of tapes. They show that the sounding material
-was not invented from nothing by a copyist. They also make it impossible to
-treat the published scores as unmediated writing from one hand.
+was not invented from nothing by a copyist.
+
+They also make it impossible to treat the published scores as unmediated
+writing from one hand.
 
 This changes how we understand control. Scelsi selected and produced sounding
 events. Assistants heard, interpreted, notated, and orchestrated. Performers
@@ -312,26 +350,31 @@ question the notation. Composition travels through a chain of agencies.
 
 Credit should travel with it.
 
-## Labor Does Not Disappear into the Work
+## Chapter 128: Labor Does Not Disappear into the Work
 
 Collaborative music often preserves an old hierarchy in its credits. The
-composer's name appears in large type. Performers, editors, transcribers,
-instrument builders, and rehearsal directors become the means by which the
-work realizes his singular vision.
+composer's name appears in large type.
+
+Performers, editors, transcribers, instrument builders, and rehearsal directors
+become the means by which the work realizes his singular vision.
 
 Sometimes that hierarchy accurately reflects the agreement. Often it does not
 describe the labor.
 
 If a performer invents a substantial vocabulary, shapes the form in rehearsal,
 and makes decisions preserved in later versions, determine whether “performer”
-is sufficient credit. If an editor reconstructs a lost work from conflicting
-sources, name the edition and its choices. If an assistant turns recordings
-into playable orchestration, transcription is not typing.
+is sufficient credit.
+
+If an editor reconstructs a lost work from conflicting sources, name the
+edition and its choices. If an assistant turns recordings into playable
+orchestration, transcription is not typing.
 
 Authorship need not be divided by percentage. Music is not a restaurant bill.
 It can identify roles honestly: conceived by, composed by, developed with,
-transcribed by, orchestrated by, edited by, realized with. The language should
-follow the work rather than protect the most prestigious title.
+transcribed by, orchestrated by, edited by, realized with.
+
+The language should follow the work rather than protect the most prestigious
+title.
 
 Consent matters at the same level. A performer may agree to choose pitches and
 not to endure pain. They may consent to public improvisation and not to having
@@ -348,44 +391,52 @@ receives recognition, and who can refuse?
 
 These questions do not drain spontaneity. They make trust possible.
 
-## Leadership Can Move
+## Chapter 129: Leadership Can Move
 
 Distributed agency does not require every performer to hold identical power at
 every moment.
 
 One player may maintain a reference pulse while another chooses harmony. A
 third may cue transitions. Leadership can pass by section, event, or condition.
+
 The distribution is unequal and potentially fair because the responsibilities
 are explicit and appropriate to each role.
 
 False equality gives everyone the same vague instruction. “Any player may cue
-the next section whenever it feels right” sounds democratic. In practice, the
-most confident performer may dominate, quieter players may wait, and no one may
-know whether a cue has authority. Social habits fill the empty notation.
+the next section whenever it feels right” sounds democratic.
+
+In practice, the most confident performer may dominate, quieter players may
+wait, and no one may know whether a cue has authority. Social habits fill the
+empty notation.
 
 A more exact design might prohibit the same person from cueing twice, assign a
 cue to the player carrying the least audible material, or require a transition
-to be proposed and confirmed by another player. These rules do not guarantee
-justice. They make the social relation available for rehearsal and critique.
+to be proposed and confirmed by another player.
+
+These rules do not guarantee justice. They make the social relation available
+for rehearsal and critique.
 
 Conflict can also be composed. Two players may receive incompatible goals: one
-maintains density, another tries to clear it. The result need not model social
-harmony. It must make the terms and costs of the conflict known.
+maintains density, another tries to clear it.
+
+The result need not model social harmony. It must make the terms and costs of
+the conflict known.
 
 The composer's task is not to design a tiny utopia. An ensemble is not a
 political theory with music stands. The task is to notice that musical
 structure already distributes authority, attention, interruption, and care.
 Refusing to name those distributions does not remove them.
 
-## Error, Tolerance, and Recovery
+## Chapter 130: Error, Tolerance, and Recovery
 
 Fixed scores contain errors. Open scores contain errors plus arguments about
 whether the event was an error.
 
 A performer enters before a cue. Another chooses a pitch the field prohibits.
-Two players wait because each believes the other must act. A chance operation
-produces an impossible duration. The ensemble reaches a state from which no
-instruction can legally continue.
+Two players wait because each believes the other must act.
+
+A chance operation produces an impossible duration. The ensemble reaches a
+state from which no instruction can legally continue.
 
 Decide what kind of failure belongs to the work.
 
@@ -404,22 +455,25 @@ sound a designated interval, clear the texture, or allow one player to reset
 the sequence.
 
 Recovery should match the piece. A giant emergency chord will repair almost
-anything and belong to very little. *Stay On It* has an unusually apt resource:
-the theme itself can reassemble attention without pretending the disruption
-never occurred.
+anything and belong to very little.
+
+*Stay On It* has an unusually apt resource: the theme itself can reassemble
+attention without pretending the disruption never occurred.
 
 Open music becomes resilient when error does not require telepathy. Performers
 know what must be preserved, what may change, and how to find one another again.
 
-## The Freedom No One Asked For
+## Chapter 131: The Freedom No One Asked For
 
 The most common failure in open composition is not chaos. It is uncredited
 completion.
 
 The score offers a poetic sentence: “Make sounds that remember water.” The
 performers must determine instrumentation, material, relation, duration, form,
-and ending. If the result works, the sentence receives authorship. If it does
-not, the performers failed to understand its depth.
+and ending.
+
+If the result works, the sentence receives authorship. If it does not, the
+performers failed to understand its depth.
 
 A short instruction can generate a substantial piece, but concision is not
 evidence of generosity. Ask how many consequential decisions it transfers and
@@ -429,24 +483,29 @@ Another failure is option without consequence. Players may choose any of ten
 gestures, yet all occupy the same register, duration, dynamic, and formal role.
 The choices create administrative motion while the music remains unchanged.
 
-A third is curated surprise. Performers are told the composer wants outcomes
-he could not have imagined. In rehearsal, each genuinely surprising result is
-edited away until the ensemble produces the tasteful uncertainty already in
-his head.
+A third is curated surprise. Performers are told the composer wants outcomes he
+could not have imagined.
+
+In rehearsal, each genuinely surprising result is edited away until the
+ensemble produces the tasteful uncertainty already in his head.
 
 A fourth is chance as alibi. A random procedure selects a physically dangerous
-action, an offensive juxtaposition, or twenty inert minutes. The composer
-points to the method. But choosing to retain an outcome is also a choice.
+action, an offensive juxtaposition, or twenty inert minutes.
+
+The composer points to the method. But choosing to retain an outcome is also a
+choice.
 
 A fifth is identity without resistance. Every realization is declared equally
-valid because the work is open. Nothing can challenge the premise. A living
-practice has become a brand broad enough to contain its opposite.
+valid because the work is open.
+
+Nothing can challenge the premise. A living practice has become a brand broad
+enough to contain its opposite.
 
 The repair is not necessarily more notation. It is clearer ownership. Fix the
 decision you care about. Give another to someone equipped to make it. Remove
 choices that do not matter. Test the boundaries. Credit the labor.
 
-## Designing a Family of Outcomes
+## Chapter 132: Designing a Family of Outcomes
 
 Begin by naming the invariant. What must every performance preserve: a pitch,
 theme, text, behavior, sequence, relation, or ethical condition?
@@ -467,6 +526,7 @@ outcomes still belong.
 
 Test extreme realizations. Ask literal performers to find loopholes. Try dense,
 sparse, brief, prolonged, consonant, abrasive, timid, and domineering versions.
+
 Do not reject an outcome merely because it surprises you; reject it if it
 reveals that the work's identity or ethics have not been protected.
 
@@ -480,7 +540,7 @@ of the instrumentation.
 Then listen for what no one could have composed alone. That discovery is the
 reason to release control at all.
 
-## Three Experiments
+## Chapter 133: Three Experiments
 
 ### 1. Name the Decision Maker
 
@@ -493,8 +553,10 @@ sharing occurs.
 
 Circle any decision for which no agent has both authority and information. If
 performers determine the ending but cannot know the total duration, add a cue
-or change the assignment. If the composer specifies balance without knowing
-the room, identify the performer who may revise it.
+or change the assignment.
+
+If the composer specifies balance without knowing the room, identify the
+performer who may revise it.
 
 The exercise may produce no new notes. It will produce a more honest score.
 
@@ -529,8 +591,10 @@ through interaction, and a chance process selects articulation. In the second,
 rotate the assignments. In the third, rotate again.
 
 Keep the available materials constant so the change in responsibility can be
-heard. Before performing, predict which assignment will preserve identity and
-which will create the greatest burden.
+heard.
+
+Before performing, predict which assignment will preserve identity and which
+will create the greatest burden.
 
 After each version, ask every performer two questions: Which decision felt
 musically consequential? Which decision felt like work without agency?
@@ -538,13 +602,15 @@ musically consequential? Which decision felt like work without agency?
 Revise the piece using their answers. The exercise is incomplete until the
 allocation changes.
 
-## Staying with the Work
+## Chapter 134: Staying with the Work
 
 Return to *Stay On It*. A theme persists. Cells gather around it. Performers
 choose, cue, and improvise. A section may become raucous, sparse, disciplined,
-or briefly unstable. The work survives not because every outcome is equally
-Eastman's, but because specific commitments continue to be carried by people
-who know they are interpreting evidence.
+or briefly unstable.
+
+The work survives not because every outcome is equally Eastman's, but because
+specific commitments continue to be carried by people who know they are
+interpreting evidence.
 
 No definitive page relieves them of judgment. No celebration of openness
 relieves editors and institutions of credit, preservation, or care. The work's
@@ -607,6 +673,6 @@ The next score of responsibilities extends beyond the ensemble.
     Fondazione Isabella Scelsi, conference on Scelsi and Vieri Tosatti,
     <https://www.scelsi.it/en/musica-e-tecnologia-negli-anni-cinquanta--la-creativita-integrata-di-giacinto-scelsi-e-vieri-tosatti/>;
     Fondazione scholarship based on the tapes and archives,
-    <https://www.scelsi.it/dati/pub/3/doc/44.pdf>. The chapter treats the
+    <https://www.scelsi.it/dati/pub/3/doc/44.pdf>. The section treats the
     workflow as collaborative and contested rather than assigning a simple
     sole-author verdict.

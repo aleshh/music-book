@@ -1,7 +1,7 @@
 # Source Ledger: Limit
 
 This ledger separates established events, participant recollections, musical
-analysis, and the chapter's interpretations. It is a drafting aid, not the
+analysis, and the section's interpretations. It is a drafting aid, not the
 book's final citation format.
 
 ## Olivier Messiaen, `Quartet for the End of Time`
@@ -38,7 +38,7 @@ book's final citation format.
 - Use: Make the correction part of the argument against romanticizing
   deprivation. Do not imply that the actual camp conditions were mild.
 
-### Chapter interpretation
+### Section interpretation
 
 - The prison camp and available musicians selected conditions; they did not
   explain the work's theological idea, rhythmic language, scale, or formal
@@ -71,7 +71,7 @@ book's final citation format.
   https://www.arvopart.ee/en/arvo-part/work/477/
 - Confidence: HIGH.
 - Use: Describe the audible consequence of the exceptions without turning the
-  chapter into a complete harmonic analysis of tintinnabuli.
+  section into a complete harmonic analysis of tintinnabuli.
 
 ### Early performance history
 
@@ -111,7 +111,7 @@ book's final citation format.
 - Use: Support the claim that limiting pitch can enlarge the formal role of
   text, character, timing, staging, and performer personality.
 
-## Chapter-specific interpretations
+## Section-specific interpretations
 
 The following are the book's analytical proposals rather than claims made by
 the cited composers:

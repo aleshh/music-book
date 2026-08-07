@@ -1,7 +1,7 @@
 # Source Ledger: Experience Time — Making Duration Perceptible
 
 This ledger separates established events, participant recollections, musical
-analysis, and the chapter's own synthesis. It is a drafting aid, not the final
+analysis, and the section's own synthesis. It is a drafting aid, not the final
 citation format.
 
 ## Morton Feldman, `String Quartet II`
@@ -107,8 +107,8 @@ citation format.
 - Scholarly analysis: Clark Lunberry, “Remembrance of Things Present.”
   https://www.cnvill.net/files/mflunberry.pdf
 - Confidence: HIGH.
-- Use: Paraphrase. The chapter may quote “formalizing a disorientation of
-  memory,” but should not duplicate Chapter 6's general account of repetition.
+- Use: Paraphrase. The section may quote “formalizing a disorientation of
+  memory,” but should not duplicate Section 6's general account of repetition.
 
 ## Éliane Radigue, `Trilogie de la Mort`
 
@@ -153,14 +153,14 @@ citation format.
 - Claim: Messiaen's score preface identifies the abyss with time, sorrow, and
   weariness, and birds with desire for light. The movement places extremely
   slow, long-breathed clarinet material against quick birdsong figures.
-- Source: Anthony Pople, `Messiaen: Quatuor pour la fin du Temps`, chapter 3,
+- Source: Anthony Pople, `Messiaen: Quatuor pour la fin du Temps`, section 3,
   Cambridge University Press.
   https://www.cambridge.org/core/services/aop-cambridge-core/content/view/71CEFF1F9D5E14F707D20E34C5F1C77E/9781139166928c3_p40-46_CBO.pdf/abime-des-oiseaux.pdf
 - Source: published score and recordings; performance description requires a
   listening check before final publication.
 - Confidence: HIGH for program and musical contrast.
 - Caution: Attribute the theological/programmatic meaning to Messiaen. Do not
-  use the prison-camp premiere anecdote in this chapter.
+  use the prison-camp premiere anecdote in this section.
 
 ## Experienced time and analytical cautions
 
@@ -169,7 +169,7 @@ citation format.
 - Claim: Grouping, event density, attention, temporal patterning, and bodily or
   emotional response can all influence experienced musical time.
 - Source: Kristina Knowles, `Experiencing Musical Time`, Oxford University
-  Press, 2025, chapter 3.
+  Press, 2025, section 3.
   https://academic.oup.com/book/60846/chapter/529821729
 - Source: Knowles and Richard Ashley, “Measuring Experienced Time While
   Listening to Music,” in `Performing Time`, Oxford University Press, 2023.
@@ -184,7 +184,7 @@ citation format.
 - Claim: The apparent speed of time while an event unfolds and the duration
   attributed to it in memory can diverge; event density and boundaries can
   affect them differently.
-- Source: Knowles, chapter 3, above.
+- Source: Knowles, section 3, above.
 - Corroboration outside music: Roseboom et al., “Distinctive features of
   experiential time,” `Consciousness and Cognition` 118 (2024).
   https://doi.org/10.1016/j.concog.2024.103635
@@ -201,7 +201,7 @@ citation format.
   Tell Us about Musical ‘Timelessness’?”, `Music Theory Online` 24.3 (2018).
   https://www.mtosmt.org/ojs/index.php/mto/article/view/271
 - Confidence: HIGH as a theoretical distinction.
-- Use: This distinction helps the chapter avoid vague claims that a piece
+- Use: This distinction helps the section avoid vague claims that a piece
   “stops time.”
 
 ## Author's theoretical synthesis

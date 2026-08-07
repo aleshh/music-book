@@ -1,7 +1,7 @@
 # Source Ledger: Layer — Turning Relationship into Form
 
 This ledger separates established events, participant recollections, musical
-analysis, and the chapter's interpretations. It is a drafting aid, not the
+analysis, and the section's interpretations. It is a drafting aid, not the
 book's final citation format.
 
 ## Perceptual grouping, streams, and layers
@@ -147,7 +147,7 @@ book's final citation format.
 - Caveat: The figures are approximate in the interview. Attribute the claim to
   Niblock rather than converting it into definitive catalogue metadata.
 
-## Chapter-specific interpretations
+## Section-specific interpretations
 
 The following are the book's analytical proposals rather than statements made
 by the cited artists:

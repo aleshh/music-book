@@ -1,7 +1,7 @@
 # Source Ledger: Make a Harmonic World
 
 This ledger separates established history, score evidence, acoustical facts,
-and the chapter's interpretations.
+and the section's interpretations.
 
 ## Claude Debussy, the 1889 Exposition, and `Voiles`
 
@@ -56,7 +56,7 @@ and the chapter's interpretations.
   https://www.mdpi.com/2077-1444/5/2/361
 - Confidence: HIGH.
 - Boundary: Do not retell the `Für Alina` search, dedication, or deliberate
-  exceptions used in Chapter 3.
+  exceptions used in Section 3.
 
 ## Lou Harrison, William Colvig, and Old Granddad
 
@@ -85,7 +85,7 @@ and the chapter's interpretations.
 - Caveat: Do not equate the instruments with a Javanese gamelan, erase Colvig,
   or present Indonesian practice as a collection of resonant objects.
 
-## Chapter-specific interpretations
+## Section-specific interpretations
 
 - A collection becomes a harmonic world when its pitches acquire unequal and
   memorable weights through behavior.

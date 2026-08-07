@@ -86,6 +86,22 @@ section.level1 {
 }
 
 section.level1 > h1 {
+  align-items: center;
+  break-after: page;
+  display: flex;
+  height: 6.7in;
+  justify-content: center;
+  margin: 0;
+  page-break-after: always;
+  text-align: center;
+}
+
+section.level2 {
+  break-before: page;
+  page-break-before: always;
+}
+
+section.level2 > h2 {
   margin-top: 0.25in;
 }
 

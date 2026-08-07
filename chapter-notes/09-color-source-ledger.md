@@ -1,7 +1,7 @@
 # Source Ledger: Color — Letting Sound Carry the Argument
 
 This ledger separates established events, participant recollections, musical
-analysis, and the chapter's interpretations. It is a drafting aid, not the
+analysis, and the section's interpretations. It is a drafting aid, not the
 book's final citation format.
 
 ## Timbre, articulation, and blend
@@ -172,7 +172,7 @@ book's final citation format.
 - Use: A short supporting example, not a general history of
   `Klangfarbenmelodie`.
 
-## Chapter-specific interpretations
+## Section-specific interpretations
 
 The following are the book's analytical proposals rather than statements made
 by the cited artists:

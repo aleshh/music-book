@@ -1,12 +1,12 @@
-# Chapter Brief: Experience Time — Making Duration Perceptible
+# Section Brief: Experience Time — Making Duration Perceptible
 
 ## Central question
 
 How can a musical span feel necessary without being filled with incident?
 
-## Chapter promise
+## Section promise
 
-The chapter will help readers compose the experience of duration rather than
+The section will help readers compose the experience of duration rather than
 merely select a number of minutes. It will distinguish length from slowness,
 show how event rate, grouping, memory, continuity, contrast, and bodily effort
 create different temporal experiences, and offer ways to test whether a piece
@@ -120,7 +120,7 @@ heard it.
 
 ## Boundaries
 
-Reserve for later chapters:
+Reserve for later sections:
 
 - Full taxonomy and ethics of repetition: `Repeat`
 - Beating, overtones, resonance, and drone construction: `Sustain`
@@ -165,7 +165,7 @@ boundary and compare the experienced spans.
 ## Desired ending
 
 Return to the FLUX players and describe scale as something borne rather than
-merely measured. The next chapter, `Limit`, follows naturally: once duration
+merely measured. The next section, `Limit`, follows naturally: once duration
 has shown how much a musical world can ask, the composer must decide which
 materials and rules are sufficient to sustain it.
 

@@ -1,13 +1,13 @@
-# Chapter Brief: Color — Letting Sound Carry the Argument
+# Section Brief: Color — Letting Sound Carry the Argument
 
 ## Central question
 
 How can timbre, articulation, dynamics, and resonance create musical identity
 and form rather than merely decorate pitches and rhythms chosen in advance?
 
-## Chapter promise
+## Section promise
 
-By the end of the chapter, the reader should hear a tone as an evolving action,
+By the end of the section, the reader should hear a tone as an evolving action,
 not a pitch wearing an instrumental label. The reader should be able to compose
 families and trajectories of color; distinguish blend, resistance, and
 emergent sonority; use articulation and dynamics as form-bearing choices; and
@@ -21,7 +21,7 @@ another, and cross audible thresholds. Timbre is not independent wrapping
 around pitch, loudness, and duration. It is the particular way those and other
 features become one sounding event.
 
-The chapter uses three locations of change:
+The section uses three locations of change:
 
 1. Material: the internal profile of an event changes.
 2. Relationships: colors blend, remain heterogeneous, or give a familiar pitch
@@ -40,7 +40,7 @@ record's apparent “air,” and uses the residual reverb of an absent voice in
 Return to that record air at the end. What first seems to be empty background
 turns out to carry the drummer's room and the edges of other events. A sound is
 never only its nominal object; it brings a method, body, and history into the
-form. This points toward the next chapter's question of who is allowed to
+form. This points toward the next section's question of who is allowed to
 decide and act within a piece.
 
 ## Primary encounters
@@ -159,7 +159,7 @@ and a transformed return.
 
 ## Working length
 
-Approximately 6,000–7,200 words. The chapter needs a careful basic theory of
+Approximately 6,000–7,200 words. The section needs a careful basic theory of
 timbre, three primary practices, a short historical blend example, ethical and
 physical limits, and experiments. It should not become an orchestration or
 acoustics textbook.

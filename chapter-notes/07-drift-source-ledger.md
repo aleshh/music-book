@@ -58,7 +58,7 @@
 - Caveat: “No conductor” does not mean leaderless. Different musicians carry
   cueing responsibility.
 
-## Chapter-specific interpretations
+## Section-specific interpretations
 
 - Phase is a particular kind of drift: periodic copies move through changing
   offsets and realignments.

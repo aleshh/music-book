@@ -1,7 +1,7 @@
 # Source Ledger: Sustain
 
 This ledger separates established events, participant recollections, acoustical
-principles, musical analysis, and the chapter's interpretations. It is a
+principles, musical analysis, and the section's interpretations. It is a
 drafting aid, not the book's final citation format.
 
 ## Acoustical principles
@@ -114,7 +114,7 @@ drafting aid, not the book's final citation format.
   City, University of London, discussion and score examples for Scelsi.
   https://openaccess.city.ac.uk/32442/1/Black%20thesis%202024%20PDF-A.pdf
 - Confidence: HIGH.
-- Use: Base exact bar-level claims on a score if later added. The chapter can
+- Use: Base exact bar-level claims on a score if later added. The section can
   make robust movement-level observations without naming disputed premiere
   details.
 
@@ -123,7 +123,7 @@ drafting aid, not the book's final citation format.
 - Claim: Scelsi's improvisatory process and the substantial labor of assistants
   in producing scores are historically and ethically important.
 - Source bank: `research/04-agency-transmission-and-memory.txt`, anecdote 23.
-- Use: Do not tell that story in this chapter. Log the audible work here and
+- Use: Do not tell that story in this section. Log the audible work here and
   reserve the authorship question for `Release Control`, where it can receive a
   full, responsible account.
 
@@ -158,7 +158,7 @@ drafting aid, not the book's final citation format.
   or describe the room as an autonomous composer. He chose the text, room,
   pacing, level, and stopping point.
 
-## Chapter-specific interpretations
+## Section-specific interpretations
 
 The following are the book's analytical proposals rather than statements made
 by the cited artists:

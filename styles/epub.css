@@ -9,6 +9,17 @@ section.level1 {
   page-break-before: always;
 }
 
+section.level1 > h1 {
+  break-after: page;
+  page-break-after: always;
+  text-align: center;
+}
+
+section.level2 {
+  break-before: page;
+  page-break-before: always;
+}
+
 nav#toc ol,
 nav#toc ul {
   list-style: none;

@@ -1,13 +1,13 @@
-# Chapter Brief: Make a Harmonic World
+# Section Brief: Make a Harmonic World
 
 ## Central question
 
 How can pitches acquire attraction, distance, friction, and return without
 requiring a conventional chord progression or cadence?
 
-## Chapter promise
+## Section promise
 
-By the end of the chapter, the reader should be able to distinguish a pitch
+By the end of the section, the reader should be able to distinguish a pitch
 collection from a harmonic world; establish gravity through emphasis, bass,
 register, recurrence, voicing, and voice-leading; use modes and fields without
 making every note functionally equal; keep a stable sonority internally active;
@@ -23,7 +23,7 @@ duration, bass position, registral return, melodic orbit, recurring intervals,
 or the behavior of individual voices. Harmony can therefore have gravity
 without treating every departure as a problem that cadence must solve.
 
-The four locations of change organize the chapter:
+The four locations of change organize the section:
 
 1. Material: the collection may remain fixed or nearly fixed.
 2. Relationships: voicing, bass, interval, and voice-leading alter function.
@@ -95,9 +95,9 @@ they also share one clock?
 ## Boundaries
 
 - `Sustain` owns spectrum, beating, resonance, and the acoustic interior of a
-  tone. This chapter invokes those only when they alter harmonic relation.
+  tone. This section invokes those only when they alter harmonic relation.
 - `Limit` owns collection restriction and Pärt's `Für Alina` anecdote. This
-  chapter asks how pitches inside a field acquire unequal weight and uses a
+  section asks how pitches inside a field acquire unequal weight and uses a
   different Pärt work.
 - `Repeat` owns recurrence as a general formal process. Recurrence appears here
   only as one source of harmonic gravity.

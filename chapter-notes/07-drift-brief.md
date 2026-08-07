@@ -1,12 +1,12 @@
-# Chapter Brief: Drift
+# Section Brief: Drift
 
 ## Central question
 
 How can parts remain recognizably related while ceasing to share one grid?
 
-## Chapter promise
+## Section promise
 
-By the end of the chapter, the reader should be able to distinguish phase,
+By the end of the section, the reader should be able to distinguish phase,
 drift, polyrhythm, pulse, meter, and general asynchrony; design independent
 clocks whose changing relations remain audible; use breath and bodily cycles
 without turning imprecision into a virtue; shape coincidences and near-meetings

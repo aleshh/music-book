@@ -1,17 +1,17 @@
-# Chapter Brief: Attend — Composing the Listener's Notice
+# Section Brief: Attend — Composing the Listener's Notice
 
 ## Central question
 
 How can music guide attention without continually demanding it?
 
-## Chapter promise
+## Section promise
 
-The chapter will give composers a practical account of attention as a musical
+The section will give composers a practical account of attention as a musical
 relationship. Readers should leave able to distinguish focal, peripheral, and
 distributed listening; identify the musical conditions that attract or release
 notice; and design a passage that remains coherent when attention moves.
 
-The chapter will not argue that one kind of attention is morally or artistically
+The section will not argue that one kind of attention is morally or artistically
 superior. Concentration, distraction, divided attention, and return are
 different compositional conditions.
 
@@ -22,7 +22,7 @@ changing relation among sound, listener, activity, and setting. Composers shape
 that relation through contrast, rarity, register, attack, density, continuity,
 expectation, framing, and the permission—or refusal—to let attention wander.
 
-The chapter's main distinctions are:
+The section's main distinctions are:
 
 1. **Focal listening** follows one event or relationship closely.
 2. **Peripheral listening** registers a musical condition without monitoring
@@ -121,7 +121,7 @@ and social arrangement tells listeners how they are permitted to listen?
 
 ## Boundaries
 
-Reserve for later chapters:
+Reserve for later sections:
 
 - Clock time, memory over long spans, boredom, and endurance: `Experience Time`
 - Sustained-tone acoustics, beating, and resonance: `Sustain`
@@ -129,7 +129,7 @@ Reserve for later chapters:
 - General acoustic space, site, landscape, and publicness: `Place`
 - Performer agency and open notation as the central issue: `Release Control`
 
-The chapter may foreshadow these topics but should not supply their full theory.
+The section may foreshadow these topics but should not supply their full theory.
 
 ## Failure modes to address
 

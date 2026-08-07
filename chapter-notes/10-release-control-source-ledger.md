@@ -78,7 +78,7 @@
   device or imply that Cage's use exhausts its philosophical and cultural
   meaning.
 
-## Chapter-specific interpretations
+## Section-specific interpretations
 
 - A score distributes decisions rather than simply containing more or less
   control.

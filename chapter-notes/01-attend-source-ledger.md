@@ -1,7 +1,7 @@
 # Source Ledger: Attend — Composing the Listener's Notice
 
 This ledger separates established events, participant recollections, musical
-analysis, and the chapter's own synthesis. It is a drafting aid, not the final
+analysis, and the section's own synthesis. It is a drafting aid, not the final
 citation format.
 
 ## Erik Satie and `musique d'ameublement`
@@ -71,7 +71,7 @@ citation format.
 - Source: Pritchett, lines 11–37.
   https://musicofjohncage.com/2018/09/03/the-origin-of-4-33/
 - Confidence: HIGH.
-- Use: The chapter does not need to retell the anechoic story.
+- Use: The section does not need to retell the anechoic story.
 
 ## Brian Eno
 
@@ -149,7 +149,7 @@ citation format.
 - Source: Indexical, score description.
   https://www.indexical.org/pieces/tuning-meditation
 - Confidence: HIGH.
-- Caution: The chapter uses the score to show shifts of attentional width, not
+- Caution: The section uses the score to show shifts of attentional width, not
   to give the full history of Deep Listening or ensemble agency.
 
 ## Author's theoretical synthesis

@@ -1,13 +1,13 @@
-# Chapter Brief: Place
+# Section Brief: Place
 
 ## Central question
 
 How can a piece admit its surroundings without disappearing into them or
 pretending that a place is neutral?
 
-## Chapter promise
+## Section promise
 
-By the end of the chapter, the reader should be able to distinguish acoustic,
+By the end of the section, the reader should be able to distinguish acoustic,
 social, historical, and environmental dimensions of place; write music that
 frames, answers, leaves openings for, or is transformed by surrounding sound;
 design for mobile and divided attention; evaluate function, publicness,

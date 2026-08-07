@@ -1,13 +1,13 @@
-# Chapter Brief: Discover the Form
+# Section Brief: Discover the Form
 
 ## Central question
 
 How can a piece know why it should continue, how long it should last, and what
 kind of ending belongs to the world it has made?
 
-## Chapter promise
+## Section promise
 
-By the end of the chapter, the reader should be able to distinguish states,
+By the end of the section, the reader should be able to distinguish states,
 paths, processes, circles, and spirals as formal models; design beginnings that
 declare, reveal, generate, or interrupt a world; renew continuity by changing
 material, relationship, listener knowledge, or context; coordinate several
@@ -99,16 +99,16 @@ the book back to the reader's next act of listening or making.
 ## Boundaries
 
 - `Experience Time` owns clock time, felt duration, patience, and boredom.
-  This chapter asks how a whole form earns and ends its span.
-- `Repeat` owns recurrence, transformation, and ground. This chapter uses
+  This section asks how a whole form earns and ends its span.
+- `Repeat` owns recurrence, transformation, and ground. This section uses
   recurrence only as one continuity strategy.
-- `Release Control` owns who chooses transitions and endings. This chapter asks
+- `Release Control` owns who chooses transitions and endings. This section asks
   what those decisions do to the whole.
-- `Place` owns site and publicness. This chapter treats the return of the room
+- `Place` owns site and publicness. This section treats the return of the room
   after a last action as an ending strategy.
 - `Sustain` owns decay, resonance, and kinds of continuation. Takemitsu appears
   here because aftersound articulates large form.
-- Do not inventory every earlier chapter. Callbacks must advance the final
+- Do not inventory every earlier section. Callbacks must advance the final
   argument rather than summarize the table of contents.
 
 ## Failure modes to address

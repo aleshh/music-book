@@ -1,7 +1,7 @@
 # Source Ledger: Repeat — Making Sameness Consequential
 
 This ledger separates established events, participant recollections, musical
-analysis, and the chapter's interpretations. It is a drafting aid, not the
+analysis, and the section's interpretations. It is a drafting aid, not the
 book's final citation format.
 
 ## Perception and terminology
@@ -15,7 +15,7 @@ book's final citation format.
 - Corroboration: Margulis, `On Repeat`, Oxford University Press.
   https://academic.oup.com/book/9924
 - Confidence: HIGH.
-- Use: Paraphrase. Avoid a detour into neuroscience. The chapter's four
+- Use: Paraphrase. Avoid a detour into neuroscience. The section's four
   locations of change are its own analytical synthesis.
 
 ### Repetition redirects attention
@@ -61,7 +61,7 @@ book's final citation format.
   https://mtosmt.org/issues/mto.16.22.3/mto.16.22.3.steinbeck.html
 - Confidence: HIGH.
 - Analytical caution: Steinbeck uses written pitches for E-flat alto saxophone;
-  the chapter need not give concert-pitch note names.
+  the section need not give concert-pitch note names.
 
 ### Mitchell's recollection of the “battle”
 
@@ -99,7 +99,7 @@ book's final citation format.
   transcript pp. 1–2.
   https://lcweb2.loc.gov/static/programs/national-recording-preservation-board/documents/Interview_Terry-Reilly.pdf
 - Confidence: HIGH as first-person recollection; the bus scene is not
-  independently reconstructable and is not essential to the chapter.
+  independently reconstructable and is not essential to the section.
 
 ### Fifty-three cells and performer decisions
 
@@ -290,6 +290,6 @@ book's final citation format.
 - Official publication notice:
   https://stevereich.com/oxford-university-press-steve-reich-writings-on-music/
 - Confidence: HIGH.
-- Use: Brief theoretical contrast. Do not let the chapter drift into a history
+- Use: Brief theoretical contrast. Do not let the section drift into a history
   of phasing; reserve that for `Drift`.
 

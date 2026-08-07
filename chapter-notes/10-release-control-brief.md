@@ -1,13 +1,13 @@
-# Chapter Brief: Release Control
+# Section Brief: Release Control
 
 ## Central question
 
 Which decisions must a composer retain, which can performers discover, and who
 remains responsible for the consequences?
 
-## Chapter promise
+## Section promise
 
-By the end of the chapter, the reader should be able to distinguish chance in
+By the end of the section, the reader should be able to distinguish chance in
 composition from freedom in performance; understand notation as an allocation
 of responsibility; design choices, cues, rules, and open forms that preserve a
 work's identity; recognize improvisation as prepared expertise rather than an
@@ -67,7 +67,7 @@ agents a score may admit; rooms, publics, and surrounding sound also answer.
 - Vieri Tosatti's role and later claims made authorship controversial; avoid
   both lone-genius mythology and the opposite claim that Scelsi contributed
   nothing.
-- This is the deliberate continuation of Chapter 4's audible account of
+- This is the deliberate continuation of Section 4's audible account of
   `Quattro pezzi`.
 
 ## Supporting encounter
@@ -109,8 +109,8 @@ agents a score may admit; rooms, publics, and surrounding sound also answer.
   that captured layers cannot listen back.
 - `Place` owns environmental contingency and public setting.
 - `Discover the Form` owns emergent whole-form continuation and endings; this
-  chapter asks who may choose them.
-- Chapter 4 owns Scelsi's audible single-pitch method. This chapter owns the
+  section asks who may choose them.
+- Section 4 owns Scelsi's audible single-pitch method. This section owns the
   archival labor and authorship question.
 
 ## Failure modes to address

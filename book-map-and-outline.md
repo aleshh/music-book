@@ -16,13 +16,19 @@ A useful working distinction:
 - **Minimalism** is treated as a family of ways to work with repetition, reduction, process, and gradual change.
 - **The book itself** is about compositional methods, not about policing either label.
 
+Reader-facing terminology changed after the complete first draft. The twelve
+large units below are now **Sections**. Their existing second-level divisions
+are 164 short **Chapters**, numbered continuously across the book. The older
+planning material below sometimes proposes a different number of broad
+Sections; it remains useful as an idea map rather than the current contents.
+
 The strongest version may be a composer's field guide rather than a history or a theory textbook. History and theory enter when they illuminate a decision a composer can make.
 
 ---
 
 # I. Topic menu
 
-The checkboxes are deliberately empty so this section can become an editorial worksheet. “Core” means the subject probably belongs in the book's main argument; “supporting” means it could live inside another chapter; “extension” means it might become an interlude, sidebar, or omission.
+The checkboxes are deliberately empty so this section can become an editorial worksheet. “Core” means the subject probably belongs in the book's main argument; “supporting” means it could live inside another section; “extension” means it might become an interlude, sidebar, or omission.
 
 ## 1. Time, attention, and perception
 
@@ -234,7 +240,7 @@ These are not proposed as a canon, and not all should appear. Each earns a place
 
 Two editorial cautions:
 
-1. Do not make every chapter prove that an older composer was “really a minimalist.” Brahms, for example, is valuable because developing variation can challenge simplistic accounts of repetition.
+1. Do not make every section prove that an older composer was “really a minimalist.” Brahms, for example, is valuable because developing variation can challenge simplistic accounts of repetition.
 2. If the book reaches into musical traditions beyond the named concert-music lineage, engage particular practices and practitioners substantially. Avoid using “gamelan,” raga, chant, or African rhythmic traditions as anonymous sources of atmosphere or technique.
 
 ---
@@ -243,9 +249,9 @@ Two editorial cautions:
 
 ## A. A book of verbs
 
-Chapters are actions: **Attend, Wait, Limit, Sustain, Repeat, Drift, Layer, Tune, Share, Place, Continue, End**.
+Sections are actions: **Attend, Wait, Limit, Sustain, Repeat, Drift, Layer, Tune, Share, Place, Continue, End**.
 
-This is the most promising alternative to composer portraits. Verbs keep the book practical and let Cage, Brahms, Eastman, Eno, and others meet inside the same chapter without pretending they share an aesthetic program.
+This is the most promising alternative to composer portraits. Verbs keep the book practical and let Cage, Brahms, Eastman, Eno, and others meet inside the same section without pretending they share an aesthetic program.
 
 **Strengths**
 
@@ -256,11 +262,11 @@ This is the most promising alternative to composer portraits. Verbs keep the boo
 
 **Risk**
 
-- Some verbs overlap; each chapter needs a sharply framed question.
+- Some verbs overlap; each section needs a sharply framed question.
 
 ## B. An atlas of thresholds
 
-Each chapter studies a boundary where one kind of experience becomes another:
+Each section studies a boundary where one kind of experience becomes another:
 
 - Sound / silence
 - Event / state
@@ -323,7 +329,7 @@ The book moves from maximum determination toward increasing openness:
 **Strengths**
 
 - A strong philosophical arc about control and responsibility
-- Cage, Eno, Riley, Oliveros, Feldman, and Wolff fit without becoming chapter mascots
+- Cage, Eno, Riley, Oliveros, Feldman, and Wolff fit without becoming section mascots
 - Makes notation and ensemble relations central rather than supplemental
 
 **Risk**
@@ -351,7 +357,7 @@ Organize the book by the location of change:
 
 ## F. A braided field guide
 
-Three kinds of short chapter alternate:
+Three kinds of short section alternate:
 
 - **Ways of hearing** — attention, memory, expectation, space
 - **Ways of making** — limiting, repeating, layering, tuning, ending
@@ -361,7 +367,7 @@ The braid repeats five or six times, with each pass becoming more complex.
 
 **Strengths**
 
-- Varied pace and approachable chapter lengths
+- Varied pace and approachable section lengths
 - Historical examples can receive real attention without controlling the architecture
 - The form itself alternates reflection and action
 
@@ -371,7 +377,7 @@ The braid repeats five or six times, with each pass becoming more complex.
 
 ## G. Failure modes
 
-Each chapter begins from a danger:
+Each section begins from a danger:
 
 - When simplicity becomes thinness
 - When repetition becomes inertia
@@ -382,7 +388,7 @@ Each chapter begins from a danger:
 - When atmosphere erases identity
 - When an ending feels arbitrary
 
-The chapter then develops multiple musical responses rather than issuing prescriptions.
+The section then develops multiple musical responses rather than issuing prescriptions.
 
 **Strengths**
 
@@ -392,11 +398,11 @@ The chapter then develops multiple musical responses rather than issuing prescri
 
 **Risk**
 
-- A whole book framed by failure may sound corrective or workshop-like. It may work better as a recurring section within each chapter.
+- A whole book framed by failure may sound corrective or workshop-like. It may work better as a recurring section within each section.
 
 ## H. A score in prose
 
-Instead of conventional chapters, the book is made of modules that may be read in several orders. Recurring cross-references form paths such as **Time**, **Pitch**, **Listening**, **Ensemble**, and **Form**.
+Instead of conventional sections, the book is made of modules that may be read in several orders. Recurring cross-references form paths such as **Time**, **Pitch**, **Listening**, **Ensemble**, and **Form**.
 
 **Strengths**
 
@@ -415,11 +421,11 @@ The strongest design is a hybrid of **A Book of Verbs**, **Four Ways Music Can C
 
 - The **verbs** provide the visible table of contents.
 - The **four locations of change** provide the hidden intellectual framework.
-- Each chapter opens with a **compositional problem**, draws on contrasting composers, and closes with experiments and failure modes.
+- Each section opens with a **compositional problem**, draws on contrasting composers, and closes with experiments and failure modes.
 
 This avoids organizing the book by famous people while still giving individual works enough room to be more than name-checks. It also lets the book embody its argument: a limited set of concerns recurs in altered contexts.
 
-## Recurring chapter anatomy
+## Recurring section anatomy
 
 1. **The problem** — a concrete compositional question, stated in ordinary language.
 2. **A listening situation** — a brief perceptual scene or thought experiment.
@@ -428,7 +434,7 @@ This avoids organizing the book by famous people while still giving individual w
 5. **Choices** — a map of the decisions available to a composer.
 6. **Try it** — two or three compositional experiments, from constrained to open.
 7. **Failure modes** — ways the approach can flatten out, and questions that may reopen it.
-8. **Afterimage** — a short observation that points toward the next chapter.
+8. **Afterimage** — a short observation that points toward the next section.
 
 The “Try it” sections should be propositions rather than recipes. The goal is not to produce a piece “like Feldman,” but to isolate a question Feldman makes unusually audible.
 
@@ -695,7 +701,7 @@ The “Try it” sections should be propositions rather than recipes. The goal i
 
 # VI. Optional interludes
 
-Short interludes could break the regular chapter rhythm and let one problem breathe.
+Short interludes could break the regular section rhythm and let one problem breathe.
 
 - **One Note** — Scelsi, Young, and the activity inside apparent singularity
 - **The Same, Again** — a one-page taxonomy of different repetitions
@@ -711,58 +717,59 @@ Short interludes could break the regular chapter rhythm and let one problem brea
 
 # VII. Scope decisions for the next pass
 
-These choices will determine which topics become chapters and which remain brief lenses.
+These choices will determine which topics become sections and which remain brief lenses.
 
 - [ ] **Primary reader:** practicing composer, musically curious general reader, or composition student?
 - [ ] **Theory level:** prose-first; score-reading helpful; or analytically substantial?
-- [ ] **Practical component:** experiments in every chapter, a separate workbook strand, or no exercises?
+- [ ] **Practical component:** experiments in every section, a separate workbook strand, or no exercises?
 - [ ] **Repertoire center:** postwar experimental and ambient music, or a longer historical conversation with older tonal music?
-- [ ] **Improvisation:** integrated throughout or reserved for the chapters on shared agency?
-- [ ] **Tuning:** a core theoretical chapter or a focused interlude?
+- [ ] **Improvisation:** integrated throughout or reserved for the sections on shared agency?
+- [ ] **Tuning:** a core theoretical section or a focused interlude?
 - [ ] **Place and environment:** central to the definition of ambient, or one topic among many?
 - [ ] **Social and political stakes:** explicit recurring thread or concentrated discussion around agency, identity, and neutrality?
-- [ ] **Chapter scale:** 10–12 long chapters or 16 shorter, more modular chapters?
+- [ ] **Section scale:** 10–12 long sections or 16 shorter, more modular sections?
 
 ## A plausible first cut
 
-If sixteen chapters feels too expansive, combine:
+If sixteen sections feels too expansive, combine:
 
 - **Wait + Remember** into **Experience Time**
 - **Tune + Connect** into **Make a Harmonic World**
 - **Share + Chance** into **Release Control**
 - **Continue + End** into **Discover the Form**
 
-Keep **Repeat** and **Drift** separate. Drafting the sample chapter on repetition
+Keep **Repeat** and **Drift** separate. Drafting the sample section on repetition
 showed that recurrence, memory, invariants, accumulation, pressure, and
 reframing already form a complete argument. Phase, asynchronous layers,
 multiple tempos, and breath-governed coordination pose a different question:
 how recurring parts remain related when they cease to share one clock.
 
-That yields a twelve-chapter book:
+That yields the twelve Sections in the current book:
 
-1. Attend — Composing the Listener's Notice
-2. Experience Time — Making Duration Perceptible
-3. Limit
-4. Sustain
-5. Make a Harmonic World
-6. Repeat — Making Sameness Consequential
-7. Drift — Coordinating Without Locking
-8. Layer — Turning Relationship into Form
-9. Color — Letting Sound Carry the Argument
-10. Release Control
-11. Place
-12. Discover the Form
+1. Section 1: Attend — Composing the Listener's Notice
+2. Section 2: Experience Time — Making Duration Perceptible
+3. Section 3: Limit
+4. Section 4: Sustain
+5. Section 5: Make a Harmonic World
+6. Section 6: Repeat — Making Sameness Consequential
+7. Section 7: Drift — Coordinating Without Locking
+8. Section 8: Layer — Turning Relationship into Form
+9. Section 9: Color — Letting Sound Carry the Argument
+10. Section 10: Release Control
+11. Section 11: Place
+12. Section 12: Discover the Form
 
-This twelve-chapter version is the current working table of contents. The
-sixteen-chapter version remains useful as a complete map from which to select.
+This twelve-Section structure, containing 164 short Chapters, is the current
+table of contents. The sixteen-Section version remains useful as a complete map
+from which to select.
 
-Drafting Chapters 1 and 2 confirmed the `Wait + Remember` merge. `Attend` now
+Drafting Sections 1 and 2 confirmed the `Wait + Remember` merge. `Attend` now
 owns the movement among focal, peripheral, and distributed notice, while
 `Experience Time` owns clock time, felt passage, remembered span, anticipation,
-and endurance. The boundary keeps later chapters on Place and Sustain from
+and endurance. The boundary keeps later sections on Place and Sustain from
 becoming second general theories of attention or duration.
 
-Drafting `Layer` and `Color` confirmed that they require separate chapters.
+Drafting `Layer` and `Color` confirmed that they require separate sections.
 `Layer` owns changing relations among concurrent strands: density, register,
 masking, fusion, saturation, clearing, and residue. `Color` owns the internal
 identity and transformation of an event: attack, continuation, release,
@@ -790,15 +797,15 @@ The progression is now explicit: narrow the field, hear the interior of one
 sound, then ask how other pitches gather around a reference to make a harmonic
 world.
 
-Drafting the five remaining chapters confirms the rest of the sequence.
+Drafting the five remaining sections confirms the rest of the sequence.
 `Make a Harmonic World` distinguishes a pitch inventory from a field of unequal
 gravity; `Repeat` gives events recurring identity; `Drift` lets related copies
 and cycles separate; `Layer` asks how those relations are perceptually grouped;
 and `Color` enters the internal identity of each sounding event. The progression
 from pitch relation through temporal relation to perceptual relation is now
-continuous without requiring a separate chapter on melodic line.
+continuous without requiring a separate section on melodic line.
 
-The final three chapters also remain distinct. `Release Control` asks who makes
+The final three sections also remain distinct. `Release Control` asks who makes
 a musical decision and bears its consequences. `Place` asks how a work admits
 acoustics, histories, activities, publics, and surrounding sound. `Discover the
 Form` asks why the resulting world should continue, how several formal clocks
@@ -806,7 +813,14 @@ can coexist, and what kind of ending belongs to its mode of continuation.
 Performer, environment, and duration are related but not interchangeable
 sources of contingency.
 
-The completed first draft confirms the twelve-chapter architecture. No merge,
+The completed first draft confirms the twelve-section architecture. No merge,
 split, or reorder is recommended before a full reader revision. The sixteen-
-chapter map remains an index of subtopics, while the compact sequence is now
+section map remains an index of subtopics, while the compact sequence is now
 the manuscript's actual table of contents rather than a provisional cut.
+
+The 2026-08-07 flow revision changed the reader-facing scale without changing
+the argument. These twelve units are now Section divider pages; their 164
+second-level divisions are short Chapters numbered continuously across the
+book. Each Chapter starts a new page, and body prose now uses 1.500 times the
+original number of paragraphs. The result should be evaluated in reader review
+as a pacing choice, not mistaken for a substantive expansion of the text.

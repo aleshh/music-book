@@ -60,7 +60,7 @@ common_args=(
   --section-divs
   --toc
   --toc-depth=2
-  --top-level-division=chapter
+  --top-level-division=part
 )
 
 build_pdf() {
@@ -112,7 +112,7 @@ build_epub() {
   pandoc \
     "${common_args[@]}" \
     --to=epub3 \
-    --split-level=1 \
+    --split-level=2 \
     --css=styles/base.css \
     --css=styles/epub.css \
     --output="$epub_output" \

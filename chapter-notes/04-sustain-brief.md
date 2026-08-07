@@ -1,13 +1,13 @@
-# Chapter Brief: Sustain
+# Section Brief: Sustain
 
 ## Central question
 
 How can one sounding event become a field of activity rather than an inert
 thing waiting to be replaced?
 
-## Chapter promise
+## Section promise
 
-By the end of the chapter, the reader should be able to distinguish a sustained
+By the end of the section, the reader should be able to distinguish a sustained
 pitch from the changing sound that carries it; hear beating, spectral balance,
 resonance, renewal, and decay as compositional motion; use drones, pedals, and
 reference tones for different jobs; shape entrances and releases as parts of
@@ -22,7 +22,7 @@ nominal pitch can remain while its internal balance changes continuously.
 Sustained form begins when the composer chooses which of those motions the
 listener can enter, follow, and remember.
 
-The chapter is organized mainly through changes in material and listener:
+The section is organized mainly through changes in material and listener:
 
 1. Material: spectrum, intensity, tuning, articulation, and resonance evolve.
 2. Listener: attention moves from the fact of a sound to its internal activity.
@@ -112,7 +112,7 @@ can remain active and when release will expose what the sound has changed.
 - `Place` owns rooms and sites as the main formal condition. Lucier's room is
   told here once because it reveals resonance; Place may make only a brief
   callback or use another work.
-- `Release Control` owns Scelsi's improvisation and assistants. This chapter
+- `Release Control` owns Scelsi's improvisation and assistants. This section
   analyzes the credited work's audible evidence and does not tell the labor or
   authorship story.
 
@@ -151,7 +151,7 @@ transitions among these conditions carry the form.
 
 ## Working length
 
-Approximately 5,800–7,000 words. The chapter needs enough acoustics to make
+Approximately 5,800–7,000 words. The section needs enough acoustics to make
 musical decisions exact, three substantial practices, a performer-centered
 account of continuity, safety and failure modes, and experiments without
 becoming a physics or production manual.
@@ -160,5 +160,5 @@ becoming a physics or production manual.
 
 Return to Young's remembered transformer. Its apparent sameness becomes a
 field of small relations. End by letting its reference pitch raise the next
-chapter's question: once a tone can remain, how can other tones gather around
+section's question: once a tone can remain, how can other tones gather around
 it and create a harmonic world without needing a conventional destination?

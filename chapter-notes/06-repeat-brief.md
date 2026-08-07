@@ -1,13 +1,13 @@
-# Chapter Brief: Repeat — Making Sameness Consequential
+# Section Brief: Repeat — Making Sameness Consequential
 
 ## Central question
 
 How can repetition accumulate meaning instead of merely confirming what the
 listener already knows?
 
-## Chapter promise
+## Section promise
 
-By the end of the chapter, the reader should be able to hear and compose
+By the end of the section, the reader should be able to hear and compose
 several distinct kinds of repetition. The reader should understand that a
 repeated unit can remain materially stable while its relationships, listener,
 or context changes; know how the size and character of a repeating unit affect
@@ -21,7 +21,7 @@ agreement about what will remain available while change moves elsewhere. The
 composer's decisive question is therefore not simply “What repeats?” but
 “Where will the change be allowed to occur?”
 
-The chapter applies the book's four locations of change:
+The section applies the book's four locations of change:
 
 1. Material: the repeated thing is altered, accumulated, subtracted, or eroded.
 2. Relationships: the thing remains while harmony, orchestration, density,
@@ -111,12 +111,12 @@ the listeners became part of the form.
 ## Boundaries
 
 - Phase, drift, asynchronous layers, and independent clocks receive only the
-  explanation necessary for `In C`; they belong in a restored `Drift` chapter.
+  explanation necessary for `In C`; they belong in a restored `Drift` section.
 - Detailed theories of memory and long duration belong in `Experience Time`.
 - Repetition as background, furniture, or environmental condition belongs in
   `Place` and `Attend`.
-- Detailed passacaglia analysis belongs in a harmony or form chapter.
-- Do not turn the chapter into a history of musical repetition or a survey of
+- Detailed passacaglia analysis belongs in a harmony or form section.
+- Do not turn the section into a history of musical repetition or a survey of
   minimalism.
 
 ## Failure modes to address
@@ -154,7 +154,7 @@ preserves identity and one rule that permits the group to surprise itself.
 Return to Mitchell. The repeated phrase became consequential because it was
 held long enough for the room to change. Then point forward: repetition can
 also change because two recurring parts gradually stop agreeing about where
-“now” is. That is the question of drift, and it deserves a separate chapter.
+“now” is. That is the question of drift, and it deserves a separate section.
 
 ## Structural conclusion after drafting
 
@@ -163,7 +163,7 @@ The compact outline should split `Repeat Without Returning` into:
 6. Repeat — Making Sameness Consequential
 7. Drift — Coordinating Without Locking
 
-The completed chapter remains comprehensive without taking on phase,
+The completed section remains comprehensive without taking on phase,
 asynchronous layers, and breath-governed timing. The compact outline has
-therefore been revised from eleven to twelve chapters. `book-map-and-outline.md`
+therefore been revised from eleven to twelve sections. `book-map-and-outline.md`
 and `AGENTS.md` record the same rationale.

@@ -24,7 +24,7 @@
 - Confidence: HIGH for what Bryars's work uses and proposes; MEDIUM for the
   historical identity of the final hymn.
 - Caveat: Survivor accounts conflict, and hymn tunes called `Autumn` differ.
-  State this uncertainty. The chapter is about Bryars's documented premise,
+  State this uncertainty. The section is about Bryars's documented premise,
   not proof of what the band last played.
 
 ## Arvo Pärt, `Tabula rasa` and `Silentium`
@@ -35,7 +35,7 @@
 - Source: Arvo Pärt Centre official work record.
   https://www.arvopart.ee/en/arvo-part/work/537/
 - Confidence: HIGH.
-- Caveat: The chapter describes the thinning and ending as an audible
+- Caveat: The section describes the thinning and ending as an audible
   interpretation; the source establishes the work structure and composer's
   context.
 
@@ -66,7 +66,7 @@
   https://www.hkphil.org/f/concert/23254/j10w40a-tea-nightingale-E-web.pdf
   https://www.schott-music.com/en/rain-tree-noc91098.html
 - Confidence: HIGH for the literary source and instrumentation; INTERPRETIVE
-  for the chapter's formal hearing.
+  for the section's formal hearing.
 - Caveat: Ōe's image appears in related writings with a publication history
   close to the work's date. Avoid claiming the music narrates a particular
   story or that every resonant attack depicts a drop.

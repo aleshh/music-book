@@ -1,8 +1,8 @@
--- Keep each chapter's notes with that chapter and restart numbering at 1.
+-- Keep each Section's notes with that Section and restart numbering at 1.
 -- This also prevents repeated Markdown labels such as [^1] from colliding
--- when Pandoc receives several chapter files at once.
+-- when Pandoc receives several Section files at once.
 
-local chapter_number = 0
+local section_number = 0
 local note_number = 0
 local pending_notes = {}
 
@@ -41,7 +41,7 @@ end
 local function replace_note(note)
   note_number = note_number + 1
 
-  local suffix = tostring(chapter_number) .. "-" .. tostring(note_number)
+  local suffix = tostring(section_number) .. "-" .. tostring(note_number)
   local note_id = "chapter-note-" .. suffix
   local reference_id = "chapter-note-ref-" .. suffix
 
@@ -76,7 +76,7 @@ function Pandoc(document)
       if #pending_notes > 0 then
         result:insert(notes_div(pandoc.Header(2, {pandoc.Str("Notes")})))
       end
-      chapter_number = chapter_number + 1
+      section_number = section_number + 1
       note_number = 0
     end
 

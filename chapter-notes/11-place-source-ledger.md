@@ -57,7 +57,7 @@
   https://www.ircam.fr/media/uploads/creation/etincelle/etincelle_17_-_manifeste_2017.pdf
 - Confidence: HIGH as the composer's retrospective account.
 
-## Chapter-specific interpretations
+## Section-specific interpretations
 
 - Place is a bundle of acoustic, social, historical, and environmental
   relations, not a backdrop.

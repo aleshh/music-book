@@ -1,13 +1,13 @@
-# Chapter Brief: Layer — Turning Relationship into Form
+# Section Brief: Layer — Turning Relationship into Form
 
 ## Central question
 
 How can a piece develop by changing what the listener can separate, combine,
 follow, or recover within a field of simultaneous sound?
 
-## Chapter promise
+## Section promise
 
-By the end of the chapter, the reader should understand a layer as a perceptual
+By the end of the section, the reader should understand a layer as a perceptual
 and formal role rather than merely another part or recorded track. The reader
 should be able to distinguish number of parts from audible density; shape
 foreground, masking, fusion, saturation, clearing, and residue; and design a
@@ -21,7 +21,7 @@ those relations change: a line becomes texture, several strands fuse into one
 mass, a background masks a former subject, or subtraction reveals an identity
 that accumulation had concealed.
 
-The chapter is organized primarily by change in relationships, with listener
+The section is organized primarily by change in relationships, with listener
 and material as secondary locations:
 
 1. Relationships: strands separate, fuse, mask, reinforce, oppose, and trade
@@ -95,7 +95,7 @@ to be cleared.
 ## Boundaries
 
 - `Attend` owns the general theory of focal, peripheral, and distributed
-  listening. This chapter uses attention only to explain the perception of
+  listening. This section uses attention only to explain the perception of
   simultaneous strands.
 - `Experience Time` owns acclimation and duration in general.
 - `Repeat` owns recurrence, invariants, and accumulation as repetition.
@@ -143,7 +143,7 @@ the field.
 
 ## Working length
 
-Approximately 5,800–7,000 words. The chapter needs room for the perceptual
+Approximately 5,800–7,000 words. The section needs room for the perceptual
 mechanism, three contrasting practices, a usable decision map, failure modes,
 and experiments, but should remain leaner than `Repeat` because it does not need
 a historical taxonomy.

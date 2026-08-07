@@ -29,9 +29,20 @@ CHROME_BIN="/path/to/chrome" make pdf
 ## What gets included
 
 Every file matching `chapters/[0-9][0-9]-*.md` is included in filename order.
-This means drafted chapters build correctly even while some chapter numbers are
-still missing. Chapter footnotes are kept with their chapter and restart at 1;
-the Markdown files themselves are not modified.
+Despite the historical directory name, each file is now one reader-facing
+Section. Second-level headings are globally numbered short Chapters. Section
+notes are kept with their Section and restart at 1; the Markdown files
+themselves are not modified during a build.
+
+The EPUB is split at heading level 2, so each short Chapter is packaged as its
+own document. This produces a reliable page transition even in readers that
+ignore CSS page-break requests.
+
+After inserting, deleting, or moving a short Chapter, renumber the sequence:
+
+```sh
+python3 scripts/restructure-fast-flow.py --renumber
+```
 
 ## Formatting controls
 
@@ -39,7 +50,8 @@ the Markdown files themselves are not modified.
 - Edit `styles/base.css` for the body and heading fonts, type size, leading,
   colors, paragraph indents, and shared typography.
 - Edit `styles/pdf.css` for the PDF page size, margins, title page, contents,
-  page numbers, and print-specific spacing.
+  page numbers, Section divider pages, Chapter starts, and print-specific
+  spacing.
 - Edit `styles/epub.css` for EPUB-only layout choices.
 
 The default PDF trim size is 6 by 9 inches. EPUB readers often let readers

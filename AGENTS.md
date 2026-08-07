@@ -41,13 +41,13 @@ after giving the reader something audible for it to name.
   possibilities. Preserve it as source material; do not rewrite it unless the
   user explicitly asks.
 - `book-map-and-outline.md` — expanded topic map, alternative architectures,
-  and provisional sixteen- and twelve-chapter outlines. This is a working
+  and provisional sixteen- and twelve-section outlines. This is a working
   document and may be revised when drafting reveals a better book structure.
 - `book-tracker.md` — book-wide progress, concept ownership, and use ledger for
   anecdotes, repertoire, and invented examples. Update it before and after
-  every full chapter draft.
+  every full section draft.
 - `Voice` — canonical author persona and prose guide. Read it before outlining,
-  drafting, or revising a chapter. When local chapter prose conflicts with it,
+  drafting, or revising a section. When local section prose conflicts with it,
   `Voice` wins unless the user requests a new direction.
 - `research/01-listening-time-and-place.txt` — verified anecdotes concerning
   Cage, Eno, Oliveros, Young, Takemitsu, and John Luther Adams.
@@ -59,7 +59,7 @@ after giving the reader something audible for it to name.
   concerning Mitchell, Scelsi, Cage and Feldman, Eastman, Lucier, Bryars, and
   Harrison.
 - `research/05-drafting-discoveries.txt` — verified anecdotes discovered during
-  chapter-led research, continuing the stable numbering of the original banks.
+  section-led research, continuing the stable numbering of the original banks.
 - `research/06-user-contributed-material.txt` — researched versions of ideas and
   remembered anecdotes supplied by the user, including explicit corrections or
   caveats when the remembered form cannot be verified.
@@ -67,9 +67,21 @@ after giving the reader something audible for it to name.
 The research files are a source bank, not finished prose. Recheck their source
 links before making a claim more exact than the note itself.
 
-Future full chapter drafts should normally go in `chapters/` and use filenames
+Future full section drafts should normally go in `chapters/` and use filenames
 such as `01-attend.md`. Create that directory only when drafting begins. Keep
-research notes and structural memos outside the chapter prose.
+research notes and structural memos outside the section prose.
+
+The directory name is now historical. In the reader-facing hierarchy, each
+numbered Markdown file is a **Section**, not a chapter. Each second-level
+heading inside those files is a short, globally numbered **Chapter**. `Notes`
+remains unnumbered. A Section owns the full compositional argument, brief,
+source ledger, anecdote allocation, and editorial status; a Chapter is a brisk
+stage in that argument and does not receive a separate brief or source ledger.
+
+When a short Chapter is inserted, removed, or moved, renumber every following
+Chapter across the manuscript. Section numbers remain stable unless the
+book-scale structure changes. Run
+`python3 scripts/restructure-fast-flow.py --renumber` after such an edit.
 
 ## Author and voice
 
@@ -115,29 +127,29 @@ the hidden intellectual framework:
    acclimation.
 4. The context changes: performers, acoustics, activity, place, or duration.
 
-The completed first draft uses this compact table of contents:
+The completed first draft uses twelve Sections:
 
-1. Attend
-2. Experience Time
-3. Limit
-4. Sustain
-5. Make a Harmonic World
-6. Repeat — Making Sameness Consequential
-7. Drift — Coordinating Without Locking
-8. Layer — Turning Relationship into Form
-9. Color — Letting Sound Carry the Argument
-10. Release Control
-11. Place
-12. Discover the Form
+1. Section 1: Attend
+2. Section 2: Experience Time
+3. Section 3: Limit
+4. Section 4: Sustain
+5. Section 5: Make a Harmonic World
+6. Section 6: Repeat — Making Sameness Consequential
+7. Section 7: Drift — Coordinating Without Locking
+8. Section 8: Layer — Turning Relationship into Form
+9. Section 9: Color — Letting Sound Carry the Argument
+10. Section 10: Release Control
+11. Section 11: Place
+12. Section 12: Discover the Form
 
-All twelve chapter drafts, briefs, and source ledgers now exist. `Repeat` and
-`Drift` were separated after the sample repetition chapter showed
+All twelve section drafts, briefs, and source ledgers now exist. `Repeat` and
+`Drift` were separated after the sample repetition section showed
 that each carries a distinct full argument. Repetition concerns recurrence,
 memory, invariants, accumulation, pressure, and reframing. Drift concerns phase,
 asynchronous layers, multiple tempos, breath, and parts that remain related
 without sharing one clock.
 
-The sixteen-chapter map in `book-map-and-outline.md` remains useful for finding
+The sixteen-section map in `book-map-and-outline.md` remains useful for finding
 subtopics. The first-draft audit found no current reason to merge, split, or
 reorder the compact sequence. Reconsider it during reader revision only when
 the manuscript demonstrates that two ideas repeat one another or require
@@ -146,19 +158,19 @@ contents look symmetrical.
 
 When revising the outline:
 
-- Give each major concept one clear home chapter.
-- Note where another chapter may foreshadow or revisit it.
+- Give each major concept one clear home section.
+- Note where another section may foreshadow or revisit it.
 - Avoid using the same anecdote twice unless the second use changes its meaning.
-- Preserve cumulative movement even though individual chapters stand alone.
+- Preserve cumulative movement even though individual sections stand alone.
 - Record the reason for a substantive merge, split, or reorder in the outline.
 
-## Standard for a full chapter
+## Standard for a full section
 
-Every chapter must:
+Every section must:
 
 - Comprehensively answer one sharply framed compositional question.
 - Remain engaging from its opening scene through its final paragraph.
-- Stand alone for a reader who has not read previous chapters.
+- Stand alone for a reader who has not read previous sections.
 - Demonstrate theory through audible consequences.
 - Include contrasting practices rather than a parade of agreeing authorities.
 - Give the reader decisions to make, not a formula for reproducing a style.
@@ -167,11 +179,25 @@ Every chapter must:
 - End with an afterimage or open question that creates appetite for the book's
   next concern without using a promotional cliffhanger.
 
-Do not pad a chapter to a predetermined length. Before drafting, set a working
-word range based on the ground it must cover. A chapter is finished when its
+Do not pad a section to a predetermined length. Before drafting, set a working
+word range based on the ground it must cover. A section is finished when its
 argument has earned its duration.
 
-## Recurring chapter movement
+## Short-Chapter flow and paragraph rhythm
+
+The current manuscript has 164 short Chapters numbered continuously through
+the twelve Sections. Each Chapter begins on a new page in PDF and requests a
+new page in EPUB. Section titles receive their own divider pages.
+
+Favor short, breathable body paragraphs. The fast-flow edit split 662 of 1,325
+body paragraphs at natural sentence boundaries, producing 1,987 paragraphs
+without changing the argument or splitting notes, lists, and headings. Preserve
+that rhythm when revising: paragraphs should normally make one move, and a new
+consequence or turn in the thought may begin a new paragraph. Do not reduce the
+prose to a sequence of isolated one-sentence emphases merely to create white
+space.
+
+## Recurring section movement
 
 Use this as a flexible anatomy, not a template:
 
@@ -191,7 +217,7 @@ return must add consequence.
 
 ## Using composers and anecdotes
 
-Composers are lenses, witnesses, and provocations—not chapter mascots or saints
+Composers are lenses, witnesses, and provocations—not section mascots or saints
 in a lineage. Give a work enough musical detail to do analytical work. Do not
 name six composers where two close encounters would teach more.
 
@@ -222,7 +248,7 @@ When the user supplies a new anecdote, idea, work, metaphor, objection, or
 personal note, add it first to the incoming-material queue in
 `book-tracker.md`. Preserve any attribution or source the user provides,
 identify the musical function it could serve, check it against prior use, and
-recommend its best chapter home. Hold material that has no earned place rather
+recommend its best section home. Hold material that has no earned place rather
 than forcing it into the current draft. Verify factual claims before moving an
 item into publication-quality prose.
 
@@ -290,20 +316,20 @@ The most useful exercise sequence is:
 
 ## Drafting protocol
 
-Before drafting a chapter:
+Before drafting a section:
 
 1. Read `Voice`, the relevant outline sections, and all related research notes.
 2. Consult `book-tracker.md`; search existing drafts for every proposed
    anecdote, work, distinctive factual detail, and pedagogical example.
-3. Write a one-page chapter brief: central question, promise, necessary topics,
+3. Write a one-page section brief: central question, promise, necessary topics,
    primary encounters, counterexample, experiments, and material reserved for
-   other chapters.
+   other sections.
 4. Reserve chosen anecdotes in `book-tracker.md`, stating what each will make
    audible and whether any return to prior material performs new analytical work.
 5. Build a source ledger with claim, source, confidence, and caveat.
 6. Decide which location or locations of change organize the argument.
 7. Create a section-level narrative arc, including the opening and afterimage.
-8. Set a working length based on the chapter brief.
+8. Set a working length based on the section brief.
 
 During drafting:
 
@@ -311,7 +337,7 @@ During drafting:
 2. Keep anecdotes attached to the musical question they illuminate.
 3. Make every theoretical passage audible to an intelligent nonspecialist.
 4. Track promised topics so comprehensive does not become encyclopedic.
-5. Put displaced but valuable material in chapter notes rather than forcing it
+5. Put displaced but valuable material in section notes rather than forcing it
    into the prose.
 
 After drafting, use separate passes:
@@ -323,15 +349,15 @@ After drafting, use separate passes:
 5. Voice pass: Does the prose follow `Voice` without becoming mannered?
 6. Momentum pass: Does attention flag anywhere, especially after anecdotes?
 7. Continuity pass: What must change in the table of contents, neighboring
-   chapter briefs, or cross-references?
+   section briefs, or cross-references?
 8. Line pass: Remove throat-clearing, repeated claims, inert abstractions,
    ornamental metaphor, and unearned aphorisms.
 9. Ledger pass: Mark used anecdotes and examples, record all deliberate
-   returns, and update chapter status in `book-tracker.md`.
+   returns, and update section status in `book-tracker.md`.
 
 ## Definition of done
 
-A chapter is ready for editorial review only when:
+A section is ready for editorial review only when:
 
 - Its central question can be stated in one sentence.
 - Its opening creates a real musical problem, not merely atmosphere.
@@ -340,8 +366,8 @@ A chapter is ready for editorial review only when:
 - Historical claims have a recoverable source trail.
 - Composers remain distinct rather than being made to agree.
 - The practical experiments test the argument.
-- The chapter acknowledges where its method can fail.
+- The section acknowledges where its method can fail.
 - Its ending changes the meaning of its opening.
 - Any resulting outline changes have been recorded.
-- Its chapter status, anecdotes, repertoire, and invented examples are current
+- Its section status, anecdotes, repertoire, and invented examples are current
   in `book-tracker.md`.

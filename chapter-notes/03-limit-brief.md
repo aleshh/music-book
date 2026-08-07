@@ -1,13 +1,13 @@
-# Chapter Brief: Limit
+# Section Brief: Limit
 
 ## Central question
 
 When does a restriction create musical depth, and when does it merely leave a
 piece with fewer options?
 
-## Chapter promise
+## Section promise
 
-By the end of the chapter, the reader should be able to distinguish several
+By the end of the section, the reader should be able to distinguish several
 kinds of limit—inventory, action, relation, duration, agency, and circumstance;
 choose a restriction for the attention it redistributes rather than for its
 appearance of rigor; recognize selection and rule-breaking as continuing
@@ -24,7 +24,7 @@ exception becomes legible. The composer remains responsible for choosing the
 limit, shaping its consequences, and deciding when obedience has stopped
 serving the piece.
 
-The chapter uses all four locations of change:
+The section uses all four locations of change:
 
 1. Material: the inventory is reduced or selected.
 2. Relationships: rules determine what the materials may do to one another.
@@ -107,7 +107,7 @@ inside it before something else is added?
   as a boundary on behavior, not as a theory of return.
 - `Release Control` owns chance, performer agency, open notation, and
   distributed authorship. Limit may ask who chose a boundary without solving
-  that later chapter.
+  that later section.
 - Cage's prepared-piano origin story belongs to `Color` and is not retold.
 
 ## Failure modes to address
@@ -145,7 +145,7 @@ produce attention and which merely produce compliance.
 
 ## Working length
 
-Approximately 5,500–6,800 words. The chapter needs a precise map of
+Approximately 5,500–6,800 words. The section needs a precise map of
 constraints, two substantial historical encounters, one comic counterexample,
 ethical cautions, a practical decision sequence, and experiments.
 

@@ -31,9 +31,9 @@ body {
 }
 
 p {
-  margin: 0;
+  margin: 0 0 0.48em;
   orphans: 3;
-  text-indent: 1.25em;
+  text-indent: 0;
   widows: 3;
 }
 
@@ -52,29 +52,20 @@ h6 {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 2.15rem;
   letter-spacing: -0.015em;
   margin: 0 0 0.45em;
 }
 
 h2 {
-  font-size: 1.28rem;
-  letter-spacing: 0.005em;
-  margin: 2.35em 0 0.7em;
+  font-size: 1.48rem;
+  letter-spacing: 0;
+  margin: 0 0 1.15em;
 }
 
 h3 {
   font-size: 1.05rem;
   margin: 1.8em 0 0.6em;
-}
-
-h1 + h2 {
-  color: var(--muted-color);
-  font-family: var(--book-serif);
-  font-size: 1.16rem;
-  font-style: italic;
-  font-weight: 400;
-  margin: -0.25em 0 2.2em;
 }
 
 h1 + p,
@@ -142,6 +133,10 @@ code {
 .chapter-notes {
   font-size: 0.86em;
   line-height: 1.4;
+}
+
+.chapter-notes p {
+  margin-bottom: 0;
 }
 
 .chapter-notes ol {
