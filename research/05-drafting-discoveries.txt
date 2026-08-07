@@ -87,3 +87,41 @@ Sources:
   https://ressources.ircam.fr/en/work/string-quartet-ii
 - Original 1983 concert program:
   https://www.newmusicconcerts.com/wp-content/uploads/2021/06/December-4-1983-Concert-Program-1.pdf
+
+=========================================================================
+33. TWO IDENTICAL VOICES REFUSE TO REMAIN IDENTICAL
+
+Musical idea: Drift is audible only because two parts retain a recognizable
+relationship while their relative positions change.
+
+In 1964, Steve Reich recorded a Black Pentecostal street preacher known as
+Brother Walter in San Francisco's Union Square. While working with a loop of
+the phrase “It's gonna rain,” Reich placed identical copies on two inexpensive
+recorders. He intended a fixed contrapuntal relation, but small speed
+differences caused the copies to separate gradually. The single cadence became
+an echo, then a stream of changing attacks, then a dense counterpoint before
+passing through later alignments. Reich treated the accident as a compositional
+process and completed `It's Gonna Rain` in 1965.
+
+The story is useful because the process changes relationship rather than
+material. Each copy remains the same fragment; only their offset changes. It
+also requires an ethical and musical qualification: the material is not a
+neutral syllable pattern. It remains Brother Walter's voice and apocalyptic
+sermon. Reich has said that repetition intensifies rather than erases the
+meaning. Any discussion of the resulting rhythm should retain the speaker and
+the warning carried by his cadence.
+
+Verification: STRONG. Reich recounts the accidental discovery in his writings
+and interviews. Nonesuch's 2023 presentation of his first-person account
+confirms Brother Walter, Union Square, the two aligned recorders, and their
+gradual separation. The recording year is 1964 and the work's date is 1965;
+sources sometimes collapse them into one year, so keep the sequence clear.
+
+Sources:
+- Nonesuch, “Steve Reich on Composing `It's Gonna Rain`,” with Boosey & Hawkes
+  first-person video:
+  https://www.nonesuch.com/journal/watch-steve-reich-composing-its-gonna-rain-2023-08-17
+- American Mavericks, interview with Steve Reich:
+  https://musicmavericks.publicradio.org/features/interview_reich.html
+- Steve Reich, `Writings on Music 1965–2000`, Oxford University Press:
+  https://academic.oup.com/book/27047

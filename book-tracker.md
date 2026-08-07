@@ -70,9 +70,9 @@ existing heading.
 | 2 | Experience Time | Complete | Complete | Drafted | Initial structural, source, overlap, and voice pass complete; reader review pending |
 | 3 | Limit | Complete | Complete | Drafted | Initial structural, source, overlap, musical, and voice pass complete; reader review pending |
 | 4 | Sustain | Complete | Complete | Drafted | Initial structural, source, overlap, musical, and voice pass complete; reader review pending |
-| 5 | Make a Harmonic World | Not started | Not started | Not started | — |
+| 5 | Make a Harmonic World | Complete | Complete | Not started | Debussy and Harrison reserved; drafting underway |
 | 6 | Repeat — Making Sameness Consequential | Complete | Complete | Drafted | Partial reader review; full editorial passes remain |
-| 7 | Drift — Coordinating Without Locking | Not started | Not started | Not started | — |
+| 7 | Drift — Coordinating Without Locking | Complete | Complete | Not started | Reich phase, Nancarrow, and Reich breath-time encounters reserved; drafting underway |
 | 8 | Layer — Turning Relationship into Form | Complete | Complete | Drafted | Initial structural, source, overlap, musical, and voice pass complete; reader review pending |
 | 9 | Color — Letting Sound Carry the Argument | Complete | Complete | Drafted | Initial structural, source, overlap, musical, and voice pass complete; reader review pending |
 | 10 | Release Control | Not started | Not started | Not started | — |
@@ -142,8 +142,8 @@ deciding what musical claim the story will support.
 | 15 | An audience demands an immediate repeat of Ligeti's `Atmosphères` | **Used—primary, Ch. 8** | “Eighty-Nine Parts, No Soloist”; the premiere story establishes that behavior at the level of mass can be immediately legible without a foreground melody |
 | 16 | Cage prepares a piano because there is no room for percussion | **Used—primary, Ch. 9** | “A Percussion Ensemble Inside One Piano”; constraint reveals a latent ensemble inside one keyboard and makes pitch inseparable from material attack and resonance |
 | 17 | Feldman composes `Rothko Chapel` for the room | Available | Place; possibly Color if the room story is reserved elsewhere |
-| 18 | `Music for 18 Musicians` runs on clock time and breath time | Available | Drift |
-| 19 | Debussy hears Javanese gamelan—and the simple influence story fails | Available | Make a Harmonic World or Color; retain the colonial-history caution |
+| 18 | `Music for 18 Musicians` runs on clock time and breath time | **Reserved, Ch. 7** | Primary encounter for comfortable breath phrasing within a continuous shared pulse and distributed performer cues |
+| 19 | Debussy hears Javanese gamelan—and the simple influence story fails | **Reserved, Ch. 5** | Opens and closes Make a Harmonic World; categories challenged without a conversion myth or anonymous borrowing |
 | 20 | Messiaen's prison-camp premiere, with the legend corrected | **Used—primary, Ch. 3** | Opens and closes Limit; imposed conditions select the ensemble without receiving credit for the composition; do not retell the corrected premiere |
 | 21 | Meredith Monk discovers the voice can be an instrument | **Used—primary, Ch. 9** | “The Voice Finds More Voices”; embodied vocal exploration becomes a vocabulary of attacks, registers, textures, and distinct ensemble identities |
 | 22 | Roscoe Mitchell holds a hostile crowd with one repeated phrase | **Used—primary, Ch. 6** | Opens and closes the chapter; Willisau circumstances, phrase transformations, audience exchange, and return all used |
@@ -152,11 +152,12 @@ deciding what musical claim the story will support.
 | 25 | `Stay On It` survives through instructions, recordings, and people | Available | Release Control |
 | 26 | Lucier lets a room smooth his speech | **Used—primary, Ch. 4** | “The Room Selects”; resonance as selective continuation and embodied transformation used; Place may make only a brief callback |
 | 27 | Bryars returns to find an office silenced by a singer | **Used—primary, Ch. 6** | Recording origin, unidentified singer, flexible cycle, accompaniment, and Bryars's remembered studio response used; do not retell |
-| 28 | Harrison and Colvig build “Old Granddad” | Available | Make a Harmonic World or Sustain; preserve collaboration and cultural context |
+| 28 | Harrison and Colvig build “Old Granddad” | **Reserved, Ch. 5** | Primary encounter for tuning, interval character, and instrument-building as a harmonic world; preserve Colvig and cultural context |
 | 29 | FLUX Quartet confronts Feldman's four oversized `String Quartet II` scores | **Used—primary, Ch. 2** | Opens and closes the chapter; score size, long sections, distant recurrences, performance history, and bodily scale used |
 | 30 | Kronos races the CBC midnight clock during Feldman's quartet premiere | **Used—supporting, Ch. 2** | “Midnight”; external clock, onstage watch, acceleration, and `O Canada` deadline used |
 | 31 | Patrick Shiroishi makes a changing ensemble from one saxophonist through live self-layering | **Used—primary, Ch. 8** | Opens and closes the chapter; captured past gestures become strands the present player can answer, oppose, mask, or clear. Release Control may make only a brief callback to the agency asymmetry |
 | 32 | DJ Shadow treats a drum break as a family of nonidentical events, preserving alternate hits, decay, ambience, and performed timing | **Used—primary, Ch. 9** | Opens and closes the chapter; repeated rhythmic function carries varied sonic identity. The corrected nine- and sixteen-fragment accounts are used; never restore the unverified “dozen snares from a jazz record” version |
+| 33 | Two identical copies of Brother Walter's warning drift apart and reveal phase | **Reserved, Ch. 7** | Opens and closes Drift; changing offset generates counterpoint while the speaker and sermon remain identifiable |
 
 Source-bank locations:
 
@@ -165,7 +166,8 @@ Source-bank locations:
 - 15–21: `research/03-texture-timbre-and-embodiment.txt`
 - 22–28: `research/04-agency-transmission-and-memory.txt`
 - 29–30: `research/05-drafting-discoveries.txt`
-- 31 onward: `research/06-user-contributed-material.txt`
+- 31–32: `research/06-user-contributed-material.txt`
+- 33 onward (chapter-led discoveries): `research/05-drafting-discoveries.txt`
 
 ## Repertoire and authority already used in drafted chapters
 
