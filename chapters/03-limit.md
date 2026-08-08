@@ -1,6 +1,6 @@
 # Section 3: Limit
 
-## Chapter 29: What a Boundary Makes Audible
+## 29. What a Boundary Makes Audible
 
 In the winter of 1940–41, four professional musicians were prisoners at Stalag
 VIII-A near Görlitz. Henri Akoka played clarinet. Jean Le Boulaire played
@@ -51,7 +51,7 @@ What habit does it prevent? What relation does it intensify? Who chose it, and
 who must live inside it? Most importantly, what decisions remain after the rule
 has been stated?
 
-## Chapter 30: A Limit Is Not a Lack
+## 30. A Limit Is Not a Lack
 
 Imagine a table with three objects on it: a cup, a key, and a folded piece of
 paper. If these are the only objects available, we can describe the table as
@@ -90,7 +90,7 @@ Some are inherited. Some should be resisted rather than celebrated. The useful
 question is not whether the boundary was voluntary. It is whether the music
 has developed a consequential way of meeting it.
 
-## Chapter 31: What, Exactly, Is Limited?
+## 31. What, Exactly, Is Limited?
 
 The word *constraint* often suggests a prohibition: do not use more than five
 pitches; do not repeat a duration; do not play loudly.
@@ -159,7 +159,7 @@ hear…* If the sentence cannot be finished, the limit may be a private aid, a
 habit, or a decoration in the programme note. Any of those may be harmless.
 None has yet earned the right to govern the piece.
 
-## Chapter 32: The Price of an Event
+## 32. The Price of an Event
 
 A limit changes what an event costs.
 
@@ -199,7 +199,7 @@ This is compositional leverage, not free expression. A small event can bear
 great weight only if the rest of the piece has prepared the scale on which that
 weight can be felt.
 
-## Chapter 33: Two Voices, One Language
+## 33. Two Voices, One Language
 
 On February 7, 1976, according to his wife, Nora, Arvo Pärt wrote a short piano
 piece after roughly eight years of creative searching.
@@ -261,7 +261,7 @@ remain after a lucid rule is found: range, spacing, pacing, resonance, phrase
 shape, exception, title, and the human situation in which the method will be
 heard. Reduction has not removed choice. It has made choice easier to locate.
 
-## Chapter 34: A Rule Is Not an Alibi
+## 34. A Rule Is Not an Alibi
 
 Once a process has been designed, it can become tempting to obey it with a kind
 of relief. The rule will choose the next pitch. The count will determine the
@@ -323,7 +323,7 @@ in the hall.
 The ear is not disrespecting the system when it hears another piece. It is
 reporting the result.
 
-## Chapter 35: Rules That Behave
+## 35. Rules That Behave
 
 Some limits work as fences. They keep particular materials outside. Others
 work as engines: each event alters what can happen next.
@@ -388,7 +388,7 @@ A piece with seven equally sacred constraints is likely to become a small
 bureaucracy. Music can survive administration, but it should not be made to
 fill out forms unless the forms are the point.
 
-## Chapter 36: Four Notes, Five Egos
+## 36. Four Notes, Five Egos
 
 Tom Johnson's *The Four Note Opera* uses A, B, D, and E. Five singers—a
 soprano, contralto, tenor, baritone, and bass—play characters named for their
@@ -438,7 +438,7 @@ The rule has become dramatic circumstance.
 A constraint becomes personal not when no one else has used it, but when the
 composer discovers a characteristic set of consequences inside it.
 
-## Chapter 37: Tasteful Thinness
+## 37. Tasteful Thinness
 
 Reduction has acquired a flattering cultural vocabulary. A sparse object may be
 called disciplined, essential, contemplative, pure, or honest before anyone has
@@ -489,7 +489,7 @@ composer to distinguish risk from negligence and limitation from romance.
 A constraint can be abrasive, comic, ugly, tender, or physically intense. It
 should not be exempt from judgment because it is simple enough to summarize.
 
-## Chapter 38: When the Rule Should Break
+## 38. When the Rule Should Break
 
 Some constraints are productive precisely because they never break. Their
 continuity creates the condition in which every other relation becomes legible.
@@ -535,7 +535,7 @@ present in spacing, register, effort, resonance, ensemble relation, or memory.
 An exception should not rescue a rule from the consequences of being poorly
 chosen.
 
-## Chapter 39: Designing a Useful Limit
+## 39. Designing a Useful Limit
 
 Begin with a musical problem, not an admiration for small numbers.
 
@@ -577,7 +577,7 @@ The aim is not to find the smallest possible method. It is to find a boundary
 strong enough to make decisions audible and permeable enough to let the music
 answer back.
 
-## Chapter 40: Three Experiments
+## 40. Three Experiments
 
 ### 1. The Cost of One Event
 
@@ -648,7 +648,7 @@ If the musicians must follow a difficult rule that produces no experiential
 consequence, either redesign it or admit that the difficulty is the subject.
 Do not hide labor behind elegance.
 
-## Chapter 41: The Vessel and What It Holds
+## 41. The Vessel and What It Holds
 
 Return to Stalag VIII-A. There are four musicians: clarinet, violin, cello, and
 piano. Those facts matter. They shape register, balance, attack, sustain,

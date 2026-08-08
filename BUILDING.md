@@ -19,7 +19,7 @@ To report the manuscript count without rebuilding anything, run:
 make word-count
 ```
 
-This reports a stable editorial count that excludes generated `Chapter N:`
+This reports a stable editorial count that excludes generated `N.` heading
 labels, plus the literal Markdown-source count. Both include headings,
 exercises, notes, and source URLs.
 
@@ -40,15 +40,15 @@ CHROME_BIN="/path/to/chrome" make pdf
 
 Every file matching `chapters/[0-9][0-9]-*.md` is included in filename order.
 Despite the historical directory name, each file is now one reader-facing
-Section. Second-level headings are globally numbered short Chapters. Section
-notes are kept with their Section and restart at 1; the Markdown files
-themselves are not modified during a build.
+Section. Second-level headings are short pieces numbered globally without a
+categorical label. Section notes are kept with their Section and restart at 1;
+the Markdown files themselves are not modified during a build.
 
-The EPUB is split at heading level 2, so each short Chapter is packaged as its
+The EPUB is split at heading level 2, so each numbered piece is packaged as its
 own document. This produces a reliable page transition even in readers that
 ignore CSS page-break requests.
 
-After inserting, deleting, or moving a short Chapter, renumber the sequence:
+After inserting, deleting, or moving a numbered piece, renumber the sequence:
 
 ```sh
 python3 scripts/restructure-fast-flow.py --renumber
@@ -60,7 +60,7 @@ python3 scripts/restructure-fast-flow.py --renumber
 - Edit `styles/base.css` for the body and heading fonts, type size, leading,
   colors, paragraph indents, and shared typography.
 - Edit `styles/pdf.css` for the PDF page size, margins, title page, contents,
-  page numbers, Section divider pages, Chapter starts, and print-specific
+  page numbers, Section divider pages, numbered-piece starts, and print-specific
   spacing.
 - Edit `styles/epub.css` for EPUB-only layout choices.
 

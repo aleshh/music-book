@@ -1,6 +1,6 @@
 # Section 5: Make a Harmonic World
 
-## Chapter 55: Gravity Without Destination
+## 55. Gravity Without Destination
 
 At the Paris Exposition of 1889, Claude Debussy heard musicians from Java. Six
 years later, writing to Pierre Louÿs, he praised the nuance of Javanese music
@@ -49,7 +49,7 @@ What makes an unchanged chord continue to have an inner life? And when does
 harmonic openness become only a pleasant fog in which no decision carries
 weight?
 
-## Chapter 56: A Collection Is Not a World
+## 56. A Collection Is Not a World
 
 Take five pitches: D, E, G, A, and C.
 
@@ -100,7 +100,7 @@ different worlds hiding beneath one label.
 Inventory is where harmonic thought begins. Behavior is where it becomes
 music.
 
-## Chapter 57: How a Pitch Acquires Weight
+## 57. How a Pitch Acquires Weight
 
 Functional harmony gives us a finely developed account of attraction. A leading
 tone tends upward, a dissonance receives a patterned resolution, and a dominant
@@ -166,7 +166,7 @@ know which evidence the listener is being given.
 “There is no tonic” is sometimes a precise description. At other times it means
 that the composer has not noticed the tonic created by thirty low Ds.
 
-## Chapter 58: A Symmetrical Scale, an Unequal Piece
+## 58. A Symmetrical Scale, an Unequal Piece
 
 Debussy's *Voiles*, the second prelude in the first book of *Préludes*, spends
 most of its outer spans inside one whole-tone collection. A whole-tone scale
@@ -224,7 +224,7 @@ studies, habits, and decisions.
 
 A category can be transformed without its replacement being stolen whole.
 
-## Chapter 59: When a Reference Becomes Harmony
+## 59. When a Reference Becomes Harmony
 
 In the preceding section, we distinguished a drone, a pedal, and a reference
 tone by the jobs they perform.
@@ -262,7 +262,7 @@ not progressed; the floor has moved under them.
 This is harmonic motion by reinterpretation. The frame changes, so the same
 object acquires another function.
 
-## Chapter 60: Voice-Leading Is the Journey
+## 60. Voice-Leading Is the Journey
 
 Chord symbols encourage us to imagine harmony as a row of labeled boxes. One
 box says D minor, the next B-flat major, the next C. The labels identify useful
@@ -304,7 +304,7 @@ as harmonic even though the chord name is unchanged.
 The smaller the pitch inventory, the more exposed these paths become. An inner
 voice has nowhere to hide, which is either an opportunity or an indictment.
 
-## Chapter 61: A Home Inside a Home
+## 61. A Home Inside a Home
 
 We met Arvo Pärt's *Für Alina* in the section on limitation because its lucid
 rule made exceptions consequential.
@@ -349,7 +349,7 @@ The music does not spend ten minutes pretending a dominant cadence is about to
 arrive. A pitch collection can retain tonal color and unequal weight without
 continually reenacting tonal syntax.
 
-## Chapter 62: Harmony Occupies Space
+## 62. Harmony Occupies Space
 
 Play C, E, and G near middle C. Then move C down two octaves and G up one. The
 pitch classes are identical; the sonority is not.
@@ -392,7 +392,7 @@ When composers say they want a chord to “breathe,” they often mean that
 voicing, register, and entrance allow its internal intervals to remain
 perceptible. Air is not a harmonic parameter. Distance is.
 
-## Chapter 63: Intervals You Can Build
+## 63. Intervals You Can Build
 
 In 1971, Lou Harrison and his partner William Colvig began constructing an
 ensemble of metal percussion instruments later known as Old Granddad. Its
@@ -444,7 +444,7 @@ It is that tuning determines which intervals feel fused, active, rough, or
 remote, and instruments determine how those relations occupy time. A harmonic
 system is a proposal about behavior, not a diagram hovering above sound.
 
-## Chapter 64: Ambiguity Needs Evidence
+## 64. Ambiguity Needs Evidence
 
 Ambiguous harmony supports more than one plausible hearing. Vague harmony
 supports none strongly enough to matter.
@@ -479,7 +479,7 @@ of its provisional resolution.
 Think of ambiguity as counterpoint among interpretations. Each line should be
 strong enough to follow.
 
-## Chapter 65: When a Field Becomes Wallpaper
+## 65. When a Field Becomes Wallpaper
 
 Field harmony has familiar conveniences. A composer selects a consonant mode,
 spreads its pitches widely, adds a low drone, and permits notes to enter at a
@@ -524,7 +524,7 @@ scale.
 A harmonic world needs borders, paths, and unequal ground. Otherwise it is a
 paint sample.
 
-## Chapter 66: Designing the World
+## 66. Designing the World
 
 Begin with a collection small enough to hear relationally. Five to seven
 pitches are often sufficient, though two can be a world and twelve need not be
@@ -562,7 +562,7 @@ supposed to signify, but what kinds of tension, patience, uncertainty, warmth,
 abrasion, or distance its actual relations can carry. A method becomes
 expressive through the consequences it makes available.
 
-## Chapter 67: Three Experiments
+## 67. Three Experiments
 
 ### 1. Give One Pitch Weight
 
@@ -613,7 +613,7 @@ not fixed.
 Ask whether the final ambiguity feels charged or merely unfinished. If it is
 unfinished, strengthen both homes rather than choosing one.
 
-## Chapter 68: What the Encounter Changes
+## 68. What the Encounter Changes
 
 Debussy did not return from the 1889 Exposition carrying a complete harmonic
 system. He returned to years of composing, listening, reading, argument, and

@@ -3,7 +3,7 @@
 """Convert manuscript headings and paragraph rhythm to the fast-flow format.
 
 This is an intentionally one-way editorial migration. It refuses to run after
-the numbered Section/Chapter hierarchy has already been applied.
+the Section/numbered-piece hierarchy has already been applied.
 """
 
 from __future__ import annotations
@@ -20,7 +20,7 @@ CHAPTER_DIR = PROJECT_ROOT / "chapters"
 
 TOP_HEADING = re.compile(r"^# Chapter (\d+): (.+)$")
 SECOND_HEADING = re.compile(r"^## (.+)$")
-NUMBERED_SECOND_HEADING = re.compile(r"^Chapter \d+: (.+)$")
+NUMBERED_SECOND_HEADING = re.compile(r"^(?:Chapter )?\d+[:.] (.+)$")
 SENTENCE_EDGE = re.compile(
     r"[.!?](?:[\"”’')\]*_]*)(?:\[\^[^\]]+\])?\s+(?=[“‘\"(\[*_]*[A-Z0-9])"
 )
@@ -198,8 +198,8 @@ def section_reference_language(text: str) -> str:
     return text
 
 
-def renumber_short_chapters() -> None:
-    global_chapter = 0
+def renumber_numbered_pieces() -> None:
+    global_number = 0
     files = chapter_files()
 
     for path in files:
@@ -214,12 +214,12 @@ def renumber_short_chapters() -> None:
             numbered = NUMBERED_SECOND_HEADING.fullmatch(title)
             if numbered:
                 title = numbered.group(1)
-            global_chapter += 1
-            transformed.append(f"## Chapter {global_chapter}: {title}")
+            global_number += 1
+            transformed.append(f"## {global_number}. {title}")
 
         path.write_text("\n\n".join(transformed).rstrip() + "\n", encoding="utf-8")
 
-    print(f"Renumbered {global_chapter} short Chapters across {len(files)} Sections.")
+    print(f"Renumbered {global_number} pieces across {len(files)} Sections.")
 
 
 def transform(apply: bool) -> None:
@@ -229,7 +229,7 @@ def transform(apply: bool) -> None:
     selected = evenly_distributed(candidates, target)
 
     print(f"Sections: {len(all_blocks)}")
-    print(f"Numbered chapters: {internal_headings}")
+    print(f"Numbered pieces: {internal_headings}")
     print(f"Body prose paragraphs before: {len(prose)}")
     print(f"Splittable body paragraphs: {len(candidates)}")
     print(f"Paragraphs selected for splitting: {len(selected)}")
@@ -244,7 +244,7 @@ def transform(apply: bool) -> None:
     if first_heading.startswith("# Section "):
         raise SystemExit("The fast-flow hierarchy has already been applied.")
 
-    global_chapter = 0
+    global_number = 0
     prose_by_location = {(item.file, item.block_index): item for item in prose}
 
     for path, blocks in all_blocks.items():
@@ -259,8 +259,8 @@ def transform(apply: bool) -> None:
 
             second = SECOND_HEADING.fullmatch(stripped)
             if second and second.group(1).strip().lower() != "notes":
-                global_chapter += 1
-                transformed.append(f"## Chapter {global_chapter}: {second.group(1)}")
+                global_number += 1
+                transformed.append(f"## {global_number}. {second.group(1)}")
                 continue
 
             location = (path, block_index)
@@ -278,9 +278,9 @@ def transform(apply: bool) -> None:
 
         path.write_text("\n\n".join(transformed).rstrip() + "\n", encoding="utf-8")
 
-    if global_chapter != internal_headings:
+    if global_number != internal_headings:
         raise SystemExit(
-            f"Numbered {global_chapter} chapters but expected {internal_headings}."
+            f"Numbered {global_number} pieces but expected {internal_headings}."
         )
 
 
@@ -295,11 +295,11 @@ def main() -> None:
     action.add_argument(
         "--renumber",
         action="store_true",
-        help="renumber all existing or newly inserted short Chapters",
+        help="renumber all existing or newly inserted second-level pieces",
     )
     args = parser.parse_args()
     if args.renumber:
-        renumber_short_chapters()
+        renumber_numbered_pieces()
     else:
         transform(apply=args.apply)
 

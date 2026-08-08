@@ -1,6 +1,6 @@
 # Section 8: Layer
 
-## Chapter 97: Turning Relationship into Form
+## 97. Turning Relationship into Form
 
 On November 14, 2024, Patrick Shiroishi stood alone at Cafe OTO in London with
 a saxophone. He began plainly. A tone entered, showed its edge, and ended.
@@ -60,7 +60,7 @@ clears, and a detail that had been present all along becomes the subject.
 A layer is not simply a sound that is there. It is a sound doing a job beside
 other sounds. Layering becomes form when those jobs change.
 
-## Chapter 98: Parts, Streams, and Layers
+## 98. Parts, Streams, and Layers
 
 Imagine three performers.
 
@@ -132,7 +132,7 @@ degrees of fusion. One layer may move from independence toward blend while
 another travels in the opposite direction. Their changing legibility can be
 the form.
 
-## Chapter 99: A Line Can Lose Its Name
+## 99. A Line Can Lose Its Name
 
 A melody usually remains a melody because we can connect its successive events.
 We hear one note as continuing the action of another.
@@ -189,7 +189,7 @@ they are separate, fused, dominant, concealed, or absent. The event is not
 always a new thing. Sometimes it is a new way the existing things can be heard
 together.
 
-## Chapter 100: Density Has More Than One Number
+## 100. Density Has More Than One Number
 
 Density is often confused with the number of parts. The mistake is
 understandable. Eight players can make more sound than two. But “more” has
@@ -260,7 +260,7 @@ layers become harder to separate.
 
 Thickness is a condition. Form requires a change in what thickness does.
 
-## Chapter 101: Register Draws the Field
+## 101. Register Draws the Field
 
 Register is one of the fastest ways to make layers separable, but separation is
 only its first use.
@@ -315,7 +315,7 @@ identity of a tone as well as its relation to the field. The next section will
 take up that internal change. Here the point is relational: register organizes
 who can touch, who can hide, and who is left alone.
 
-## Chapter 102: Eighty-Nine Parts, No Soloist
+## 102. Eighty-Nine Parts, No Soloist
 
 György Ligeti's *Atmosphères* begins with a proposition that is difficult to
 reduce at the piano. A large orchestra sustains a densely packed sonority.
@@ -381,7 +381,7 @@ held chord with an impressive head count. If the piece moves between the two,
 compose the threshold. Let the listener hear a line lose its name, and later
 hear another line recovered from the mass.
 
-## Chapter 103: Masking Is Not Erasure
+## 103. Masking Is Not Erasure
 
 When one layer becomes inaudible beneath another, we often say it has been
 masked. The word can imply that the hidden sound has simply been covered by a
@@ -424,7 +424,7 @@ The last possibility matters. Not everything hidden by a rich texture becomes
 valuable when revealed. Sometimes accumulation disguises weak material. A
 clearing is an honest editor.
 
-## Chapter 104: The Mass Changes While Staying
+## 104. The Mass Changes While Staying
 
 Phill Niblock's music offers another account of layering, built less from the
 collision of active lines than from sustained tones placed in close relation.
@@ -481,7 +481,7 @@ The object is not “a drone with lots of tracks.” It is a set of intervals,
 intensities, and durations chosen so that the relations continue producing
 evidence.
 
-## Chapter 105: Accumulation Has a Shape
+## 105. Accumulation Has a Shape
 
 Layering often enters a piece as a default narrative: begin alone, add parts,
 reach fullness, stop. The shape works. It has worked often enough to become
@@ -549,7 +549,7 @@ needs to submit a dissertation.
 But if a long form depends on layering, the layers must do more than certify
 that time has passed.
 
-## Chapter 106: When Fullness Goes Slack
+## 106. When Fullness Goes Slack
 
 The first failure of layering is **addition without consequence**. A new strand arrives
 at regular intervals, producing the outline of growth without the internal
@@ -590,7 +590,7 @@ because it can. This is especially easy when a device will preserve it without
 fatigue. But technical endurance is not formal necessity. A layer with perfect
 memory may be the first one the composer needs to forget.
 
-## Chapter 107: Three Experiments
+## 107. Three Experiments
 
 ### 1. When Two Become One
 
@@ -663,7 +663,7 @@ them to remain exact until a cue releases them. Compare the two versions. A
 human repetition will never be perfectly fixed, and those small adjustments
 may become the most important difference.
 
-## Chapter 108: What the Earlier Self Becomes
+## 108. What the Earlier Self Becomes
 
 Shiroishi's layered work carries more than an ingenious solution to solo
 instrumentation. On *Forgetting Is Violent*, he begins one suite not with

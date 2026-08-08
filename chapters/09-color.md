@@ -1,6 +1,6 @@
 # Section 9: Color
 
-## Chapter 109: Letting Sound Carry the Argument
+## 109. Letting Sound Carry the Argument
 
 In 1997, DJ Shadow described how he built the drums on *Endtroducing.....*. He
 did not usually take a performed break and repeat it as one intact loop. He
@@ -60,7 +60,7 @@ composing after the player has stopped.
 Color is not what remains after the real notes have been written. It is how the
 notes become real enough to have edges, weight, distance, and consequence.
 
-## Chapter 110: A Note Is Not Its Name
+## 110. A Note Is Not Its Name
 
 Write a middle C on a page. The symbol tells us a great deal and almost nothing.
 
@@ -119,7 +119,7 @@ Treat instrument names as families, not paint labels. A family contains
 resemblances strong enough to support recognition and differences strong
 enough to carry form.
 
-## Chapter 111: Color Has Grammar
+## 111. Color Has Grammar
 
 Calling a sound warm, dark, thin, metallic, breathy, or rough can begin a
 conversation. It cannot complete one. These words gather several perceptions
@@ -175,7 +175,7 @@ These verbs turn color from inventory into form. The question is no longer
 It is *What can this sound become while remaining recognizably involved in the
 same argument?*
 
-## Chapter 112: A Percussion Ensemble Inside One Piano
+## 112. A Percussion Ensemble Inside One Piano
 
 In 1940, the dancer and choreographer Syvilla Fort asked John Cage to compose
 music for her *Bacchanale* at Seattle's Cornish School. Cage had been writing
@@ -235,7 +235,7 @@ discover which differences can become stable enough to have syntax.
 
 Novelty gives a sound one entrance. Form asks what happens after it arrives.
 
-## Chapter 113: Articulation Gives Time an Edge
+## 113. Articulation Gives Time an Edge
 
 Two notes can have the same written duration and occupy time differently.
 
@@ -290,7 +290,7 @@ Does its effort increase or release? Does the resonance finish the phrase after
 the attack has ended? The answers belong to rhythm and form as surely as the
 note values do.
 
-## Chapter 114: Blend, Resistance, and the Sound Between
+## 114. Blend, Resistance, and the Sound Between
 
 When two instruments play together, “blend” is often treated as a compliment. A
 well-blended section is disciplined; a player who stands out has failed to
@@ -350,7 +350,7 @@ Blend without difference can become anonymous. Resistance without relation can
 become a collage of sounds declining to meet. The musical question is what the
 combination permits that its members could not do alone.
 
-## Chapter 115: The Voice Finds More Voices
+## 115. The Voice Finds More Voices
 
 Around 1965, Meredith Monk was sitting at a piano and vocalizing in the
 classical manner she had learned. She had already trained in music and dance,
@@ -422,7 +422,7 @@ This does not prohibit borrowing, transformation, or cross-contextual work. It
 requires accuracy about what has been carried and judgment about what the new
 form asks it to do. “Interesting texture” is not a solvent for history.
 
-## Chapter 116: Designing a Color Form
+## 116. Designing a Color Form
 
 Color becomes formal when the listener can hear identity, relation, and
 consequence across time. Several questions help make that possible.
@@ -497,7 +497,7 @@ sound, obscure it, or become a section of the form in its own right.
 Composers often plan entrances more carefully than decays. Color asks for equal
 attention to what the sound leaves behind.
 
-## Chapter 117: When Novelty Goes Slack
+## 117. When Novelty Goes Slack
 
 The first danger is **the adjective instead of the sound**. A sketch asks for
 something warm, luminous, icy, earthy, or haunting, but no action has been
@@ -545,7 +545,7 @@ a claim.
 Abrasion, refusal, and exposed mechanism are also colors. A form needs not only
 attractive materials but differences with something at stake.
 
-## Chapter 118: Three Experiments
+## 118. Three Experiments
 
 ### 1. One Note, Several Bodies
 
@@ -609,7 +609,7 @@ Afterward, make a version in which dynamics remain fixed. If the structure
 collapses, decide whether dynamic change was the true argument or merely the
 most convenient signal.
 
-## Chapter 119: What the Air Carries
+## 119. What the Air Carries
 
 Return to DJ Shadow listening between the drums. What he called air was not
 silence. It contained the source record's surface, the room around the kit, the

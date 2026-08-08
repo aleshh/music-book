@@ -72,14 +72,16 @@ such as `01-attend.md`. Create that directory only when drafting begins. Keep
 research notes and structural memos outside the section prose.
 
 The directory name is now historical. In the reader-facing hierarchy, each
-numbered Markdown file is a **Section**, not a chapter. Each second-level
-heading inside those files is a short, globally numbered **Chapter**. `Notes`
-remains unnumbered. A Section owns the full compositional argument, brief,
-source ledger, anecdote allocation, and editorial status; a Chapter is a brisk
-stage in that argument and does not receive a separate brief or source ledger.
+numbered Markdown file is a **Section**. Each second-level heading inside those
+files is a short piece identified only by its global number and title, in the
+form `## 37. Title`; do not call these pieces Chapters or give them another
+categorical reader-facing label. `Notes` remains unnumbered. A Section owns the
+full compositional argument, brief, source ledger, anecdote allocation, and
+editorial status; a numbered piece is a brisk stage in that argument and does
+not receive a separate brief or source ledger.
 
-When a short Chapter is inserted, removed, or moved, renumber every following
-Chapter across the manuscript. Section numbers remain stable unless the
+When a numbered piece is inserted, removed, or moved, renumber every following
+piece across the manuscript. Section numbers remain stable unless the
 book-scale structure changes. Run
 `python3 scripts/restructure-fast-flow.py --renumber` after such an edit.
 
@@ -183,11 +185,11 @@ Do not pad a section to a predetermined length. Before drafting, set a working
 word range based on the ground it must cover. A section is finished when its
 argument has earned its duration.
 
-## Short-Chapter flow and paragraph rhythm
+## Numbered-piece flow and paragraph rhythm
 
-The current manuscript has 164 short Chapters numbered continuously through
-the twelve Sections. Each Chapter begins on a new page in PDF and requests a
-new page in EPUB. Section titles receive their own divider pages.
+The current manuscript has 164 short pieces numbered continuously through the
+twelve Sections. Each begins on a new page in PDF and requests a new page in
+EPUB. Section titles receive their own divider pages.
 
 Favor short, breathable body paragraphs. The fast-flow edit split 662 of 1,325
 body paragraphs at natural sentence boundaries, producing 1,987 paragraphs

@@ -401,23 +401,23 @@ job already performed, so a future return must do something else.
 - The completed draft confirms the twelve-section structure. No section merge,
   split, or reorder is recommended before reader review.
 
-## Latest format and flow audit: Sections and short Chapters
+## Latest format and flow audit: Sections and numbered pieces
 
 - Completed 2026-08-07: the twelve former book-scale chapters are now Sections.
-  Their 164 existing second-level divisions are globally numbered Chapters;
-  `Notes` remains unnumbered.
-- Each Section receives a divider page, and every short Chapter begins on a new
-  PDF page. The PDF grew from 114 to 199 pages without adding substantive
-  prose. No PDF page contains two Chapter openings.
-- The EPUB is split at heading level 2, giving every Chapter its own XHTML
+  Their 164 existing second-level divisions are numbered globally and carry no
+  categorical label; `Notes` remains unnumbered.
+- Each Section receives a divider page, and every numbered piece begins on a
+  new PDF page. The PDF grew from 114 to 199 pages without adding substantive
+  prose. No PDF page contains two numbered-piece openings.
+- The EPUB is split at heading level 2, giving every piece its own XHTML
   document and reliable reader-level page transition. Its navigation contains
-  all twelve Sections and all 164 Chapters in sequence.
+  all twelve Sections and all 164 numbered pieces in sequence.
 - Of 1,325 body prose paragraphs, 662 were split at natural sentence boundaries,
   producing 1,987 paragraphs: exactly 1.500 times the original body-paragraph
   count. Headings, lists, exercises, quotations, and source notes were excluded
   from the mechanical selection.
-- Cross-references now distinguish book-scale Sections from the short Chapters.
+- Cross-references now distinguish book-scale Sections from the numbered pieces.
   Paragraph spacing and heading scale were revised so the new breaks are visible
   rather than existing only in Markdown.
-- `scripts/restructure-fast-flow.py --renumber` maintains the global Chapter
+- `scripts/restructure-fast-flow.py --renumber` maintains the global number
   sequence after later insertions, removals, or moves.

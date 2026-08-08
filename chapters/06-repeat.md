@@ -1,6 +1,6 @@
 # Section 6: Repeat
 
-## Chapter 69: Making Sameness Consequential
+## 69. Making Sameness Consequential
 
 Roscoe Mitchell had one hour.
 
@@ -89,7 +89,7 @@ Repetition is an agreement about what will remain available while change moves
 somewhere else. The real question is not merely *What repeats?* It is *Where
 will the change occur?*
 
-## Chapter 70: Same Sound, Different Event
+## 70. Same Sound, Different Event
 
 Imagine a pianist playing a low D. After a pause, she plays the same D again,
 at the same dynamic, with the same touch.
@@ -145,7 +145,7 @@ This is why “exact repetition” is an incomplete compositional description. I
 tells us what the material does. It does not tell us what repetition does to
 the material.
 
-## Chapter 71: Where Change Can Go
+## 71. Where Change Can Go
 
 When a repeating passage feels inert, composers often assume that they need to
 alter the passage. Sometimes they do. But material is only one of four places
@@ -211,7 +211,7 @@ whose surface must remain recognizable.
 The repeating figure provides a fixed reference; changes around it become
 measurable because they have somewhere to register.
 
-## Chapter 72: How Large Is “Again”?
+## 72. How Large Is “Again”?
 
 Before deciding how repetition will change, decide what counts as one time.
 
@@ -280,7 +280,7 @@ This crossing of clocks leads toward phase and drift, a subject we will reserve
 for its own section. For now, the important point is that the size of the
 repeated unit determines the size of the difference we can hear.
 
-## Chapter 73: Eight Hundred and Forty
+## 73. Eight Hundred and Forty
 
 Erik Satie left *Vexations* as a page of slow, chromatic keyboard music and a
 peculiar note. The wording does not straightforwardly command every pianist to
@@ -328,7 +328,7 @@ Extreme repetition exposes a principle present in shorter pieces: performers
 are not transparent carriers of recurrence. They are among the things that
 repetition changes.
 
-## Chapter 74: Freedom Inside the Cycle
+## 74. Freedom Inside the Cycle
 
 In 1964, Terry Riley wrote fifty-three short musical cells on a single page.
 Some are no more than a repeated pitch or a small rhythmic turn; others have a
@@ -404,7 +404,7 @@ needs.
 Repetition, in this setting, is a way of sharing time without requiring a
 single will.
 
-## Chapter 75: Accumulation Remembers
+## 75. Accumulation Remembers
 
 Fifteen years after *In C*, Julius Eastman made a different kind of collective
 repetition audible in *Gay Guerrilla*. At a Northwestern University residency
@@ -489,7 +489,7 @@ unsynchronized music that follows feel haunted by a coordination no longer
 present. Organic form is not a pile. It is a changing account of what the piece
 can still remember.
 
-## Chapter 76: The Melody Stays; the Light Changes
+## 76. The Melody Stays; the Light Changes
 
 Maurice Ravel's *Boléro* offers a severe experiment in moving change away from
 melody and harmony. Its snare-drum rhythm persists. Two long melodies alternate
@@ -537,7 +537,7 @@ notes of the melody on each pass to keep it interesting, the orchestral
 transformations would be harder to measure and the harmonic rupture would lose
 scale. By refusing one kind of development, he enlarges another.
 
-## Chapter 77: Repetition and Care
+## 77. Repetition and Care
 
 In 1971, filmmaker Alan Power gave Gavin Bryars unused recordings from a film
 about people living rough in London. On one short fragment, an unidentified man
@@ -585,7 +585,7 @@ difference lies partly in whether the surrounding music keeps listening.
 In *Jesus' Blood Never Failed Me Yet*, the irregular phrase remains sovereign.
 The accompaniment changes the light without trying to straighten the line.
 
-## Chapter 78: A Ground Is Not a Loop
+## 78. A Ground Is Not a Loop
 
 The finale of Brahms's Fourth Symphony is built over an eight-measure pattern
 adapted from the closing chaconne of Bach's cantata BWV 150.
@@ -608,7 +608,7 @@ form.
 For now, Brahms gives us one useful question: is the repeating structure the
 thing the listener follows, or the thing that allows everything else to travel?
 
-## Chapter 79: Designing the Return
+## 79. Designing the Return
 
 We can now turn these encounters into a set of compositional decisions. They
 are not a taxonomy of repetitive music. They are questions that prevent
@@ -704,7 +704,7 @@ we cease to call it the same.
 Do not wait until the end to ask this. The possibility of stopping shapes every
 return.
 
-## Chapter 80: When the Method Goes Slack
+## 80. When the Method Goes Slack
 
 Repetition often fails not because there is too much of it, but because the
 composer has not decided what it is for.
@@ -755,7 +755,7 @@ Mitchell and Riley both organize repeated cells, but the Willisau *Nonaah* and
 a convivial performance of *In C* do not make the same social or emotional
 proposition. A method acquires character through the conditions we give it.
 
-## Chapter 81: Try It
+## 81. Try It
 
 ### Notice: Ten Returns
 
@@ -823,7 +823,7 @@ by clarifying what the group's freedom is meant to reveal.
 The purpose is not to write another *In C*. It is to discover how repetition
 can give performers time to hear and responsibility for what happens next.
 
-## Chapter 82: The Phrase Returns
+## 82. The Phrase Returns
 
 At Willisau, Roscoe Mitchell did not repeat the opening of *Nonaah* because he
 had nowhere else to go.

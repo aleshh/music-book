@@ -1,6 +1,6 @@
 # Section 12: Discover the Form
 
-## Chapter 150: Continuing and Leaving
+## 150. Continuing and Leaving
 
 In 1969, Gavin Bryars made a sketch for an exhibition at Portsmouth College of
 Art.
@@ -49,7 +49,7 @@ reason?**
 
 Form is the changing reason to keep listening.
 
-## Chapter 151: A Shape Is Not Yet a Form
+## 151. A Shape Is Not Yet a Form
 
 We often speak of form as a shape: arch, line, circle, wave. Shapes are useful
 because they let us hold a long span in the mind. They also conceal nearly
@@ -94,7 +94,7 @@ Not merely *A–B–A*, but *establish, estrange, recognize*. Not merely *thin t
 thick*, but *separate, entangle, overwhelm, uncover*. The verbs describe what
 the changes do.
 
-## Chapter 152: Five Models of Continuation
+## 152. Five Models of Continuation
 
 Most pieces combine several kinds of form. It is still useful to distinguish
 five models because each gives continuation a different purpose.
@@ -148,7 +148,7 @@ return know that the previous one did not?
 
 The answer may change during the piece. That change is often the form.
 
-## Chapter 153: How a World Begins
+## 153. How a World Begins
 
 The first event has two jobs. It makes a sound, and it teaches us how beginnings
 will work.
@@ -194,7 +194,7 @@ system, or fragment of a longer life.
 An opening should establish a question large enough to sustain its answer. It
 need not reveal everything. It must give later events something to change.
 
-## Chapter 154: Four Places Where Form Can Move
+## 154. Four Places Where Form Can Move
 
 When composers feel a passage losing energy, they often add material. A new
 chord, instrument, rhythm, or layer enters.
@@ -239,7 +239,7 @@ two layers rebalance.
 The central compositional skill is not generating more things. It is hearing
 where change will matter.
 
-## Chapter 155: Several Clocks at Once
+## 155. Several Clocks at Once
 
 A whole form rarely moves at one rate. A useful draft hears at least four
 timescales.
@@ -280,7 +280,7 @@ will become audible as parts of one work.
 
 Coordination is not the same as synchronization.
 
-## Chapter 156: Renewing a State
+## 156. Renewing a State
 
 State-based music presents a special problem. If the state changes too little,
 continuation becomes replaceable. If it changes too much, the state was merely
@@ -320,7 +320,7 @@ earlier? The answer can be modest.
 “The low tone has become a memory” is enough—if the piece has actually made
 that change audible.
 
-## Chapter 157: When a Procedure Becomes a Character
+## 157. When a Procedure Becomes a Character
 
 A procedure begins as an instruction. Add one note to the pattern. Lengthen
 each silence. Let two copies separate. Remove the loudest event after every
@@ -361,7 +361,7 @@ new section, a different piece, or nothing useful?
 A strong procedure includes the possibility of contradiction. It can reach a
 place where obeying it reveals why it must stop.
 
-## Chapter 158: The Piece Discovers Its Length
+## 158. The Piece Discovers Its Length
 
 Duration is often the first number attached to a commission and the last fact
 understood in a draft. We may be given twelve minutes before we know what those
@@ -412,7 +412,7 @@ When the required duration is shorter, do not play a long process faster. Ask
 which threshold contains the argument. A complete form can end before a system
 exhausts its possibilities.
 
-## Chapter 159: An Action Ends; Its Sound Continues
+## 159. An Action Ends; Its Sound Continues
 
 Tōru Takemitsu's *Rain Tree*, composed in 1981 for three percussionists, takes
 its image from Kenzaburō Ōe's rain tree: abundant leaves hold water and release
@@ -463,7 +463,7 @@ feel like a request for reverence.
 
 The tree does not release water forever. Continuation has a scale.
 
-## Chapter 160: Seven Ways to End
+## 160. Seven Ways to End
 
 An ending is not one gesture. It is a change in the work's right or ability to
 continue. Seven strategies cover a useful range.
@@ -521,7 +521,7 @@ A spiral can reveal that the beginning has become another place.
 
 The ending belongs to the verb.
 
-## Chapter 161: Four Measures Beyond the Last Note
+## 161. Four Measures Beyond the Last Note
 
 The second movement of Arvo Pärt's *Tabula rasa* is called *Silentium*. It is a
 slow prolation canon: related voices proceed at different rhythmic speeds, with
@@ -562,7 +562,7 @@ This is a useful limit on authorship. You can prepare release. You cannot
 guarantee what listeners will feel, how long a room will remain still, or what
 sound will answer the last one. Form ends partly by surrendering those facts.
 
-## Chapter 162: The Continuation Test
+## 162. The Continuation Test
 
 When a draft is complete enough to play, examine every major span with one
 question:
@@ -600,7 +600,7 @@ releases it?
 
 An ending is strong when it changes the past as well as the future.
 
-## Chapter 163: Three Experiments
+## 163. Three Experiments
 
 ### 1. Four Locations, One Form
 
@@ -656,7 +656,7 @@ your original proportions.
 Now identify the last action, last sound, formal end, and audience release. If
 they coincide, separate two of them. Listen to the interval you have created.
 
-## Chapter 164: Leave Something Open
+## 164. Leave Something Open
 
 Return to Bryars's submerged orchestra. A hymn is heard on deck, if the
 testimony is right. The ship descends. The imagined sound enters water and

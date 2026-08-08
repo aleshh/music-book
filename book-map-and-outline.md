@@ -18,9 +18,10 @@ A useful working distinction:
 
 Reader-facing terminology changed after the complete first draft. The twelve
 large units below are now **Sections**. Their existing second-level divisions
-are 164 short **Chapters**, numbered continuously across the book. The older
-planning material below sometimes proposes a different number of broad
-Sections; it remains useful as an idea map rather than the current contents.
+are 164 short pieces, numbered continuously across the book and presented
+without a categorical label. The older planning material below sometimes
+proposes a different number of broad Sections; it remains useful as an idea
+map rather than the current contents.
 
 The strongest version may be a composer's field guide rather than a history or a theory textbook. History and theory enter when they illuminate a decision a composer can make.
 
@@ -759,7 +760,7 @@ That yields the twelve Sections in the current book:
 11. Section 11: Place
 12. Section 12: Discover the Form
 
-This twelve-Section structure, containing 164 short Chapters, is the current
+This twelve-Section structure, containing 164 short numbered pieces, is the current
 table of contents. The sixteen-Section version remains useful as a complete map
 from which to select.
 
@@ -820,7 +821,7 @@ the manuscript's actual table of contents rather than a provisional cut.
 
 The 2026-08-07 flow revision changed the reader-facing scale without changing
 the argument. These twelve units are now Section divider pages; their 164
-second-level divisions are short Chapters numbered continuously across the
-book. Each Chapter starts a new page, and body prose now uses 1.500 times the
-original number of paragraphs. The result should be evaluated in reader review
-as a pacing choice, not mistaken for a substantive expansion of the text.
+second-level divisions are short pieces numbered continuously across the book.
+Each piece starts a new page, and body prose now uses 1.500 times the original
+number of paragraphs. The result should be evaluated in reader review as a
+pacing choice, not mistaken for a substantive expansion of the text.

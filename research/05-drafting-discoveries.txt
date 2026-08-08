@@ -1,7 +1,7 @@
 ANECDOTE BANK 05: DISCOVERIES MADE WHILE DRAFTING
 Working research notes for a book on ambient and minimalist musical practice
 
-This bank receives stories discovered during chapter-led research. Its numbering
+This bank receives stories discovered during section-led research. Its numbering
 continues the original four research banks so every anecdote retains a stable ID.
 
 =========================================================================

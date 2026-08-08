@@ -1,6 +1,6 @@
 # Section 10: Release Control
 
-## Chapter 120: Who Makes the Next Decision?
+## 120. Who Makes the Next Decision?
 
 A group preparing Julius Eastman's *Stay On It* cannot begin by opening the
 composer's definitive full score. No such manuscript is known.
@@ -44,7 +44,7 @@ composer did not select without pretending that no one remains accountable?
 To release control is not to remove a hand from the music. It is to decide
 whose hand, ear, memory, or circumstance can act next.
 
-## Chapter 121: Control Is Not One Thing
+## 121. Control Is Not One Thing
 
 Imagine a short piece for three players. The pitches are fixed, the durations
 are approximate, and each performer chooses when to begin. Is it controlled or
@@ -90,7 +90,7 @@ deciding each consequential feature, with what information?”
 Sometimes the answer is no one. That is where open music begins to reveal its
 debts.
 
-## Chapter 122: The Score as a Map of Responsibility
+## 122. The Score as a Map of Responsibility
 
 Notation is often described as a representation of sound. It is also a map of
 responsibility.
@@ -137,7 +137,7 @@ generosity.
 
 Good notation does not maximize information. It makes responsibility legible.
 
-## Chapter 123: What Makes the Work Itself?
+## 123. What Makes the Work Itself?
 
 Open form raises a question fixed scores can postpone: how different may two
 performances become before they are no longer performances of the same work?
@@ -174,7 +174,7 @@ result was secretly intended.
 
 Name what must survive. Then allow the surface to discover how.
 
-## Chapter 124: Chance Does Not Improvise
+## 124. Chance Does Not Improvise
 
 Chance, indeterminacy, and improvisation are often placed in one large box
 labeled freedom. They locate decisions in different places.
@@ -223,7 +223,7 @@ question, range, instrumentation, duration, and stopping rule shapes the family
 of results. If a procedure repeatedly produces harm, tedium, or cliché, the
 oracle is not available for cross-examination. The composer is.
 
-## Chapter 125: Precision Moves into the Relationship
+## 125. Precision Moves into the Relationship
 
 Christian Wolff's *For 1, 2 or 3 People*, composed in 1964, leaves
 instrumentation open and permits a performance to select from ten pieces.
@@ -262,7 +262,7 @@ conditions of that network.
 The freedom lies inside attentiveness. A player must decide, but cannot decide
 alone.
 
-## Chapter 126: Improvisation Is Prepared Attention
+## 126. Improvisation Is Prepared Attention
 
 The word *improvise* can mean several very different tasks.
 
@@ -305,7 +305,7 @@ decision at the scale of that expertise.
 
 Trust is not vagueness. It is confidence placed in a named capacity.
 
-## Chapter 127: From Sound to Tape to Page
+## 127. From Sound to Tape to Page
 
 In Section 4, we heard Giacinto Scelsi's *Quattro pezzi su una nota sola* as
 music that finds several forms of activity inside one pitch center. The score
@@ -350,7 +350,7 @@ question the notation. Composition travels through a chain of agencies.
 
 Credit should travel with it.
 
-## Chapter 128: Labor Does Not Disappear into the Work
+## 128. Labor Does Not Disappear into the Work
 
 Collaborative music often preserves an old hierarchy in its credits. The
 composer's name appears in large type.
@@ -391,7 +391,7 @@ receives recognition, and who can refuse?
 
 These questions do not drain spontaneity. They make trust possible.
 
-## Chapter 129: Leadership Can Move
+## 129. Leadership Can Move
 
 Distributed agency does not require every performer to hold identical power at
 every moment.
@@ -427,7 +427,7 @@ political theory with music stands. The task is to notice that musical
 structure already distributes authority, attention, interruption, and care.
 Refusing to name those distributions does not remove them.
 
-## Chapter 130: Error, Tolerance, and Recovery
+## 130. Error, Tolerance, and Recovery
 
 Fixed scores contain errors. Open scores contain errors plus arguments about
 whether the event was an error.
@@ -463,7 +463,7 @@ attention without pretending the disruption never occurred.
 Open music becomes resilient when error does not require telepathy. Performers
 know what must be preserved, what may change, and how to find one another again.
 
-## Chapter 131: The Freedom No One Asked For
+## 131. The Freedom No One Asked For
 
 The most common failure in open composition is not chaos. It is uncredited
 completion.
@@ -505,7 +505,7 @@ The repair is not necessarily more notation. It is clearer ownership. Fix the
 decision you care about. Give another to someone equipped to make it. Remove
 choices that do not matter. Test the boundaries. Credit the labor.
 
-## Chapter 132: Designing a Family of Outcomes
+## 132. Designing a Family of Outcomes
 
 Begin by naming the invariant. What must every performance preserve: a pitch,
 theme, text, behavior, sequence, relation, or ethical condition?
@@ -540,7 +540,7 @@ of the instrumentation.
 Then listen for what no one could have composed alone. That discovery is the
 reason to release control at all.
 
-## Chapter 133: Three Experiments
+## 133. Three Experiments
 
 ### 1. Name the Decision Maker
 
@@ -602,7 +602,7 @@ musically consequential? Which decision felt like work without agency?
 Revise the piece using their answers. The exercise is incomplete until the
 allocation changes.
 
-## Chapter 134: Staying with the Work
+## 134. Staying with the Work
 
 Return to *Stay On It*. A theme persists. Cells gather around it. Performers
 choose, cue, and improvise. A section may become raucous, sparse, disciplined,

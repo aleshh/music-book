@@ -1,6 +1,6 @@
 # Section 2: Experience Time
 
-## Chapter 13: Making Duration Perceptible
+## 13. Making Duration Perceptible
 
 About three months before a concert in 1999, four packages arrived for the
 members of the FLUX Quartet. Each contained a thick, bound, oversized score.
@@ -49,7 +49,7 @@ remembered span are related. They are not the same thing.
 
 Duration is not an empty container. Music gives us clocks.
 
-## Chapter 14: Six Hours Is Not a Tempo
+## 14. Six Hours Is Not a Tempo
 
 Set a metronomic pulse aside for the moment and imagine three passages, each
 exactly one minute long.
@@ -105,7 +105,7 @@ have merely been stretched apart.
 Length is a condition. Musical scale is the network of relations that makes
 that length consequential.
 
-## Chapter 15: The Clocks Music Gives Us
+## 15. The Clocks Music Gives Us
 
 A clock does two things: it supplies a recurring unit, and it lets us compare a
 present interval with that unit. Music can provide many such measures.
@@ -169,7 +169,7 @@ decay or bodily effort remains.
 Before extending a passage, ask which clock the listener will use. “Very slow”
 is not an answer unless something makes slowness audible.
 
-## Chapter 16: Midnight
+## 16. Midnight
 
 At the 1983 premiere, Kronos brought an ordinary watch onstage. The performance
 was being broadcast by the Canadian Broadcasting Corporation, and the broadcast
@@ -206,7 +206,7 @@ At Toronto, the watch did more than measure the quartet. It changed the speed
 of the music it was meant to measure. A clock is never entirely outside a
 performance once someone must obey it.
 
-## Chapter 17: Passing Time and Remembered Time
+## 17. Passing Time and Remembered Time
 
 After a journey, we sometimes say that it went quickly and then recount a dozen
 distinct episodes. Another afternoon seemed endless while it occurred but
@@ -264,7 +264,7 @@ Those are different claims.[^5] The first can be analyzed in the music. The
 second varies with listener, occasion, and attention. A work need not literally
 abolish the clock to compose a powerful experience of suspended direction.
 
-## Chapter 18: The Weight of a Rare Event
+## 18. The Weight of a Rare Event
 
 Write nine attacks across four minutes. No tremolo, no sustained rearticulation:
 nine beginnings. The restriction immediately makes spacing part of the music.
@@ -307,7 +307,7 @@ remembered interval, a visible effort, an unresolved relation.
 Without such a clock, a gap may be spacious, tense, restful, or simply
 unarticulated. Duration does not acquire meaning merely by being left open.
 
-## Chapter 19: After Ninety Minutes, Scale
+## 19. After Ninety Minutes, Scale
 
 Feldman once suggested that after roughly an hour and a half, “form” gives way
 to “scale.”[^6] The wording is provocative, not a scientific threshold. A
@@ -366,7 +366,7 @@ been given another clock, or merely asked to tolerate a slower one?
 
 Automatic inflation changes the ruler. Scale changes what the ruler can measure.
 
-## Chapter 20: Memory That Cannot Quite Repeat Itself
+## 20. Memory That Cannot Quite Repeat Itself
 
 Feldman's *Triadic Memories* approaches the problem from a smaller but still
 extended frame. In one passage, chords recur in unequal numbers.
@@ -402,7 +402,7 @@ and the temporal map becomes secure.
 Between them lies a useful region where memory recognizes the neighborhood but
 cannot name the street.
 
-## Chapter 21: Change Without a Moment
+## 21. Change Without a Moment
 
 Éliane Radigue's *Trilogie de la Mort*, created between 1985 and 1993, lasts
 nearly three hours across its three parts: *Kyema*, *Kailasha*, and
@@ -449,7 +449,7 @@ Radigue's practice gives us another answer to the problem of long duration. We
 do not always need landmarks that divide time. We can compose evidence that
 time has acted.
 
-## Chapter 22: The Abyss and the Bird
+## 22. The Abyss and the Bird
 
 Olivier Messiaen's *Abîme des oiseaux*, the third movement of *Quatuor pour la
 fin du Temps*, reaches an expansive experience of time in a much shorter span.
@@ -493,7 +493,7 @@ If the contrast produces the desired experience, thirty minutes may add
 nothing. If the relation needs acclimation, forgetting, or bodily accumulation,
 then length may be structural.
 
-## Chapter 23: Anticipation Without Climax
+## 23. Anticipation Without Climax
 
 Waiting is often treated as a promise. A dominant chord waits for resolution. A
 crescendo waits for arrival. A repeated pattern waits for the interruption that
@@ -532,7 +532,7 @@ sounds need to promise something later. Some can complete their work locally.
 The balance between local sufficiency and long implication determines whether
 duration feels inhabited or merely deferred.
 
-## Chapter 24: Boredom Is Not a Verdict
+## 24. Boredom Is Not a Verdict
 
 Sooner or later, any honest discussion of extended music reaches boredom. The
 subject attracts two unhelpful responses. One declares boredom proof that the
@@ -574,7 +574,7 @@ scale the passage needs. But do not use purity of concept as an alibi.
 A process can be perfectly consistent and temporally dead. The composer remains
 responsible for what consistency does.
 
-## Chapter 25: Bodies Keep Time
+## 25. Bodies Keep Time
 
 In 1996, the Kronos Quartet planned another performance of *String Quartet II*.
 They cancelled after rehearsals caused serious back and shoulder problems.[^11]
@@ -617,7 +617,7 @@ makes a different demand.
 
 The score may say five hours. The music asks who will live them.
 
-## Chapter 26: Designing the Span
+## 26. Designing the Span
 
 Before deciding how long a work should be, identify the relation that requires
 time.
@@ -674,7 +674,7 @@ Its purpose may be to let the listener change while the material remains, to
 move below the threshold of immediate detection, or to make memory unreliable.
 The standard is not efficiency. It is necessity at the chosen scale.
 
-## Chapter 27: Three Experiments
+## 27. Three Experiments
 
 ### 1. Passing and Remembering
 
@@ -726,7 +726,7 @@ obvious.
 The shortest duration that preserves uncertainty tells you more about the
 work's scale than the longest duration you can defend.
 
-## Chapter 28: Four Scores, Several Hours Later
+## 28. Four Scores, Several Hours Later
 
 Return to the FLUX Quartet several hours into *String Quartet II*. The
 oversized scores are no longer startling objects.

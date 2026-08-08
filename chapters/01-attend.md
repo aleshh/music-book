@@ -1,6 +1,6 @@
 # Section 1: Attend
 
-## Chapter 1: Composing the Listener's Notice
+## 1. Composing the Listener's Notice
 
 In March 1920, an audience entered the Galerie Barbazanges in Paris for a play
 by Max Jacob. Between the acts, a small group of musicians stationed around the
@@ -53,7 +53,7 @@ This is where an account of ambient and minimalist practice should begin. Not
 with slowness, repetition, or a particular collection of instruments, but with
 a question: *How does this music ask to be noticed?*
 
-## Chapter 2: Attention Is Wider Than a Spotlight
+## 2. Attention Is Wider Than a Spotlight
 
 Imagine a room with an open window. Someone nearby speaks your name. A bus
 brakes in the street.
@@ -124,7 +124,7 @@ music can become environmental.
 A dense stream that never changes its manner may recede. A single quiet note
 after a long absence may reorganize a room.
 
-## Chapter 3: What Calls the Ear
+## 3. What Calls the Ear
 
 Place a soft, evenly articulated figure in the middle register: A, E, A, E,
 with no accent and no large gap between repetitions. After it has continued for
@@ -194,7 +194,7 @@ This suggests a more useful compositional question than *How do I make this
 sound prominent?* Ask instead: *Prominent relative to what, for how long, and
 what will release it?*
 
-## Chapter 4: A Frame in Three Movements
+## 4. A Frame in Three Movements
 
 On August 29, 1952, at the Maverick Concert Hall near Woodstock, New York,
 pianist David Tudor sat at a piano to perform a new piece by John Cage.
@@ -260,7 +260,7 @@ Instructions help, but they do not float above custom. Satie discovered that
 asking people not to listen may only focus them more intensely. Every whispered
 “ignore this” contains a small trumpet fanfare.
 
-## Chapter 5: The Harp and the Rain
+## 5. The Harp and the Rain
 
 In 1975, while recovering from an accident, Brian Eno was visited by his friend
 Judy Nylon, who brought a recording of eighteenth-century harp music. After she
@@ -329,7 +329,7 @@ pauses in the middle of an alarming sentence.
 The essential question is not how much material the passage contains. It is
 what missing part of it costs.
 
-## Chapter 6: Writing for Departure and Return
+## 6. Writing for Departure and Return
 
 Imagine a listener leaving the music for thirty seconds—not necessarily by
 walking out, but by answering a question, reading a departure board, watching a
@@ -384,7 +384,7 @@ line acts as permanent leader. What sounds effortless to an audience can
 require alert, difficult listening onstage. Background is a role, not an
 absence of labor.
 
-## Chapter 7: The Whole Field and One Distant Voice
+## 7. The Whole Field and One Distant Voice
 
 Pauline Oliveros made this movement of attention into an explicit practice. In
 her writing on Deep Listening, she distinguished involuntary hearing from
@@ -435,7 +435,7 @@ The fuller theory of density and masking belongs to a later section. Here the
 point is simpler: attention can widen because the music offers more than one
 meaningful scale.
 
-## Chapter 8: Foreground Is a Job
+## 8. Foreground Is a Job
 
 Foreground and background are often treated as places. The melody sits in
 front; the accompaniment sits behind. But their musical roles can change while
@@ -480,7 +480,7 @@ attack can recur until its novelty is spent.
 A solo voice can settle on a tone the ensemble already holds. Attention is
 released not because the material vanishes, but because its claim changes.
 
-## Chapter 9: The Listener Brings a Past
+## 9. The Listener Brings a Past
 
 Relative salience does not begin from zero. Listeners arrive with learned
 expectations about melody, tuning, rhythm, instruments, language, venue, and
@@ -536,7 +536,7 @@ recognition has done its first work.
 
 Attention has a biography. A composition meets it partway.
 
-## Chapter 10: When Attention Becomes Coercion
+## 10. When Attention Becomes Coercion
 
 It is easy for composers to romanticize released attention. We imagine music
 generously coexisting with work, travel, conversation, sleep, or architecture.
@@ -582,7 +582,7 @@ miss one attack, one phrase, one minute? Is the loss recoverable? If not, is the
 irreversibility essential to the piece or merely an unexamined habit? These are
 formal questions, but also gestures of hospitality.
 
-## Chapter 11: Three Experiments
+## 11. Three Experiments
 
 ### 1. Three Widths of Attention
 
@@ -636,7 +636,7 @@ event, a causal sequence, a change of rule, an unrepeated harmony?
 The exercise is not a contest between generosity and rigor. It reveals where
 your form asks for continuous witness, and whether that demand is intentional.
 
-## Chapter 12: The Audience Refuses
+## 12. The Audience Refuses
 
 Return to the Galerie Barbazanges. The musicians are distributed around the
 room. The guests have been told to talk, move, and treat the music as part of

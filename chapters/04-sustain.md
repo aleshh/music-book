@@ -1,6 +1,6 @@
 # Section 4: Sustain
 
-## Chapter 42: Entering the Interior of a Sound
+## 42. Entering the Interior of a Sound
 
 La Monte Young remembered wind before he remembered music. In the Idaho log
 cabin where he was born, it moved under the eaves and through gaps at the
@@ -47,7 +47,7 @@ How can beating become rhythm without attacks? What does a performer actually
 do to make continuity audible? And what can a release tell us that the
 sustained sound concealed?
 
-## Chapter 43: Three Kinds of Continuity
+## 43. Three Kinds of Continuity
 
 Imagine a violinist bowing one pitch, a pianist striking the same pitch with
 the sustain pedal down, and a percussionist rolling softly on a metal plate.
@@ -85,7 +85,7 @@ handed-off tone can expose the difference between two performers or conceal it.
 Notation often compresses these events into the same horizontal line. The
 composer's work begins by asking what the line requires in the world.
 
-## Chapter 44: A Sound Is More Than Its Pitch
+## 44. A Sound Is More Than Its Pitch
 
 Strike a low piano string and listen past the first recognition of its note
 name. The bright edge of the attack recedes. A warmer body remains. Some upper
@@ -133,7 +133,7 @@ event.
 The stages are not a universal envelope. They are places to listen for
 decisions.
 
-## Chapter 45: Rhythm Inside a Unison
+## 45. Rhythm Inside a Unison
 
 Ask two players to sustain what they consider the same pitch without vibrato.
 At first you may hear one enlarged tone. Then the sound begins to breathe in
@@ -203,7 +203,7 @@ sounds like the existing sonority changing amplitude.
 Both reveal that an interval is not merely two note names. It is an acoustic
 event capable of producing motion and, sometimes, apparent new material.
 
-## Chapter 46: Four Centers, Not Four Lines
+## 46. Four Centers, Not Four Lines
 
 Giacinto Scelsi's *Quattro pezzi su una nota sola*—four pieces, each on one
 note—was composed in 1959 for a chamber orchestra of twenty-five players.
@@ -260,7 +260,7 @@ These are not evasions of the limit. They define the object being sustained.
 Scelsi's pieces are alive because *one* has been given depth, not because the
 number one possesses unusual spiritual credentials.
 
-## Chapter 47: Drone, Pedal, and Reference
+## 47. Drone, Pedal, and Reference
 
 Three terms are often used as if they all meant “a long low note.” They name
 different possible jobs.
@@ -312,7 +312,7 @@ convenient and historically flattening. A drone is a musical function. It is
 not an explanation of the cultural practices, tunings, disciplines, and people
 that taught a composer how to hear it.
 
-## Chapter 48: The Room Selects
+## 48. The Room Selects
 
 Alvin Lucier begins *I Am Sitting in a Room* by speaking a text. That speech is
 captured, returned through the room, captured again, and returned repeatedly.
@@ -372,7 +372,7 @@ continue different parts of an action.
 To compose resonance is to decide what will receive energy, what it will favor,
 and how long the returned sound can alter the next event.
 
-## Chapter 49: The Body Keeps the Tone Alive
+## 49. The Body Keeps the Tone Alive
 
 A written whole note can conceal an extraordinary amount of work.
 
@@ -420,7 +420,7 @@ The simplest score can require the most active care. A long line is not an
 instruction to stop composing. It is an invitation to specify who keeps it
 alive and what their keeping may reveal.
 
-## Chapter 50: Release Belongs to the Sound
+## 50. Release Belongs to the Sound
 
 Play a low piano note with the sustain pedal down. Lift your finger while
 keeping the pedal depressed. One action has ended, but the sounding relation
@@ -453,7 +453,7 @@ surrounding sound loses its measure.
 Do not hurry to cover the evidence with the next attack. The final part of a
 sustained event may begin when no one is touching it.
 
-## Chapter 51: When Sustain Goes Flat
+## 51. When Sustain Goes Flat
 
 The first failure is literal extension. A note that lasts longer does not
 necessarily acquire an interior.
@@ -501,7 +501,7 @@ The desire to describe sustained music as eternal can erase the repeated acts
 that keep it sounding. Continuity becomes more interesting when we hear what it
 costs.
 
-## Chapter 52: Designing the Interior
+## 52. Designing the Interior
 
 Begin by naming the identity that will remain. It may be a fundamental pitch,
 an interval, a band of noise, an instrumental action, a registral center, or a
@@ -545,7 +545,7 @@ event enters the physical decay or the memory left after it.
 The aim is not maximum microscopic detail. It is to select the internal motion
 that makes this sound capable of carrying time.
 
-## Chapter 53: Three Experiments
+## 53. Three Experiments
 
 ### 1. Follow the Decay
 
@@ -619,7 +619,7 @@ continue alone?
 That appearance may be an illusion, but it is a compositionally useful one if
 the method makes its conditions audible.
 
-## Chapter 54: The Sound Along the Line
+## 54. The Sound Along the Line
 
 Return to Young's remembered telephone poles. The hum seems continuous because
 the electrical system continues, but the heard sound belongs to a location.
