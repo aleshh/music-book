@@ -44,6 +44,9 @@ without agreeing on its subdivisions.
 The task is not to release music from time. It is to compose relationships
 among times.
 
+Once those relations are composed, independence can produce clarity, surprise,
+and common form at once.
+
 ## 84. Drift Begins with Agreement
 
 Imagine two percussionists repeating the same five-attack figure in unison. One
@@ -87,6 +90,9 @@ may want simultaneous activities that refuse mutual adjustment.
 But if the composer wants drift, there must be something against which distance
 can be felt.
 
+A clear agreement gives separation meaning and gives the eventual return
+somewhere to land.
+
 ## 85. Pulse Is Not Meter
 
 A **pulse** is a recurring temporal interval we can use as a reference. A
@@ -129,6 +135,9 @@ What temporal reference does each part use?
 Which references are shared?
 
 Does the relation among them repeat, or change?
+
+Answer them, and an apparently free texture gains a temporal profile the ear
+can follow.
 
 ## 86. Phase: Hearing the Offset Move
 
@@ -174,6 +183,9 @@ The desired degree of fusion is a compositional choice. Phase does not require
 the parts to become anonymous. It requires their changing offset to be
 available to the ear.
 
+Choose that degree carefully, and phase becomes a moving perspective rather
+than a demonstration of a trick.
+
 ## 87. A Process Enters the Body
 
 After the recorded-speech pieces, Reich wanted to transfer gradual phase to
@@ -216,6 +228,9 @@ burden of relational hearing.
 
 This is why a simple pattern is not merely minimalist branding. It creates
 enough cognitive room for time itself to become performable.
+
+With that room, performers can turn a tiny pattern into a precise instrument
+for hearing relationship.
 
 ## 88. Several Ways to Leave Togetherness
 
@@ -265,6 +280,9 @@ If the piece concerns gradual loss of alignment, stable tempo ratios may be too
 static. If it concerns bodily difference, a mathematically perfect phase may
 solve the wrong problem.
 
+The right independence does not make the music vague; it makes one question
+more audible.
+
 ## 89. The Tempos Cross
 
 Conlon Nancarrow spent much of his mature career composing for player piano,
@@ -307,6 +325,9 @@ the other's former scale.
 This reveals a broader principle. A convergence point matters only if the
 music gives us a way to recognize convergence.
 
+Prepare that recognition, and a fleeting crossing can carry the force of an
+arrival.
+
 ## 90. Breath Against Pulse
 
 In *Music for 18 Musicians*, Reich places two measures of time beside one
@@ -348,6 +369,9 @@ measure. Phrase length may. A complex sectional proportion may not.
 Asking a wind player to use a comfortable breath gives useful responsibility;
 asking the same player to intuit five minutes while carrying a demanding line
 gives them a hidden stopwatch and less air.
+
+Used where it matters, bodily measure can give a phrase both flexibility and an
+unmistakable human scale.
 
 ## 91. Coincidence Is Not Yet Form
 
@@ -396,6 +420,9 @@ ensemble allows a new register to open.
 Otherwise the chord is a passing gift. There is nothing wrong with accepting it
 and continuing.
 
+Give one meeting a consequence, and coincidence can open a new region of the
+piece.
+
 ## 92. Give Independence a Boundary
 
 Independent parts still need a score of responsibilities, whether or not that
@@ -439,6 +466,9 @@ when chance changes authorship belong to a later section.
 Here the principle is narrower: temporal freedom becomes playable when
 performers know what relation their freedom must keep alive.
 
+A clear boundary does not diminish freedom; it gives performers enough common
+ground to use it boldly.
+
 ## 93. When Drift Becomes Blur
 
 The first failure is insufficient difference. Two loops begin at nearly the
@@ -477,6 +507,9 @@ or narrow the rate difference. Reserve one kind of meeting. Give a cue
 consequence. Remove a part that contributes activity but no temporal identity.
 
 Drift should change how the parts mean one another.
+
+Restore that relation, and even a blurred passage can regain direction without
+losing its looseness.
 
 ## 94. Designing the Separation
 
@@ -521,6 +554,8 @@ than the plan allowed.
 
 A near-coincidence may reveal the real climax. The composer remains responsible
 for choosing which discoveries enter the work.
+
+The plan gives drift a beginning; listening gives it discoveries worth keeping.
 
 ## 95. Three Experiments
 
@@ -579,6 +614,9 @@ ensemble or allow its timbre to change.
 Keep its temporal function while preventing one instrument from becoming
 permanent furniture.
 
+Preserve the function rather than the furniture, and the pulse can keep the
+ensemble related while its surface stays alive.
+
 ## 96. The Warning in the Counterpoint
 
 Return to the two copies of Brother Walter. At the beginning they speak as one.
@@ -598,6 +636,9 @@ emerge; others disappear inside the composite.
 A line becomes an echo, an echo becomes a band, and a band briefly opens to
 reveal one strand. Temporal relation has become texture. We must now decide
 what, inside the layer, can be heard.
+
+That transformation opens a new compositional scale: not only when parts meet,
+but what their meeting allows us to hear.
 
 ---
 

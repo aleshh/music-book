@@ -1,6 +1,6 @@
 # Book Progress and Material Ledger
 
-Last updated: 2026-08-07
+Last updated: 2026-08-08
 
 This is the book-wide editorial dashboard. It tracks section progress, the
 primary home of major ideas, and the use of anecdotes, repertoire, and invented
@@ -66,18 +66,18 @@ existing heading.
 
 | No. | Working section | Brief | Source ledger | Draft | Editorial state |
 |---:|---|---|---|---|---|
-| 1 | Attend | Complete | Complete | Drafted | Initial structural, source, overlap, and voice pass complete; reader review pending |
-| 2 | Experience Time | Complete | Complete | Drafted | Initial structural, source, overlap, and voice pass complete; reader review pending |
-| 3 | Limit | Complete | Complete | Drafted | Initial structural, source, overlap, musical, and voice pass complete; reader review pending |
-| 4 | Sustain | Complete | Complete | Drafted | Initial structural, source, overlap, musical, and voice pass complete; reader review pending |
-| 5 | Make a Harmonic World | Complete | Complete | Drafted | Initial structural, source, overlap, musical, and voice pass complete; reader review pending |
-| 6 | Repeat — Making Sameness Consequential | Complete | Complete | Drafted | Initial structural, source, overlap, musical, and voice pass complete; partial reader review; full reader review pending |
-| 7 | Drift — Coordinating Without Locking | Complete | Complete | Drafted | Initial structural, source, overlap, musical, and voice pass complete; reader review pending |
-| 8 | Layer — Turning Relationship into Form | Complete | Complete | Drafted | Initial structural, source, overlap, musical, and voice pass complete; reader review pending |
-| 9 | Color — Letting Sound Carry the Argument | Complete | Complete | Drafted | Initial structural, source, overlap, musical, and voice pass complete; reader review pending |
-| 10 | Release Control | Complete | Complete | Drafted | Initial structural, source, overlap, ethical, and voice pass complete; reader review pending |
-| 11 | Place | Complete | Complete | Drafted | Initial structural, source, overlap, ethical, and voice pass complete; reader review pending |
-| 12 | Discover the Form | Complete | Complete | Drafted | Initial structural, source, overlap, musical, and voice pass complete; reader review pending |
+| 1 | Attend | Complete | Complete | Drafted | Calibrated lift pass complete; full reader review pending |
+| 2 | Experience Time | Complete | Complete | Drafted | Calibrated lift pass complete; reader review pending |
+| 3 | Limit | Complete | Complete | Drafted | Calibrated lift pass complete; reader review pending |
+| 4 | Sustain | Complete | Complete | Drafted | Calibrated lift pass complete; reader review pending |
+| 5 | Make a Harmonic World | Complete | Complete | Drafted | Calibrated lift pass complete; reader review pending |
+| 6 | Repeat — Making Sameness Consequential | Complete | Complete | Drafted | Calibrated lift pass complete; full reader review pending |
+| 7 | Drift — Coordinating Without Locking | Complete | Complete | Drafted | Calibrated lift pass complete; reader review pending |
+| 8 | Layer — Turning Relationship into Form | Complete | Complete | Drafted | Calibrated lift pass complete; reader review pending |
+| 9 | Color — Letting Sound Carry the Argument | Complete | Complete | Drafted | Calibrated lift pass complete; reader review pending |
+| 10 | Release Control | Complete | Complete | Drafted | Calibrated lift pass complete; reader review pending |
+| 11 | Place | Complete | Complete | Drafted | Calibrated lift pass complete; reader review pending |
+| 12 | Discover the Form | Complete | Complete | Drafted | Calibrated lift pass complete; reader review pending |
 
 Current section files:
 
@@ -421,3 +421,18 @@ job already performed, so a future return must do something else.
   rather than existing only in Markdown.
 - `scripts/restructure-fast-flow.py --renumber` maintains the global number
   sequence after later insertions, removals, or moves.
+
+## Latest voice audit: restrained lift
+
+- Completed 2026-08-08: all 164 numbered pieces received one calibrated lift
+  move. Each addition turns analysis toward a compositional possibility,
+  restores agency after a caution, or gives an ending a modest forward vector.
+- The pass added 2,633 words, moving the stable editorial count from 63,474 to
+  66,107. It did not alter historical claims, anecdotes, exercises, source
+  notes, Section order, or numbered-piece order.
+- `scripts/apply-lift-pass.py` records all 164 additions and verifies their
+  intended homes. A second run inserts nothing; it is an audit trail for this
+  completed editorial pass, not a routine drafting command.
+- The governing voice rule now appears in both `Voice` and `AGENTS.md`:
+  inspiration should arise from clearer musical agency and consequence, not
+  hype, generic encouragement, or a repeated motivational cadence.

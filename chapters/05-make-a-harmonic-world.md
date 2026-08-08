@@ -49,6 +49,9 @@ What makes an unchanged chord continue to have an inner life? And when does
 harmonic openness become only a pleasant fog in which no decision carries
 weight?
 
+The reward is a harmony that can remain open without becoming vague, and stable
+without becoming inert.
+
 ## 56. A Collection Is Not a World
 
 Take five pitches: D, E, G, A, and C.
@@ -99,6 +102,9 @@ different worlds hiding beneath one label.
 
 Inventory is where harmonic thought begins. Behavior is where it becomes
 music.
+
+Define the behavior, and even a small collection can begin to offer paths,
+thresholds, and return.
 
 ## 57. How a Pitch Acquires Weight
 
@@ -166,6 +172,9 @@ know which evidence the listener is being given.
 “There is no tonic” is sometimes a precise description. At other times it means
 that the composer has not noticed the tonic created by thirty low Ds.
 
+Once those forces are audible, the composer can strengthen, contradict, or
+gradually transfer their weight.
+
 ## 58. A Symmetrical Scale, an Unequal Piece
 
 Debussy's *Voiles*, the second prelude in the first book of *Préludes*, spends
@@ -224,6 +233,9 @@ studies, habits, and decisions.
 
 A category can be transformed without its replacement being stolen whole.
 
+That recognition expands the field: inherited categories become choices rather
+than laws.
+
 ## 59. When a Reference Becomes Harmony
 
 In the preceding section, we distinguished a drone, a pedal, and a reference
@@ -261,6 +273,9 @@ not progressed; the floor has moved under them.
 
 This is harmonic motion by reinterpretation. The frame changes, so the same
 object acquires another function.
+
+Move the floor deliberately, and fixed pitches can travel farther than a
+progression.
 
 ## 60. Voice-Leading Is the Journey
 
@@ -303,6 +318,9 @@ as harmonic even though the chord name is unchanged.
 
 The smaller the pitch inventory, the more exposed these paths become. An inner
 voice has nowhere to hide, which is either an opportunity or an indictment.
+
+That exposure is useful: a single moving voice can make an apparently static
+chord undertake a real journey.
 
 ## 61. A Home Inside a Home
 
@@ -349,6 +367,9 @@ The music does not spend ten minutes pretending a dominant cadence is about to
 arrive. A pitch collection can retain tonal color and unequal weight without
 continually reenacting tonal syntax.
 
+This leaves a wide field between cadence and weightlessness, ready to be
+composed rather than merely labeled.
+
 ## 62. Harmony Occupies Space
 
 Play C, E, and G near middle C. Then move C down two octaves and G up one. The
@@ -391,6 +412,9 @@ allow the center itself to become uncertain.
 When composers say they want a chord to “breathe,” they often mean that
 voicing, register, and entrance allow its internal intervals to remain
 perceptible. Air is not a harmonic parameter. Distance is.
+
+Compose the distances, and the chord can change posture before it changes
+pitch.
 
 ## 63. Intervals You Can Build
 
@@ -444,6 +468,9 @@ It is that tuning determines which intervals feel fused, active, rough, or
 remote, and instruments determine how those relations occupy time. A harmonic
 system is a proposal about behavior, not a diagram hovering above sound.
 
+Once behavior enters the design, tuning becomes a source of phrase and form
+rather than a preliminary calculation.
+
 ## 64. Ambiguity Needs Evidence
 
 Ambiguous harmony supports more than one plausible hearing. Vague harmony
@@ -478,6 +505,9 @@ of its provisional resolution.
 
 Think of ambiguity as counterpoint among interpretations. Each line should be
 strong enough to follow.
+
+Sustain both hearings clearly, and uncertainty becomes a field the listener can
+explore rather than a problem awaiting correction.
 
 ## 65. When a Field Becomes Wallpaper
 
@@ -524,6 +554,9 @@ scale.
 A harmonic world needs borders, paths, and unequal ground. Otherwise it is a
 paint sample.
 
+Give the field that uneven terrain, and return, departure, and surprise become
+possible without importing a conventional progression.
+
 ## 66. Designing the World
 
 Begin with a collection small enough to hear relationally. Five to seven
@@ -561,6 +594,9 @@ Finally, ask what the harmony permits us to feel. Not what mood its scale is
 supposed to signify, but what kinds of tension, patience, uncertainty, warmth,
 abrasion, or distance its actual relations can carry. A method becomes
 expressive through the consequences it makes available.
+
+When those consequences remain audible, the harmonic method can support more
+than one character without losing its identity.
 
 ## 67. Three Experiments
 
@@ -613,6 +649,9 @@ not fixed.
 Ask whether the final ambiguity feels charged or merely unfinished. If it is
 unfinished, strengthen both homes rather than choosing one.
 
+A charged ambiguity gives the next gesture somewhere meaningful to lean,
+whichever center it favors.
+
 ## 68. What the Encounter Changes
 
 Debussy did not return from the 1889 Exposition carrying a complete harmonic
@@ -633,6 +672,9 @@ step.
 
 Once they recognize the same climate, another freedom becomes possible: each
 line may begin to keep its own time.
+
+Shared climate need not produce unanimity; it can give independent lines the
+confidence to separate.
 
 ---
 

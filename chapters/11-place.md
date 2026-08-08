@@ -41,6 +41,9 @@ and who was already there?
 Place is not scenery around the music. It is the set of conditions through
 which music becomes public sound.
 
+Writing those conditions into the work can make place an active collaborator
+without pretending it is a neutral instrument.
+
 ## 136. A Place Is Several Places
 
 Walk into a railway station before making a note. You can hear one acoustic
@@ -88,6 +91,9 @@ answer, or ignore these events, but it cannot claim they were absent.
 Place begins to matter compositionally when one of these relations alters a
 decision.
 
+Once a local event can alter a decision, every performance gains a way to
+discover where it actually is.
+
 ## 137. The Room Has Memory but No Intention
 
 In Section 4, Alvin Lucier's *I Am Sitting in a Room* showed how a room can
@@ -126,6 +132,9 @@ it. A short sound can give the room more to do.
 In the Fort Worden cistern, the musicians did not need to fill the return.
 Their restraint was not an aesthetic of emptiness imported underground. It was
 an answer to what was already sounding.
+
+Leave the room that work, and architecture can become a temporal voice rather
+than an added effect.
 
 ## 138. Specific, Responsive, Determined, Portable
 
@@ -170,6 +179,9 @@ Neither needs the other's credential.
 The distinction protects us from an easy romance. A score does not honor a
 place by becoming vague enough to accept whatever happens. It honors the
 relation by identifying what the place is permitted to decide.
+
+That precision makes portability and specificity available as choices, not
+opposing virtues.
 
 ## 139. A Piece the Listener Walks Through
 
@@ -223,6 +235,9 @@ general-purpose synonym for people arranged in a landscape.
 
 Place includes the history of the metaphors we place upon it.
 
+Accurate naming can deepen a work's relation to place because it replaces
+borrowed atmosphere with actual history.
+
 ## 140. The Listener Is Also Located
 
 Concert notation often assumes an impossible listener: centered, stationary,
@@ -258,6 +273,9 @@ itself.
 
 The listener's path is a form only when the work has composed meaningful
 differences among positions. Wandering through identical ambience is exercise.
+
+Compose those differences, and movement can reveal a piece no fixed seat could
+contain.
 
 ## 141. Object, Frame, Condition, Furniture
 
@@ -301,6 +319,8 @@ another relation to fulfill.
 A chair can be rigorously made without demanding that everyone stop sitting and
 admire the joints.
 
+A function can give music more ways to matter, not fewer.
+
 ## 142. Place Is an Activity
 
 A restaurant before service and during dinner may occupy the same room and be
@@ -339,6 +359,9 @@ general promise of atmosphere.
 
 Atmosphere for what? Whose activity becomes easier, stranger, slower, more
 visible, or less possible?
+
+Answering that question turns atmosphere from a finish applied to the music
+into a relation the music can change.
 
 ## 143. A Chapel Determines the Ensemble
 
@@ -380,6 +403,9 @@ chapel remains part of its design without requiring every performance to
 pretend that another hall is octagonal Houston. A portable afterlife does not
 erase a site-shaped origin.
 
+A site-shaped origin can remain generative elsewhere, carrying questions that
+each new room must answer differently.
+
 ## 144. Nature Is Not Neutral
 
 Outdoor music is frequently described as returning sound to nature. The phrase
@@ -417,6 +443,9 @@ premise.
 
 The world does not owe ambient music serenity.
 
+When the world refuses the premise, the piece has an opportunity to become more
+situated rather than less itself.
+
 ## 145. Public Sound and Consent
 
 Sound crosses boundaries more easily than performers do. A piece in a shared
@@ -452,6 +481,9 @@ pressure depends on someone else's inability to escape it.
 
 Ambient does not mean harmless.
 
+Care at that scale can make public music more adventurous, because its pressure
+no longer depends on unchosen captivity.
+
 ## 146. Atmosphere or Decoration?
 
 Atmosphere is a relation distributed through a place. Decoration is a surface
@@ -479,6 +511,9 @@ people.
 
 The music need not improve the place. It should enter a consequential
 relationship with it.
+
+Consequence gives atmosphere direction: the music can support, expose,
+interrupt, or make room.
 
 ## 147. Writing with a Place
 
@@ -517,6 +552,9 @@ calling the version final.
 Finally, listen after the last composed action. The site had a life before the
 piece and will have one after it. Decide whether the ending frames that return
 or merely stops occupying it.
+
+Composing that return lets the ending give the place back changed in attention,
+if not in fact.
 
 ## 148. Three Experiments
 
@@ -565,6 +603,9 @@ Ask someone who uses the site but is not part of the ensemble to review the
 plan. Treat their objection as information about the composition, not public
 relations.
 
+That outside hearing may reveal a formal condition no rehearsal inside the
+ensemble could detect.
+
 ## 149. What the Cistern Returns
 
 Return underground. Oliveros sounds a tone. Dempster answers. Panaiotis waits.
@@ -590,6 +631,9 @@ hearing, or becomes indistinguishable from the place that was there all along.
 The composer faces the final question of the book: how does a work discover
 that it has continued enough, and how can it leave without pretending to
 explain the world it briefly occupied?
+
+The room's return offers one clue: an ending can release a world whose
+continuation the piece has taught us to hear.
 
 ---
 

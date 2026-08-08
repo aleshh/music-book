@@ -60,6 +60,9 @@ composing after the player has stopped.
 Color is not what remains after the real notes have been written. It is how the
 notes become real enough to have edges, weight, distance, and consequence.
 
+Compose those dimensions directly, and a single note can arrive with the formal
+force of a new harmony.
+
 ## 110. A Note Is Not Its Name
 
 Write a middle C on a page. The symbol tells us a great deal and almost nothing.
@@ -119,6 +122,9 @@ Treat instrument names as families, not paint labels. A family contains
 resemblances strong enough to support recognition and differences strong
 enough to carry form.
 
+That range gives every familiar instrument more compositional futures than its
+name suggests.
+
 ## 111. Color Has Grammar
 
 Calling a sound warm, dark, thin, metallic, breathy, or rough can begin a
@@ -174,6 +180,9 @@ These verbs turn color from inventory into form. The question is no longer
 
 It is *What can this sound become while remaining recognizably involved in the
 same argument?*
+
+Once color has verbs, it can carry continuity, contrast, and return with the
+precision usually reserved for pitch.
 
 ## 112. A Percussion Ensemble Inside One Piano
 
@@ -235,6 +244,9 @@ discover which differences can become stable enough to have syntax.
 
 Novelty gives a sound one entrance. Form asks what happens after it arrives.
 
+A discovered difference becomes useful when you can bring it back, alter its
+role, and make its return matter.
+
 ## 113. Articulation Gives Time an Edge
 
 Two notes can have the same written duration and occupy time differently.
@@ -289,6 +301,9 @@ sound disclose its identity at once, or become recognizable?
 Does its effort increase or release? Does the resonance finish the phrase after
 the attack has ended? The answers belong to rhythm and form as surely as the
 note values do.
+
+Shape that trajectory, and the sound itself can supply the phrase the notation
+only begins.
 
 ## 114. Blend, Resistance, and the Sound Between
 
@@ -349,6 +364,9 @@ character.
 Blend without difference can become anonymous. Resistance without relation can
 become a collage of sounds declining to meet. The musical question is what the
 combination permits that its members could not do alone.
+
+Find that permission, and the combined sound becomes a third participant rather
+than a compromise.
 
 ## 115. The Voice Finds More Voices
 
@@ -421,6 +439,9 @@ because recognition and memory adhere to it.
 This does not prohibit borrowing, transformation, or cross-contextual work. It
 requires accuracy about what has been carried and judgment about what the new
 form asks it to do. “Interesting texture” is not a solvent for history.
+
+Working accurately with what sound carries can deepen transformation rather
+than restrict it.
 
 ## 116. Designing a Color Form
 
@@ -497,6 +518,9 @@ sound, obscure it, or become a section of the form in its own right.
 Composers often plan entrances more carefully than decays. Color asks for equal
 attention to what the sound leaves behind.
 
+Compose the remainder, and one release can become the threshold of the next
+event.
+
 ## 117. When Novelty Goes Slack
 
 The first danger is **the adjective instead of the sound**. A sketch asks for
@@ -544,6 +568,9 @@ a claim.
 
 Abrasion, refusal, and exposed mechanism are also colors. A form needs not only
 attractive materials but differences with something at stake.
+
+Restore a real difference, and color regains the power to alter what can happen
+next.
 
 ## 118. Three Experiments
 
@@ -609,6 +636,9 @@ Afterward, make a version in which dynamics remain fixed. If the structure
 collapses, decide whether dynamic change was the true argument or merely the
 most convenient signal.
 
+Once the convenient signal is removed, the surviving structure reveals what the
+colors themselves can do.
+
 ## 119. What the Air Carries
 
 Return to DJ Shadow listening between the drums. What he called air was not
@@ -644,6 +674,9 @@ further question.
 
 Which choices belong to the composer, which to the performer, and which can
 only be made by listening together?
+
+When those choices become audible, releasing control can enlarge the work
+without making responsibility disappear.
 
 ---
 

@@ -89,6 +89,9 @@ Repetition is an agreement about what will remain available while change moves
 somewhere else. The real question is not merely *What repeats?* It is *Where
 will the change occur?*
 
+Once the invariant is clear, every other parameter becomes newly available for
+invention.
+
 ## 70. Same Sound, Different Event
 
 Imagine a pianist playing a low D. After a pause, she plays the same D again,
@@ -144,6 +147,9 @@ the level of structure we first heard.
 This is why “exact repetition” is an incomplete compositional description. It
 tells us what the material does. It does not tell us what repetition does to
 the material.
+
+That transformation is a gift of recurrence: familiar material can keep
+acquiring new functions without being replaced.
 
 ## 71. Where Change Can Go
 
@@ -210,6 +216,9 @@ whose surface must remain recognizable.
 
 The repeating figure provides a fixed reference; changes around it become
 measurable because they have somewhere to register.
+
+Hold the reference steady, and changes too small to stand alone can begin to
+write the larger form.
 
 ## 72. How Large Is “Again”?
 
@@ -280,6 +289,9 @@ This crossing of clocks leads toward phase and drift, a subject we will reserve
 for its own section. For now, the important point is that the size of the
 repeated unit determines the size of the difference we can hear.
 
+Cross those levels deliberately, and a modest cell can cast consequences far
+beyond its own length.
+
 ## 73. Eight Hundred and Forty
 
 Erik Satie left *Vexations* as a page of slow, chromatic keyboard music and a
@@ -327,6 +339,9 @@ relevant to music history.
 Extreme repetition exposes a principle present in shorter pieces: performers
 are not transparent carriers of recurrence. They are among the things that
 repetition changes.
+
+Designing for those human changes lets a repeated score become a living
+duration rather than a copy machine.
 
 ## 74. Freedom Inside the Cycle
 
@@ -403,6 +418,9 @@ needs.
 
 Repetition, in this setting, is a way of sharing time without requiring a
 single will.
+
+A well-made cycle can hold collective freedom without dissolving the common
+world.
 
 ## 75. Accumulation Remembers
 
@@ -489,6 +507,9 @@ unsynchronized music that follows feel haunted by a coordination no longer
 present. Organic form is not a pile. It is a changing account of what the piece
 can still remember.
 
+What leaves can shape the form as strongly as what enters, because the listener
+keeps carrying the missing layer forward.
+
 ## 76. The Melody Stays; the Light Changes
 
 Maurice Ravel's *Boléro* offers a severe experiment in moving change away from
@@ -536,6 +557,8 @@ This is another reason to resist casual variation. If Ravel had changed a few
 notes of the melody on each pass to keep it interesting, the orchestral
 transformations would be harder to measure and the harmonic rupture would lose
 scale. By refusing one kind of development, he enlarges another.
+
+Protecting the invariant gives transformation room to become unmistakable.
 
 ## 77. Repetition and Care
 
@@ -585,6 +608,9 @@ difference lies partly in whether the surrounding music keeps listening.
 In *Jesus' Blood Never Failed Me Yet*, the irregular phrase remains sovereign.
 The accompaniment changes the light without trying to straighten the line.
 
+Careful repetition does not freeze its object; it creates the conditions in
+which that object's irregular life can be heard.
+
 ## 78. A Ground Is Not a Loop
 
 The finale of Brahms's Fourth Symphony is built over an eight-measure pattern
@@ -607,6 +633,9 @@ form.
 
 For now, Brahms gives us one useful question: is the repeating structure the
 thing the listener follows, or the thing that allows everything else to travel?
+
+When the ground is strong enough, travel can become daring without becoming
+arbitrary.
 
 ## 79. Designing the Return
 
@@ -704,6 +733,9 @@ we cease to call it the same.
 Do not wait until the end to ask this. The possibility of stopping shapes every
 return.
 
+Compose with the ending already latent in the cycle, and every return can lean
+toward a different fate.
+
 ## 80. When the Method Goes Slack
 
 Repetition often fails not because there is too much of it, but because the
@@ -754,6 +786,9 @@ and circumstance.
 Mitchell and Riley both organize repeated cells, but the Willisau *Nonaah* and
 a convivial performance of *In C* do not make the same social or emotional
 proposition. A method acquires character through the conditions we give it.
+
+That is encouraging news: the same method can support radically different music
+when its conditions are chosen precisely.
 
 ## 81. Try It
 
@@ -823,6 +858,9 @@ by clarifying what the group's freedom is meant to reveal.
 The purpose is not to write another *In C*. It is to discover how repetition
 can give performers time to hear and responsibility for what happens next.
 
+The result can belong to the players in front of you while retaining a
+structure strong enough to be shared again.
+
 ## 82. The Phrase Returns
 
 At Willisau, Roscoe Mitchell did not repeat the opening of *Nonaah* because he
@@ -853,6 +891,9 @@ where the pattern begins. Neither abandons the material. The relation itself
 starts to move.
 
 That is no longer only the problem of repetition. It is the beginning of drift.
+
+Let the returning phrase keep its identity, and separation itself becomes
+material.
 
 ---
 

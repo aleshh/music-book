@@ -60,6 +60,9 @@ clears, and a detail that had been present all along becomes the subject.
 A layer is not simply a sound that is there. It is a sound doing a job beside
 other sounds. Layering becomes form when those jobs change.
 
+Once jobs can change, a handful of strands can generate a form much larger than
+their inventory.
+
 ## 98. Parts, Streams, and Layers
 
 Imagine three performers.
@@ -132,6 +135,9 @@ degrees of fusion. One layer may move from independence toward blend while
 another travels in the opposite direction. Their changing legibility can be
 the form.
 
+Composing legibility this way lets familiar material keep changing its social
+life inside the texture.
+
 ## 99. A Line Can Lose Its Name
 
 A melody usually remains a melody because we can connect its successive events.
@@ -188,6 +194,9 @@ Relational form can keep the identities substantially stable and change whether
 they are separate, fused, dominant, concealed, or absent. The event is not
 always a new thing. Sometimes it is a new way the existing things can be heard
 together.
+
+That gives the composer motion without replacement: the same things can keep
+becoming a different whole.
 
 ## 100. Density Has More Than One Number
 
@@ -260,6 +269,8 @@ layers become harder to separate.
 
 Thickness is a condition. Form requires a change in what thickness does.
 
+Change the consequence, and density becomes a verb rather than a head count.
+
 ## 101. Register Draws the Field
 
 Register is one of the fastest ways to make layers separable, but separation is
@@ -314,6 +325,9 @@ same pitch do not merely occupy one coordinate. Register changes the internal
 identity of a tone as well as its relation to the field. The next section will
 take up that internal change. Here the point is relational: register organizes
 who can touch, who can hide, and who is left alone.
+
+Draw those relations deliberately, and register can make a texture approach,
+withdraw, open, or close without adding a line.
 
 ## 102. Eighty-Nine Parts, No Soloist
 
@@ -381,6 +395,9 @@ held chord with an impressive head count. If the piece moves between the two,
 compose the threshold. Let the listener hear a line lose its name, and later
 hear another line recovered from the mass.
 
+A composed threshold lets the ear enjoy both scales: the life of one line and
+the force of the many.
+
 ## 103. Masking Is Not Erasure
 
 When one layer becomes inaudible beneath another, we often say it has been
@@ -423,6 +440,9 @@ holding the form together, or that it has nothing to say alone.
 The last possibility matters. Not everything hidden by a rich texture becomes
 valuable when revealed. Sometimes accumulation disguises weak material. A
 clearing is an honest editor.
+
+What survives the clearing has earned a chance to carry the next part of the
+form.
 
 ## 104. The Mass Changes While Staying
 
@@ -480,6 +500,9 @@ interactions may never appear.
 The object is not “a drone with lots of tracks.” It is a set of intervals,
 intensities, and durations chosen so that the relations continue producing
 evidence.
+
+When those relations are tuned carefully, apparent stillness can keep producing
+fresh internal events.
 
 ## 105. Accumulation Has a Shape
 
@@ -549,6 +572,9 @@ needs to submit a dissertation.
 But if a long form depends on layering, the layers must do more than certify
 that time has passed.
 
+Shape what each arrival changes, and accumulation becomes a journey rather than
+a receipt.
+
 ## 106. When Fullness Goes Slack
 
 The first failure of layering is **addition without consequence**. A new strand arrives
@@ -589,6 +615,9 @@ The last is **unexamined continuation**. A repeating or sustained layer remains
 because it can. This is especially easy when a device will preserve it without
 fatigue. But technical endurance is not formal necessity. A layer with perfect
 memory may be the first one the composer needs to forget.
+
+Letting one unnecessary layer go may return consequence to every layer that
+remains.
 
 ## 107. Three Experiments
 
@@ -663,6 +692,9 @@ them to remain exact until a cue releases them. Compare the two versions. A
 human repetition will never be perfectly fixed, and those small adjustments
 may become the most important difference.
 
+That difference is not a defect to eliminate; it may be the opening through
+which the live form enters.
+
 ## 108. What the Earlier Self Becomes
 
 Shiroishi's layered work carries more than an ingenious solution to solo
@@ -699,6 +731,9 @@ its decay can carry the memory of the room. A single strand contains more
 internal difference than the word *single* suggests.
 
 Before another layer arrives, sound itself can carry the argument.
+
+Once the relation is audible, even one remaining strand may contain enough
+difference to continue the form.
 
 ---
 

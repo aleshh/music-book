@@ -47,6 +47,9 @@ How can beating become rhythm without attacks? What does a performer actually
 do to make continuity audible? And what can a release tell us that the
 sustained sound concealed?
 
+That is the promise of sustain: continuity can enlarge a sound until its
+smallest motions begin to carry form.
+
 ## 43. Three Kinds of Continuity
 
 Imagine a violinist bowing one pitch, a pianist striking the same pitch with
@@ -84,6 +87,9 @@ handed-off tone can expose the difference between two performers or conceal it.
 
 Notation often compresses these events into the same horizontal line. The
 composer's work begins by asking what the line requires in the world.
+
+Once the means of continuation is chosen deliberately, the line becomes a field
+of audible decisions.
 
 ## 44. A Sound Is More Than Its Pitch
 
@@ -132,6 +138,9 @@ event.
 
 The stages are not a universal envelope. They are places to listen for
 decisions.
+
+Listen at those stages, and one written note opens into several compositional
+times.
 
 ## 45. Rhythm Inside a Unison
 
@@ -203,6 +212,9 @@ sounds like the existing sonority changing amplitude.
 Both reveal that an interval is not merely two note names. It is an acoustic
 event capable of producing motion and, sometimes, apparent new material.
 
+Treat that motion as material, and a single interval can generate pulse,
+density, and arrival without adding an attack.
+
 ## 46. Four Centers, Not Four Lines
 
 Giacinto Scelsi's *Quattro pezzi su una nota sola*—four pieces, each on one
@@ -260,6 +272,9 @@ These are not evasions of the limit. They define the object being sustained.
 Scelsi's pieces are alive because *one* has been given depth, not because the
 number one possesses unusual spiritual credentials.
 
+Once one note is allowed an interior, limitation becomes depth rather than
+deprivation.
+
 ## 47. Drone, Pedal, and Reference
 
 Three terms are often used as if they all meant “a long low note.” They name
@@ -311,6 +326,9 @@ with Pandit Pran Nath. To call all of this “drone music” can be descriptivel
 convenient and historically flattening. A drone is a musical function. It is
 not an explanation of the cultural practices, tunings, disciplines, and people
 that taught a composer how to hear it.
+
+Heard as a function, the drone becomes flexible again: it can ground one
+relation, expose another, and change jobs over time.
 
 ## 48. The Room Selects
 
@@ -372,6 +390,9 @@ continue different parts of an action.
 To compose resonance is to decide what will receive energy, what it will favor,
 and how long the returned sound can alter the next event.
 
+Every resonant body therefore offers a different continuation, and choosing
+among them is already a way of shaping form.
+
 ## 49. The Body Keeps the Tone Alive
 
 A written whole note can conceal an extraordinary amount of work.
@@ -420,6 +441,9 @@ The simplest score can require the most active care. A long line is not an
 instruction to stop composing. It is an invitation to specify who keeps it
 alive and what their keeping may reveal.
 
+When that care becomes audible, duration can reveal collaboration rather than
+conceal effort.
+
 ## 50. Release Belongs to the Sound
 
 Play a low piano note with the sustain pedal down. Lift your finger while
@@ -452,6 +476,9 @@ surrounding sound loses its measure.
 
 Do not hurry to cover the evidence with the next attack. The final part of a
 sustained event may begin when no one is touching it.
+
+Wait for that final part, and release can supply the transition you might
+otherwise have written as a new event.
 
 ## 51. When Sustain Goes Flat
 
@@ -501,6 +528,9 @@ The desire to describe sustained music as eternal can erase the repeated acts
 that keep it sounding. Continuity becomes more interesting when we hear what it
 costs.
 
+Hearing the cost does not diminish continuity; it gives the sustained sound a
+body, a history, and stakes.
+
 ## 52. Designing the Interior
 
 Begin by naming the identity that will remain. It may be a fundamental pitch,
@@ -544,6 +574,9 @@ event enters the physical decay or the memory left after it.
 
 The aim is not maximum microscopic detail. It is to select the internal motion
 that makes this sound capable of carrying time.
+
+Choose that motion clearly, and one sound can travel without abandoning its
+name.
 
 ## 53. Three Experiments
 
@@ -619,6 +652,9 @@ continue alone?
 That appearance may be an illusion, but it is a compositionally useful one if
 the method makes its conditions audible.
 
+Composing the handoff lets continuity feel larger than any single source that
+produces it.
+
 ## 54. The Sound Along the Line
 
 Return to Young's remembered telephone poles. The hum seems continuous because
@@ -640,6 +676,9 @@ gravity around it. They may move without requiring the reference to move.
 
 The next question is how those relations can become a harmonic world rather
 than a progression in search of a destination.
+
+A stable reference does not close the harmonic world; it gives every arriving
+pitch a newly audible distance.
 
 ---
 

@@ -47,7 +47,7 @@ attached to the occasion, and whether anyone can leave.
 
 Attention is not a substance poured into music. It is a changing relation among
 sound, listener, activity, and setting. That relation can be composed, but it
-cannot be commanded.
+cannot be commanded. It can be invited, redirected, and renewed.
 
 This is where an account of ambient and minimalist practice should begin. Not
 with slowness, repetition, or a particular collection of instruments, but with
@@ -124,6 +124,9 @@ music can become environmental.
 A dense stream that never changes its manner may recede. A single quiet note
 after a long absence may reorganize a room.
 
+Change the surrounding field, and the same sound can pass from atmosphere to
+event without changing a note.
+
 ## 3. What Calls the Ear
 
 Place a soft, evenly articulated figure in the middle register: A, E, A, E,
@@ -194,6 +197,9 @@ This suggests a more useful compositional question than *How do I make this
 sound prominent?* Ask instead: *Prominent relative to what, for how long, and
 what will release it?*
 
+The question turns prominence from an effect to chase into a relation you can
+shape.
+
 ## 4. A Frame in Three Movements
 
 On August 29, 1952, at the Maverick Concert Hall near Woodstock, New York,
@@ -255,6 +261,9 @@ sound feel deliberate.
 A pause after applause can preserve a performance frame even when no one plays.
 Conversely, music that should remain available to conversation may be defeated
 by a ceremonial beginning, fixed seating, and the social authority of a stage.
+
+The opportunity is not to control every response, but to design a frame in
+which more than one kind of attention can remain musically alive.
 
 Instructions help, but they do not float above custom. Satie discovered that
 asking people not to listen may only focus them more intensely. Every whispered
@@ -329,6 +338,9 @@ pauses in the middle of an alarming sentence.
 The essential question is not how much material the passage contains. It is
 what missing part of it costs.
 
+Once you know that cost, you can decide where a listener must stay and where
+the music will keep a place for their return.
+
 ## 6. Writing for Departure and Return
 
 Imagine a listener leaving the music for thirty seconds—not necessarily by
@@ -362,6 +374,9 @@ summon, hold, release, redirect, and welcome attention back. The profile need
 not stay level. In fact, a work that is equally reticent at every moment may
 flatten its own distinctions. A rare event acquires force partly because the
 music has not insisted on every preceding instant.
+
+This gives form another dimension: not only what changes, but how strongly each
+change asks to be witnessed.
 
 To summon attention, introduce a relation that asks to be resolved or compared.
 To hold it, let that relation continue changing at a scale the listener can
@@ -435,6 +450,9 @@ The fuller theory of density and masking belongs to a later section. Here the
 point is simpler: attention can widen because the music offers more than one
 meaningful scale.
 
+A piece can grow larger in the ear without adding a single layer; it need only
+make more of its existing relations available.
+
 ## 8. Foreground Is a Job
 
 Foreground and background are often treated as places. The melody sits in
@@ -479,6 +497,9 @@ attack can recur until its novelty is spent.
 
 A solo voice can settle on a tone the ensemble already holds. Attention is
 released not because the material vanishes, but because its claim changes.
+
+A passage can renew itself without acquiring new material. It can give the
+material already present a new responsibility.
 
 ## 9. The Listener Brings a Past
 
@@ -534,6 +555,9 @@ depended entirely on surprise. This is not a reason to write music that reveals
 all its value immediately. It is a reason to ask what remains available after
 recognition has done its first work.
 
+Supporting several possible hearings can make a piece more exact, not less:
+each one must be carried by something the music actually does.
+
 Attention has a biography. A composition meets it partway.
 
 ## 10. When Attention Becomes Coercion
@@ -581,6 +605,9 @@ Better to decide what kind of absence the music can tolerate. Can a listener
 miss one attack, one phrase, one minute? Is the loss recoverable? If not, is the
 irreversibility essential to the piece or merely an unexamined habit? These are
 formal questions, but also gestures of hospitality.
+
+Answering them can free the music from constant insistence and concentrate its
+force where continuous witness really matters.
 
 ## 11. Three Experiments
 
@@ -636,6 +663,8 @@ event, a causal sequence, a change of rule, an unrepeated harmony?
 The exercise is not a contest between generosity and rigor. It reveals where
 your form asks for continuous witness, and whether that demand is intentional.
 
+Once located, that demand becomes material you can strengthen, soften, or move.
+
 ## 12. The Audience Refuses
 
 Return to the Galerie Barbazanges. The musicians are distributed around the
@@ -660,6 +689,8 @@ continuity, rarity and recurrence, the sharpness of boundaries, the position of
 performers, the listener's other activities, and the consequence of looking
 away. Music can call attention, hold it, divide it, release it, or make its
 wandering audible. It cannot own it.
+
+That is an enlargement of composition, not a surrender of it.
 
 So before asking what notes should begin a piece, we might ask a quieter
 question. When the first sound enters the room, what does it permit the listener

@@ -44,6 +44,9 @@ composer did not select without pretending that no one remains accountable?
 To release control is not to remove a hand from the music. It is to decide
 whose hand, ear, memory, or circumstance can act next.
 
+When that next agent is chosen clearly, the work can become more responsive
+without becoming less composed.
+
 ## 121. Control Is Not One Thing
 
 Imagine a short piece for three players. The pitches are fixed, the durations
@@ -89,6 +92,9 @@ deciding each consequential feature, with what information?”
 
 Sometimes the answer is no one. That is where open music begins to reveal its
 debts.
+
+Mapping decisions this way reveals new places for trust, structure, and
+surprise.
 
 ## 122. The Score as a Map of Responsibility
 
@@ -137,6 +143,9 @@ generosity.
 
 Good notation does not maximize information. It makes responsibility legible.
 
+When responsibility is legible, performers can act decisively instead of
+guessing what freedom was supposed to mean.
+
 ## 123. What Makes the Work Itself?
 
 Open form raises a question fixed scores can postpone: how different may two
@@ -173,6 +182,9 @@ but its identity cannot be defended by insisting that every conceivable
 result was secretly intended.
 
 Name what must survive. Then allow the surface to discover how.
+
+A clear identity gives the surface room to surprise everyone, including the
+composer.
 
 ## 124. Chance Does Not Improvise
 
@@ -223,6 +235,9 @@ question, range, instrumentation, duration, and stopping rule shapes the family
 of results. If a procedure repeatedly produces harm, tedium, or cliché, the
 oracle is not available for cross-examination. The composer is.
 
+Responsibility is not the enemy of chance; it is what lets chance become a
+serious compositional partner.
+
 ## 125. Precision Moves into the Relationship
 
 Christian Wolff's *For 1, 2 or 3 People*, composed in 1964, leaves
@@ -261,6 +276,9 @@ conditions of that network.
 
 The freedom lies inside attentiveness. A player must decide, but cannot decide
 alone.
+
+Compose that attentiveness well, and relationships can produce detail no
+individual part could contain.
 
 ## 126. Improvisation Is Prepared Attention
 
@@ -304,6 +322,8 @@ or choose a transition whose timing depends on the actual room. Give them a
 decision at the scale of that expertise.
 
 Trust is not vagueness. It is confidence placed in a named capacity.
+
+Named capacity turns openness from abdication into collaboration.
 
 ## 127. From Sound to Tape to Page
 
@@ -350,6 +370,9 @@ question the notation. Composition travels through a chain of agencies.
 
 Credit should travel with it.
 
+Following that chain can enlarge authorship without allowing anyone's
+contribution to vanish.
+
 ## 128. Labor Does Not Disappear into the Work
 
 Collaborative music often preserves an old hierarchy in its credits. The
@@ -391,6 +414,9 @@ receives recognition, and who can refuse?
 
 These questions do not drain spontaneity. They make trust possible.
 
+When risk and recognition are visible, performers can offer more of their
+judgment without being asked to disappear into the result.
+
 ## 129. Leadership Can Move
 
 Distributed agency does not require every performer to hold identical power at
@@ -427,6 +453,9 @@ political theory with music stands. The task is to notice that musical
 structure already distributes authority, attention, interruption, and care.
 Refusing to name those distributions does not remove them.
 
+Once those distributions are audible, they can be revised, and the ensemble can
+discover forms of leadership the composer could not assign in advance.
+
 ## 130. Error, Tolerance, and Recovery
 
 Fixed scores contain errors. Open scores contain errors plus arguments about
@@ -462,6 +491,9 @@ attention without pretending the disruption never occurred.
 
 Open music becomes resilient when error does not require telepathy. Performers
 know what must be preserved, what may change, and how to find one another again.
+
+Designing a way back gives performers permission to take risks that a brittle
+form would punish.
 
 ## 131. The Freedom No One Asked For
 
@@ -505,6 +537,9 @@ The repair is not necessarily more notation. It is clearer ownership. Fix the
 decision you care about. Give another to someone equipped to make it. Remove
 choices that do not matter. Test the boundaries. Credit the labor.
 
+Clear ownership makes freedom usable: each open decision can carry actual
+consequence instead of decorative uncertainty.
+
 ## 132. Designing a Family of Outcomes
 
 Begin by naming the invariant. What must every performance preserve: a pitch,
@@ -539,6 +574,9 @@ of the instrumentation.
 
 Then listen for what no one could have composed alone. That discovery is the
 reason to release control at all.
+
+The family succeeds when its members remain recognizably related and genuinely
+capable of surprising one another.
 
 ## 133. Three Experiments
 
@@ -602,6 +640,9 @@ musically consequential? Which decision felt like work without agency?
 Revise the piece using their answers. The exercise is incomplete until the
 allocation changes.
 
+Each revision can move freedom closer to the knowledge that makes it musically
+alive.
+
 ## 134. Staying with the Work
 
 Return to *Stay On It*. A theme persists. Cells gather around it. Performers
@@ -623,6 +664,9 @@ permits some movements and prevents others. A public may listen, leave, talk,
 or never have agreed to hear the piece at all.
 
 The next score of responsibilities extends beyond the ensemble.
+
+As responsibility widens beyond the ensemble, the surrounding world becomes
+capable of changing the piece in turn.
 
 ---
 

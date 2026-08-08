@@ -51,6 +51,9 @@ What habit does it prevent? What relation does it intensify? Who chose it, and
 who must live inside it? Most importantly, what decisions remain after the rule
 has been stated?
 
+A strong boundary does not close the work; it concentrates the place where
+invention can begin.
+
 ## 30. A Limit Is Not a Lack
 
 Imagine a table with three objects on it: a cup, a key, and a folded piece of
@@ -89,6 +92,9 @@ that conditions become compositional only through decisions. Some are chosen.
 Some are inherited. Some should be resisted rather than celebrated. The useful
 question is not whether the boundary was voluntary. It is whether the music
 has developed a consequential way of meeting it.
+
+Meeting a condition actively can turn an inherited limit into audible character
+without pretending the condition was a gift.
 
 ## 31. What, Exactly, Is Limited?
 
@@ -159,6 +165,9 @@ hear…* If the sentence cannot be finished, the limit may be a private aid, a
 habit, or a decoration in the programme note. Any of those may be harmless.
 None has yet earned the right to govern the piece.
 
+Finish the sentence clearly, and the constraint becomes a promise the music can
+test.
+
 ## 32. The Price of an Event
 
 A limit changes what an event costs.
@@ -198,6 +207,9 @@ The narrower the rule, the clearer that absent field may become.
 This is compositional leverage, not free expression. A small event can bear
 great weight only if the rest of the piece has prepared the scale on which that
 weight can be felt.
+
+Prepare the field carefully, and even a modest exception can change the scale
+of the whole.
 
 ## 33. Two Voices, One Language
 
@@ -261,6 +273,9 @@ remain after a lucid rule is found: range, spacing, pacing, resonance, phrase
 shape, exception, title, and the human situation in which the method will be
 heard. Reduction has not removed choice. It has made choice easier to locate.
 
+That is the freedom a useful rule creates: not fewer decisions, but decisions
+whose consequences can be heard.
+
 ## 34. A Rule Is Not an Alibi
 
 Once a process has been designed, it can become tempting to obey it with a kind
@@ -322,6 +337,9 @@ in the hall.
 
 The ear is not disrespecting the system when it hears another piece. It is
 reporting the result.
+
+The report is valuable: it tells the composer where the method must become
+music.
 
 ## 35. Rules That Behave
 
@@ -388,6 +406,8 @@ A piece with seven equally sacred constraints is likely to become a small
 bureaucracy. Music can survive administration, but it should not be made to
 fill out forms unless the forms are the point.
 
+A clear hierarchy lets the rules generate motion instead of merely policing it.
+
 ## 36. Four Notes, Five Egos
 
 Tom Johnson's *The Four Note Opera* uses A, B, D, and E. Five singers—a
@@ -437,6 +457,9 @@ The rule has become dramatic circumstance.
 
 A constraint becomes personal not when no one else has used it, but when the
 composer discovers a characteristic set of consequences inside it.
+
+Consequences are where a borrowed limit becomes a composer's own field of
+discovery.
 
 ## 37. Tasteful Thinness
 
@@ -489,6 +512,9 @@ composer to distinguish risk from negligence and limitation from romance.
 A constraint can be abrasive, comic, ugly, tender, or physically intense. It
 should not be exempt from judgment because it is simple enough to summarize.
 
+Once simplicity loses its halo, its actual expressive range becomes much
+larger.
+
 ## 38. When the Rule Should Break
 
 Some constraints are productive precisely because they never break. Their
@@ -535,6 +561,9 @@ present in spacing, register, effort, resonance, ensemble relation, or memory.
 An exception should not rescue a rule from the consequences of being poorly
 chosen.
 
+A rule that can answer pressure rather than merely survive it has begun to
+behave like form.
+
 ## 39. Designing a Useful Limit
 
 Begin with a musical problem, not an admiration for small numbers.
@@ -576,6 +605,9 @@ whether continuation is still discovering the limit or merely maintaining it.
 The aim is not to find the smallest possible method. It is to find a boundary
 strong enough to make decisions audible and permeable enough to let the music
 answer back.
+
+Inside such a boundary, resistance is not failure; it is the music showing you
+where to continue.
 
 ## 40. Three Experiments
 
@@ -648,6 +680,9 @@ If the musicians must follow a difficult rule that produces no experiential
 consequence, either redesign it or admit that the difficulty is the subject.
 Do not hide labor behind elegance.
 
+When the difficulty is audible, performers and listeners can meet it as part of
+the work rather than as a hidden cost.
+
 ## 41. The Vessel and What It Holds
 
 Return to Stalag VIII-A. There are four musicians: clarinet, violin, cello, and
@@ -667,6 +702,9 @@ new event before the existing one has disclosed its interior.
 
 Suppose, for a moment, that we do not. Suppose one sound remains. What has to
 be composed inside it so that remaining becomes an action?
+
+That is where the boundary pays off: one sound can now become large enough to
+investigate.
 
 ---
 

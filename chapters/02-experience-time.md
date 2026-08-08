@@ -49,6 +49,9 @@ remembered span are related. They are not the same thing.
 
 Duration is not an empty container. Music gives us clocks.
 
+Once we hear those clocks separately, duration becomes something we can shape
+rather than merely endure.
+
 ## 14. Six Hours Is Not a Tempo
 
 Set a metronomic pulse aside for the moment and imagine three passages, each
@@ -104,6 +107,9 @@ have merely been stretched apart.
 
 Length is a condition. Musical scale is the network of relations that makes
 that length consequential.
+
+A long work earns its scale when small relations begin to do work that shorter
+time could not give them.
 
 ## 15. The Clocks Music Gives Us
 
@@ -169,6 +175,9 @@ decay or bodily effort remains.
 Before extending a passage, ask which clock the listener will use. “Very slow”
 is not an answer unless something makes slowness audible.
 
+Choose the clock, and slowness becomes a compositional action rather than a
+number.
+
 ## 16. Midnight
 
 At the 1983 premiere, Kronos brought an ordinary watch onstage. The performance
@@ -205,6 +214,9 @@ desired duration always meets durations already in progress.
 At Toronto, the watch did more than measure the quartet. It changed the speed
 of the music it was meant to measure. A clock is never entirely outside a
 performance once someone must obey it.
+
+The surrounding clock can become counterpoint, resistance, or part of the
+score.
 
 ## 17. Passing Time and Remembered Time
 
@@ -264,6 +276,9 @@ Those are different claims.[^5] The first can be analyzed in the music. The
 second varies with listener, occasion, and attention. A work need not literally
 abolish the clock to compose a powerful experience of suspended direction.
 
+The gain is more precise than timelessness: a composer can loosen direction
+without pretending time has disappeared.
+
 ## 18. The Weight of a Rare Event
 
 Write nine attacks across four minutes. No tremolo, no sustained rearticulation:
@@ -306,6 +321,9 @@ remembered interval, a visible effort, an unresolved relation.
 
 Without such a clock, a gap may be spacious, tense, restful, or simply
 unarticulated. Duration does not acquire meaning merely by being left open.
+
+Give the silence something to transform, and waiting becomes an event the
+listener can enter.
 
 ## 19. After Ninety Minutes, Scale
 
@@ -366,6 +384,9 @@ been given another clock, or merely asked to tolerate a slower one?
 
 Automatic inflation changes the ruler. Scale changes what the ruler can measure.
 
+When scale changes what can be heard, length stops being an expense and becomes
+a source of form.
+
 ## 20. Memory That Cannot Quite Repeat Itself
 
 Feldman's *Triadic Memories* approaches the problem from a smaller but still
@@ -401,6 +422,9 @@ and the temporal map becomes secure.
 
 Between them lies a useful region where memory recognizes the neighborhood but
 cannot name the street.
+
+That uncertain neighborhood can sustain return without reducing it to
+confirmation.
 
 ## 21. Change Without a Moment
 
@@ -449,6 +473,9 @@ Radigue's practice gives us another answer to the problem of long duration. We
 do not always need landmarks that divide time. We can compose evidence that
 time has acted.
 
+A process can remain almost hidden and still leave the listener with
+unmistakable evidence of motion.
+
 ## 22. The Abyss and the Bird
 
 Olivier Messiaen's *Abîme des oiseaux*, the third movement of *Quatuor pour la
@@ -493,6 +520,9 @@ If the contrast produces the desired experience, thirty minutes may add
 nothing. If the relation needs acclimation, forgetting, or bodily accumulation,
 then length may be structural.
 
+Length then becomes available as a real choice, reserved for relations that
+need time to become themselves.
+
 ## 23. Anticipation Without Climax
 
 Waiting is often treated as a promise. A dominant chord waits for resolution. A
@@ -531,6 +561,8 @@ sounds need to promise something later. Some can complete their work locally.
 
 The balance between local sufficiency and long implication determines whether
 duration feels inhabited or merely deferred.
+
+When local gestures can stand on their own, anticipation gains room to breathe.
 
 ## 24. Boredom Is Not a Verdict
 
@@ -574,6 +606,9 @@ scale the passage needs. But do not use purity of concept as an alibi.
 A process can be perfectly consistent and temporally dead. The composer remains
 responsible for what consistency does.
 
+The useful response is curiosity: what has stopped changing, and what small
+decision could make time active again?
+
 ## 25. Bodies Keep Time
 
 In 1996, the Kronos Quartet planned another performance of *String Quartet II*.
@@ -616,6 +651,9 @@ long concert that closes the doors. Neither is inherently more serious. Each
 makes a different demand.
 
 The score may say five hours. The music asks who will live them.
+
+Treating those lived hours as material can make duration more humane and more
+exact at once.
 
 ## 26. Designing the Span
 
@@ -674,6 +712,9 @@ Its purpose may be to let the listener change while the material remains, to
 move below the threshold of immediate detection, or to make memory unreliable.
 The standard is not efficiency. It is necessity at the chosen scale.
 
+Necessity does not make the work austere; it gives every minute a reason to
+belong.
+
 ## 27. Three Experiments
 
 ### 1. Passing and Remembering
@@ -726,6 +767,9 @@ obvious.
 The shortest duration that preserves uncertainty tells you more about the
 work's scale than the longest duration you can defend.
 
+That threshold is a practical discovery: it tells you how long uncertainty
+needs in order to live.
+
 ## 28. Four Scores, Several Hours Later
 
 Return to the FLUX Quartet several hours into *String Quartet II*. The
@@ -763,6 +807,9 @@ before we can hear what it is doing?
 The next question is what that span can afford to contain. Every musical world
 is made from exclusions as well as choices. To discover a necessary duration is
 therefore also to discover a limit.
+
+A well-shaped span gives the next limit real force: whatever enters now has
+time enough to matter.
 
 ---
 

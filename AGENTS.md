@@ -109,6 +109,14 @@ Key habits:
 - Use first-person experience sparingly and only when it supplies evidence.
 - Let wonder follow specificity instead of announcing wonder with adjectives.
 
+The manuscript also carries a restrained sense of lift. Each numbered piece
+should normally contain one earned moment that turns analysis into
+compositional possibility, restores agency after a warning, or gives the final
+hinge a little forward motion. Inspiration comes from showing what a precise
+choice makes possible, not from motivational declarations, inflated praise,
+or repeated assurances that creativity is limitless. Do not add a second lift
+sentence mechanically when the piece already has one.
+
 Avoid guru language, reverence for simplicity, unexplained jargon, vague nature
 metaphors, empty praise, universal rules derived from one composer, and lazy use
 of “timeless,” “meditative,” “haunting,” or “hypnotic.” Do not equate minimal,
