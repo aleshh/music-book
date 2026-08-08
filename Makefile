@@ -1,4 +1,4 @@
-.PHONY: book pdf epub clean
+.PHONY: book pdf epub word-count clean
 
 book: pdf epub
 
@@ -7,6 +7,9 @@ pdf:
 
 epub:
 	@./scripts/build-book.sh epub
+
+word-count:
+	@python3 ./scripts/word-count.py
 
 clean:
 	@./scripts/build-book.sh clean

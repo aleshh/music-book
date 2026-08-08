@@ -13,6 +13,16 @@ That builds both editions:
 
 You can also run `make pdf`, `make epub`, or `make clean`.
 
+To report the manuscript count without rebuilding anything, run:
+
+```sh
+make word-count
+```
+
+This reports a stable editorial count that excludes generated `Chapter N:`
+labels, plus the literal Markdown-source count. Both include headings,
+exercises, notes, and source URLs.
+
 ## Requirements
 
 - Pandoc 3 or newer
