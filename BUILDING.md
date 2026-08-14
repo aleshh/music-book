@@ -21,7 +21,10 @@ make word-count
 
 This reports a stable editorial count that excludes generated `N.` heading
 labels, plus the literal Markdown-source count. Both include headings,
-exercises, notes, and source URLs.
+exercises, notes, and source URLs. It also reports average, median, population
+standard deviation, quartile range, 90th percentile, and full range for body-
+prose sentence length. Sentence statistics exclude headings, source notes, and
+footnote markers so citations and URLs do not distort the prose measurements.
 
 ## Requirements
 
