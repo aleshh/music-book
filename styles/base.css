@@ -5,9 +5,24 @@
   Licensed local fonts can also be declared with @font-face; see BUILDING.md.
 */
 
+@font-face {
+  font-family: "Pocket Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: local("CooperHewitt-Book"), local("Cooper Hewitt Book");
+}
+
+@font-face {
+  font-family: "Pocket Display";
+  font-style: normal;
+  font-weight: 400;
+  src: local("CooperHewitt-Semibold"), local("Cooper Hewitt Semibold");
+}
+
 :root {
   --book-serif: "Adobe Caslon Pro", "Iowan Old Style", Palatino, Georgia, serif;
-  --book-sans: "Cooper Hewitt", "Avenir Next", "Helvetica Neue", sans-serif;
+  --book-sans: "Pocket Sans", "Avenir Next", "Helvetica Neue", sans-serif;
+  --book-display: "Pocket Display", "Avenir Next Demi Bold", "Helvetica Neue", sans-serif;
   --body-size: 1rem;
   --body-leading: 1.55;
   --text-color: #171717;
@@ -44,8 +59,8 @@ h4,
 h5,
 h6 {
   break-after: avoid;
-  font-family: var(--book-sans);
-  font-weight: 600;
+  font-family: var(--book-display);
+  font-weight: 400;
   hyphens: none;
   line-height: 1.15;
   page-break-after: avoid;
@@ -82,6 +97,11 @@ a {
   color: var(--link-color);
   text-decoration-thickness: 0.06em;
   text-underline-offset: 0.12em;
+}
+
+a[href^="http://"],
+a[href^="https://"] {
+  overflow-wrap: anywhere;
 }
 
 blockquote {
@@ -122,8 +142,12 @@ code {
 
 .note-ref {
   font-family: var(--book-sans);
-  font-size: 0.72em;
+  font-size: 0.78em;
   line-height: 0;
+}
+
+.note-ref sup {
+  font-size: 1em;
 }
 
 .note-ref a {
@@ -149,7 +173,7 @@ code {
 
 .chapter-notes a[href^="#chapter-note-ref-"] {
   font-family: var(--book-sans);
-  font-size: 0.78em;
+  font-size: 0.9em;
   margin-left: 0.25em;
   text-transform: uppercase;
 }

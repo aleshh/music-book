@@ -67,9 +67,24 @@ python3 scripts/restructure-fast-flow.py --renumber
   spacing.
 - Edit `styles/epub.css` for EPUB-only layout choices.
 
-The default PDF trim size is 6 by 9 inches. EPUB readers often let readers
-override fonts, size, color, and spacing, so EPUB typography is intentionally
-less rigid.
+The PDF is designed as a 4.25 by 7 inch, no-bleed paperback interior. It uses
+mirrored margins: 0.625 inch at the binding edge, 0.375 inch outside, 0.48 inch
+above, and 0.54 inch below. Body copy is 9.25 point Adobe Caslon Pro when that
+font is installed, with Cooper Hewitt for headings. Long source URLs are
+allowed to wrap so they cannot make the browser shrink the rest of the page.
+
+The compact layout lets numbered pieces follow one another instead of forcing
+each one onto a new page. Each Section still begins on a new page, but its
+opening piece follows the Section title rather than occupying another sheet.
+
+This is a custom KDP paperback trim within the regular-trim range. Before
+upload, compare the final page count with KDP's current inside-margin table;
+books above 500 pages require at least a 0.75 inch inside margin. The current
+290-page build requires only 0.5 inch inside, so the 0.625 inch setting leaves
+comfortable binding clearance and remains sufficient through 500 pages. For a
+tactile pocket-guide feel, black ink on cream paper with a matte cover is the
+working production assumption. EPUB readers often let readers override fonts,
+size, color, and spacing, so EPUB typography remains intentionally less rigid.
 
 To use a font file you are licensed to distribute, create a `fonts/` directory
 and add an `@font-face` rule near the top of `styles/base.css`, for example:

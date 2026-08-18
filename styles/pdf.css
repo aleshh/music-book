@@ -1,26 +1,86 @@
-/* PDF-only controls: page dimensions, margins, print size, and title pages. */
+/*
+  PDF-only controls for the 4.25 × 7 inch pocket paperback.
+
+  This is a no-bleed interior. The mirrored margins leave extra room at the
+  binding edge while keeping a compact, reference-book measure.
+*/
 
 @page {
-  size: 6in 9in;
-  margin: 0.72in 0.67in 0.78in 0.78in;
+  size: 4.25in 7in;
+  margin-bottom: 0.54in;
+  margin-top: 0.48in;
+}
 
-  @bottom-center {
+@page :left {
+  margin-left: 0.375in;
+  margin-right: 0.625in;
+
+  @top-left {
+    color: #77736e;
+    content: "Ambient and Minimalist Music";
+    font-family: var(--book-sans);
+    font-size: 7pt;
+    letter-spacing: 0.04em;
+  }
+
+  @bottom-left {
     color: #696969;
     content: counter(page);
     font-family: var(--book-sans);
-    font-size: 8pt;
+    font-size: 7pt;
+  }
+}
+
+@page :right {
+  margin-left: 0.625in;
+  margin-right: 0.375in;
+
+  @top-right {
+    color: #77736e;
+    content: "A Composer's Field Guide";
+    font-family: var(--book-sans);
+    font-size: 7pt;
+    letter-spacing: 0.04em;
+  }
+
+  @bottom-right {
+    color: #696969;
+    content: counter(page);
+    font-family: var(--book-sans);
+    font-size: 7pt;
   }
 }
 
 @page :first {
-  @bottom-center {
+  @top-right {
+    content: none;
+  }
+
+  @bottom-right {
     content: none;
   }
 }
 
 :root {
-  --body-size: 10.5pt;
-  --body-leading: 1.48;
+  --body-size: 9.25pt;
+  --body-leading: 1.35;
+}
+
+html {
+  overflow-wrap: break-word;
+}
+
+p,
+li {
+  hyphens: auto;
+}
+
+h2 {
+  font-size: 1.28rem;
+}
+
+h3 {
+  font-size: 1rem;
 }
 
 header#title-block-header {
@@ -28,23 +88,23 @@ header#title-block-header {
   break-after: page;
   display: flex;
   flex-direction: column;
-  height: 7.35in;
+  height: 5.8in;
   justify-content: center;
   page-break-after: always;
   text-align: center;
 }
 
 #title-block-header .title {
-  font-size: 2.35rem;
+  font-size: 1.95rem;
   font-weight: 600;
   margin: 0;
-  max-width: 4.2in;
+  max-width: 3.1in;
 }
 
 #title-block-header .subtitle {
   color: var(--muted-color);
   font-family: var(--book-serif);
-  font-size: 1.25rem;
+  font-size: 1.08rem;
   font-style: italic;
   font-weight: 400;
   margin: 1em 0 0;
@@ -56,6 +116,7 @@ header#title-block-header {
 }
 
 #TOC > ul {
+  font-size: 0.95em;
   font-family: var(--book-sans);
   list-style: none;
   padding-left: 0;
@@ -63,7 +124,7 @@ header#title-block-header {
 
 #TOC ul ul {
   font-family: var(--book-serif);
-  font-size: 0.9em;
+  font-size: 0.92em;
   list-style: none;
   margin: 0.15em 0 0.7em;
   padding-left: 1.1em;
@@ -86,23 +147,24 @@ section.level1 {
 }
 
 section.level1 > h1 {
-  align-items: center;
-  break-after: page;
-  display: flex;
-  height: 6.7in;
-  justify-content: center;
-  margin: 0;
-  page-break-after: always;
-  text-align: center;
+  border-top: 3pt solid var(--text-color);
+  margin: 0.64in 0 0.5in;
+  max-width: 3.05in;
+  padding-top: 0.18in;
+  text-align: left;
 }
 
 section.level2 {
-  break-before: page;
-  page-break-before: always;
+  break-before: auto;
+  page-break-before: auto;
 }
 
 section.level2 > h2 {
-  margin-top: 0.25in;
+  margin: 1.55em 0 0.72em;
+}
+
+section.level1 > h1 + section.level2 > h2 {
+  margin-top: 0;
 }
 
 .chapter-notes {
@@ -113,6 +175,13 @@ section.level2 > h2 {
 .chapter-notes li {
   break-inside: avoid;
   page-break-inside: avoid;
+}
+
+.chapter-notes a,
+a[href^="http://"],
+a[href^="https://"] {
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 @media print {
