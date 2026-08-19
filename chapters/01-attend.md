@@ -1,6 +1,13 @@
 # Section 1: Attend
 
-## 1. Composing the Listener's Notice
+::: {.section-summary}
+Music does not merely occupy time; it proposes ways of noticing. This Section
+follows that proposal from foreground and background to memory, distraction,
+and refusal, asking what a composer can shape without pretending to own the
+listener's attention.
+:::
+
+## 1. Composing the listener's notice
 
 In March 1920, an audience entered the Galerie Barbazanges in Paris for a play
 by Max Jacob. Between the acts, a small group of musicians stationed around the
@@ -53,7 +60,7 @@ This is where an account of ambient and minimalist practice should begin. Not
 with slowness, repetition, or a particular collection of instruments, but with
 a question: *How does this music ask to be noticed?*
 
-## 2. Attention Is Wider Than a Spotlight
+## 2. Attention is wider than a spotlight
 
 Imagine a room with an open window. Someone nearby speaks your name. A bus
 brakes in the street.
@@ -127,7 +134,7 @@ after a long absence may reorganize a room.
 Change the surrounding field, and the same sound can pass from atmosphere to
 event without changing a note.
 
-## 3. What Calls the Ear
+## 3. What calls the ear
 
 Place a soft, evenly articulated figure in the middle register: A, E, A, E,
 with no accent and no large gap between repetitions. After it has continued for
@@ -200,7 +207,7 @@ what will release it?*
 The question turns prominence from an effect to chase into a relation you can
 shape.
 
-## 4. A Frame in Three Movements
+## 4. A frame in three movements
 
 On August 29, 1952, at the Maverick Concert Hall near Woodstock, New York,
 pianist David Tudor sat at a piano to perform a new piece by John Cage.
@@ -269,7 +276,7 @@ Instructions help, but they do not float above custom. Satie discovered that
 asking people not to listen may only focus them more intensely. Every whispered
 “ignore this” contains a small trumpet fanfare.
 
-## 5. The Harp and the Rain
+## 5. The harp and the rain
 
 In 1975, while recovering from an accident, Brian Eno was visited by his friend
 Judy Nylon, who brought a recording of eighteenth-century harp music. After she
@@ -341,7 +348,7 @@ what missing part of it costs.
 Once you know that cost, you can decide where a listener must stay and where
 the music will keep a place for their return.
 
-## 6. Writing for Departure and Return
+## 6. Writing for departure and return
 
 Imagine a listener leaving the music for thirty seconds—not necessarily by
 walking out, but by answering a question, reading a departure board, watching a
@@ -399,7 +406,7 @@ line acts as permanent leader. What sounds effortless to an audience can
 require alert, difficult listening onstage. Background is a role, not an
 absence of labor.
 
-## 7. The Whole Field and One Distant Voice
+## 7. The whole field and one distant voice
 
 Pauline Oliveros made this movement of attention into an explicit practice. In
 her writing on Deep Listening, she distinguished involuntary hearing from
@@ -453,7 +460,7 @@ meaningful scale.
 A piece can grow larger in the ear without adding a single layer; it need only
 make more of its existing relations available.
 
-## 8. Foreground Is a Job
+## 8. Foreground is a job
 
 Foreground and background are often treated as places. The melody sits in
 front; the accompaniment sits behind. But their musical roles can change while
@@ -501,7 +508,7 @@ released not because the material vanishes, but because its claim changes.
 A passage can renew itself without acquiring new material. It can give the
 material already present a new responsibility.
 
-## 9. The Listener Brings a Past
+## 9. The listener brings a past
 
 Relative salience does not begin from zero. Listeners arrive with learned
 expectations about melody, tuning, rhythm, instruments, language, venue, and
@@ -560,7 +567,7 @@ each one must be carried by something the music actually does.
 
 Attention has a biography. A composition meets it partway.
 
-## 10. When Attention Becomes Coercion
+## 10. When attention becomes coercion
 
 It is easy for composers to romanticize released attention. We imagine music
 generously coexisting with work, travel, conversation, sleep, or architecture.
@@ -609,9 +616,9 @@ formal questions, but also gestures of hospitality.
 Answering them can free the music from constant insistence and concentrate its
 force where continuous witness really matters.
 
-## 11. Three Experiments
+## 11. Three experiments
 
-### 1. Three Widths of Attention
+### 1. Three widths of attention
 
 Choose a place where you can hear at least five distinct sounds. Spend one
 minute following a single sound as closely as possible. Notice its internal
@@ -633,7 +640,7 @@ removing coordination.
 The result need not be quiet. The question is whether the width of listening
 changes.
 
-### 2. Foreground Without Force
+### 2. Foreground without force
 
 Write a texture of three continuing layers. Give them similar dynamics. Make
 each one distinct through some other feature: register, articulation, rate of
@@ -648,7 +655,7 @@ long tone in a field of short ones.
 Afterward, remove any cue that merely announces, “Now listen here.” Preserve
 only the relation that made the change audible.
 
-### 3. Permit the Exit
+### 3. Permit the exit
 
 Compose three minutes of music. Design it so that a listener may miss any
 thirty-second interval and still return to something intelligible.
@@ -665,7 +672,7 @@ your form asks for continuous witness, and whether that demand is intentional.
 
 Once located, that demand becomes material you can strengthen, soften, or move.
 
-## 12. The Audience Refuses
+## 12. The audience refuses
 
 Return to the Galerie Barbazanges. The musicians are distributed around the
 room. The guests have been told to talk, move, and treat the music as part of

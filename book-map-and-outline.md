@@ -748,17 +748,17 @@ how recurring parts remain related when they cease to share one clock.
 That yields the twelve Sections in the current book:
 
 1. Section 1: Attend — Composing the Listener's Notice
-2. Section 2: Experience Time — Making Duration Perceptible
+2. Section 2: Experience time — Making duration perceptible
 3. Section 3: Limit
 4. Section 4: Sustain
-5. Section 5: Make a Harmonic World
-6. Section 6: Repeat — Making Sameness Consequential
-7. Section 7: Drift — Coordinating Without Locking
-8. Section 8: Layer — Turning Relationship into Form
-9. Section 9: Color — Letting Sound Carry the Argument
-10. Section 10: Release Control
+5. Section 5: Make a harmonic world
+6. Section 6: Repeat — Making sameness consequential
+7. Section 7: Drift — Coordinating without locking
+8. Section 8: Layer — Turning relationship into form
+9. Section 9: Color — Letting sound carry the argument
+10. Section 10: Release control
 11. Section 11: Place
-12. Section 12: Discover the Form
+12. Section 12: Discover the form
 
 This twelve-Section structure, containing 164 short numbered pieces, is the current
 table of contents. The sixteen-Section version remains useful as a complete map

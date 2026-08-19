@@ -30,6 +30,8 @@ footnote markers so citations and URLs do not distort the prose measurements.
 
 - Pandoc 3 or newer
 - Google Chrome or Chromium for PDF rendering
+- Python 3 with `pypdf` and `reportlab` for deterministic Section-page checks
+  and final physical-page folios
 - `make` and Bash
 
 The script looks for Chrome in its standard macOS and command-line locations.
@@ -37,6 +39,16 @@ If yours is elsewhere, run:
 
 ```sh
 CHROME_BIN="/path/to/chrome" make pdf
+```
+
+The build automatically checks `PYTHON_BIN`, the system `python3`, and the
+Python runtime bundled with Codex. If none can import `pypdf` and `reportlab`,
+install them into the Python environment used by the build or point the build
+at another interpreter:
+
+```sh
+python3 -m pip install pypdf reportlab
+PYTHON_BIN="/path/to/python3" make pdf
 ```
 
 ## What gets included
@@ -73,18 +85,26 @@ above, and 0.54 inch below. Body copy is 9.25 point Adobe Caslon Pro when that
 font is installed, with Cooper Hewitt for headings. Long source URLs are
 allowed to wrap so they cannot make the browser shrink the rest of the page.
 
-The compact layout lets numbered pieces follow one another instead of forcing
-each one onto a new page. Each Section still begins on a new page, but its
-opening piece follows the Section title rather than occupying another sheet.
+The compact PDF layout lets numbered pieces follow one another instead of
+forcing each one onto a new page. Every Section receives one divider page with
+its small bold label, left-aligned title, and short orientation; the opening
+numbered piece begins on the immediately following page, without an inserted blank verso. The build
+finishes with `scripts/ensure-print-spreads.py`, which applies the final physical
+page numbers and verifies every Section transition.
+
+Body paragraphs are set without vertical space between them. The first
+paragraph of each numbered piece is flush left; subsequent body paragraphs are
+indented. Section summaries, block quotations, lists, and notes remain flush
+left. Reader-facing Section, piece, and exercise headings use sentence case.
 
 This is a custom KDP paperback trim within the regular-trim range. Before
 upload, compare the final page count with KDP's current inside-margin table;
 books above 500 pages require at least a 0.75 inch inside margin. The current
-290-page build requires only 0.5 inch inside, so the 0.625 inch setting leaves
-comfortable binding clearance and remains sufficient through 500 pages. For a
-tactile pocket-guide feel, black ink on cream paper with a matte cover is the
-working production assumption. EPUB readers often let readers override fonts,
-size, color, and spacing, so EPUB typography remains intentionally less rigid.
+317-page build requires 0.625 inch inside, so the current setting meets the
+requirement and remains sufficient through 500 pages. For a tactile pocket-
+guide feel, black ink on cream paper with a matte cover is the working
+production assumption. EPUB readers often let readers override fonts, size,
+color, and spacing, so EPUB typography remains intentionally less rigid.
 
 To use a font file you are licensed to distribute, create a `fonts/` directory
 and add an `@font-face` rule near the top of `styles/base.css`, for example:

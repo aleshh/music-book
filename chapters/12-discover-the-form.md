@@ -1,6 +1,13 @@
-# Section 12: Discover the Form
+# Section 12: Discover the form
 
-## 150. Continuing and Leaving
+::: {.section-summary}
+Form is not simply the outline left behind when a piece ends. This Section
+gathers the book's methods into questions of continuation, renewal, scale, and
+closure, asking how a work can discover the length and ending its relationships
+require.
+:::
+
+## 150. Continuing and leaving
 
 In 1969, Gavin Bryars made a sketch for an exhibition at Portsmouth College of
 Art.
@@ -52,7 +59,7 @@ Form is the changing reason to keep listening.
 That definition gives every continuation a task and every ending something
 precise to answer.
 
-## 151. A Shape Is Not Yet a Form
+## 151. A shape is not yet a form
 
 We often speak of form as a shape: arch, line, circle, wave. Shapes are useful
 because they let us hold a long span in the mind. They also conceal nearly
@@ -100,7 +107,7 @@ the changes do.
 Choose the verbs clearly, and even a spare diagram can begin to generate
 dramatic consequence.
 
-## 152. Five Models of Continuation
+## 152. Five models of continuation
 
 Most pieces combine several kinds of form. It is still useful to distinguish
 five models because each gives continuation a different purpose.
@@ -157,7 +164,7 @@ The answer may change during the piece. That change is often the form.
 When the reason changes, continuation stops being mere extension and becomes
 discovery.
 
-## 153. How a World Begins
+## 153. How a world begins
 
 The first event has two jobs. It makes a sound, and it teaches us how beginnings
 will work.
@@ -205,7 +212,7 @@ need not reveal everything. It must give later events something to change.
 
 A strong opening creates possibility by making later difference consequential.
 
-## 154. Four Places Where Form Can Move
+## 154. Four places where form can move
 
 When composers feel a passage losing energy, they often add material. A new
 chord, instrument, rhythm, or layer enters.
@@ -253,7 +260,7 @@ where change will matter.
 Find that place, and a small alteration can move the whole form farther than a
 page of new material.
 
-## 155. Several Clocks at Once
+## 155. Several clocks at once
 
 A whole form rarely moves at one rate. A useful draft hears at least four
 timescales.
@@ -297,7 +304,7 @@ Coordination is not the same as synchronization.
 Once the clocks can be distinguished, their rare agreements can carry enormous
 weight.
 
-## 156. Renewing a State
+## 156. Renewing a state
 
 State-based music presents a special problem. If the state changes too little,
 continuation becomes replaceable. If it changes too much, the state was merely
@@ -339,7 +346,7 @@ that change audible.
 
 A modest answer is enough to renew a state and give continuation fresh purpose.
 
-## 157. When a Procedure Becomes a Character
+## 157. When a procedure becomes a character
 
 A procedure begins as an instruction. Add one note to the pattern. Lengthen
 each silence. Let two copies separate. Remove the loudest event after every
@@ -383,7 +390,7 @@ place where obeying it reveals why it must stop.
 That capacity for contradiction lets a procedure discover an ending rather than
 merely arrive at one.
 
-## 158. The Piece Discovers Its Length
+## 158. The piece discovers its length
 
 Duration is often the first number attached to a commission and the last fact
 understood in a draft. We may be given twelve minutes before we know what those
@@ -437,7 +444,7 @@ exhausts its possibilities.
 Selecting the necessary threshold can give a short form completeness and a long
 form room to breathe.
 
-## 159. An Action Ends; Its Sound Continues
+## 159. An action ends; its sound continues
 
 Tōru Takemitsu's *Rain Tree*, composed in 1981 for three percussionists, takes
 its image from Kenzaburō Ōe's rain tree: abundant leaves hold water and release
@@ -491,7 +498,7 @@ The tree does not release water forever. Continuation has a scale.
 Finding that scale lets aftersound continue the form without asking it to
 impersonate eternity.
 
-## 160. Seven Ways to End
+## 160. Seven ways to end
 
 An ending is not one gesture. It is a change in the work's right or ability to
 continue. Seven strategies cover a useful range.
@@ -551,7 +558,7 @@ The ending belongs to the verb.
 
 Name the verb, and the ending becomes a consequence rather than a stop sign.
 
-## 161. Four Measures Beyond the Last Note
+## 161. Four measures beyond the last note
 
 The second movement of Arvo Pärt's *Tabula rasa* is called *Silentium*. It is a
 slow prolation canon: related voices proceed at different rhythmic speeds, with
@@ -595,7 +602,7 @@ sound will answer the last one. Form ends partly by surrendering those facts.
 Within that limit lies a generous possibility: the work can shape its departure
 without occupying everything that follows.
 
-## 162. The Continuation Test
+## 162. The continuation test
 
 When a draft is complete enough to play, examine every major span with one
 question:
@@ -636,9 +643,9 @@ An ending is strong when it changes the past as well as the future.
 That backward change is the ending's creative power: it lets the final decision
 reorganize everything already heard.
 
-## 163. Three Experiments
+## 163. Three experiments
 
-### 1. Four Locations, One Form
+### 1. Four locations, one form
 
 Make a one-minute state from no more than four sounds. Continue it four times.
 
@@ -659,7 +666,7 @@ Which changes create a new section? Which deepen the same state? Which fail to
 matter? Build a form from the two strongest, even if they occur in different
 locations.
 
-### 2. Five Endings, Same Passage
+### 2. Five endings, same passage
 
 Write or choose a two-minute passage with a clear mode of continuation. Make
 five endings without changing its central material.
@@ -676,7 +683,7 @@ no more than the preceding thirty seconds to make each ending belong.
 The exercise is not a contest. Keep the version that reveals the most about
 what the passage had been doing all along.
 
-### 3. The Continuation Test
+### 3. The continuation test
 
 Mark every section of a draft with its current duration. After each mark,
 complete the sentence: “This must continue because more time allows us to
@@ -695,7 +702,7 @@ they coincide, separate two of them. Listen to the interval you have created.
 The interval may contain the most honest ending available: the moment control
 loosens and listening continues.
 
-## 164. Leave Something Open
+## 164. Leave something open
 
 Return to Bryars's submerged orchestra. A hymn is heard on deck, if the
 testimony is right. The ship descends. The imagined sound enters water and

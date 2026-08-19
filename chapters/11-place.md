@@ -1,6 +1,13 @@
 # Section 11: Place
 
-## 135. Writing a Music and Its Surroundings
+::: {.section-summary}
+Music always happens somewhere, even when the score behaves as though the room
+were interchangeable. This Section considers acoustics, movement, activity,
+audience location, public consent, and environmental specificity as forces
+that can enter the work's form.
+:::
+
+## 135. Writing a music and its surroundings
 
 In 1988, Pauline Oliveros, Stuart Dempster, and Panaiotis descended into a vast
 underground cistern at Fort Worden in Washington State.
@@ -44,7 +51,7 @@ which music becomes public sound.
 Writing those conditions into the work can make place an active collaborator
 without pretending it is a neutral instrument.
 
-## 136. A Place Is Several Places
+## 136. A place is several places
 
 Walk into a railway station before making a note. You can hear one acoustic
 place: a high ceiling, hard surfaces, long reflections, low mechanical hum,
@@ -94,7 +101,7 @@ decision.
 Once a local event can alter a decision, every performance gains a way to
 discover where it actually is.
 
-## 137. The Room Has Memory but No Intention
+## 137. The room has memory but no intention
 
 In Section 4, Alvin Lucier's *I Am Sitting in a Room* showed how a room can
 select frequencies from a voice repeatedly returned through it. Here the
@@ -136,7 +143,7 @@ an answer to what was already sounding.
 Leave the room that work, and architecture can become a temporal voice rather
 than an added effect.
 
-## 138. Specific, Responsive, Determined, Portable
+## 138. Specific, responsive, determined, portable
 
 The phrase **site-specific** is frequently used to mean that a performance
 happened somewhere interesting.
@@ -183,7 +190,7 @@ relation by identifying what the place is permitted to decide.
 That precision makes portability and specificity available as choices, not
 opposing virtues.
 
-## 139. A Piece the Listener Walks Through
+## 139. A piece the listener walks through
 
 John Luther Adams calls *Inuksuit* site-determined rather than site-specific.
 The work was premiered at Banff on the summer solstice in 2009 by eighteen
@@ -238,7 +245,7 @@ Place includes the history of the metaphors we place upon it.
 Accurate naming can deepen a work's relation to place because it replaces
 borrowed atmosphere with actual history.
 
-## 140. The Listener Is Also Located
+## 140. The listener is also located
 
 Concert notation often assumes an impossible listener: centered, stationary,
 unobstructed, equally close to every source, and available for the entire
@@ -277,7 +284,7 @@ differences among positions. Wandering through identical ambience is exercise.
 Compose those differences, and movement can reveal a piece no fixed seat could
 contain.
 
-## 141. Object, Frame, Condition, Furniture
+## 141. Object, frame, condition, furniture
 
 Music can occupy a place through several social jobs.
 
@@ -321,7 +328,7 @@ admire the joints.
 
 A function can give music more ways to matter, not fewer.
 
-## 142. Place Is an Activity
+## 142. Place is an activity
 
 A restaurant before service and during dinner may occupy the same room and be
 different musical sites. A chapel during private silence, a memorial, and a
@@ -363,7 +370,7 @@ visible, or less possible?
 Answering that question turns atmosphere from a finish applied to the music
 into a relation the music can change.
 
-## 143. A Chapel Determines the Ensemble
+## 143. A chapel determines the ensemble
 
 Morton Feldman was commissioned by John and Dominique de Menil to write music
 for Houston's Rothko Chapel after it opened in 1971. Feldman had known Mark
@@ -406,7 +413,7 @@ erase a site-shaped origin.
 A site-shaped origin can remain generative elsewhere, carrying questions that
 each new room must answer differently.
 
-## 144. Nature Is Not Neutral
+## 144. Nature is not neutral
 
 Outdoor music is frequently described as returning sound to nature. The phrase
 combines several assumptions that should be unpacked before the percussionists
@@ -446,7 +453,7 @@ The world does not owe ambient music serenity.
 When the world refuses the premise, the piece has an opportunity to become more
 situated rather than less itself.
 
-## 145. Public Sound and Consent
+## 145. Public sound and consent
 
 Sound crosses boundaries more easily than performers do. A piece in a shared
 space reaches people who did not choose a ticket, a duration, or an aesthetic.
@@ -484,7 +491,7 @@ Ambient does not mean harmless.
 Care at that scale can make public music more adventurous, because its pressure
 no longer depends on unchosen captivity.
 
-## 146. Atmosphere or Decoration?
+## 146. Atmosphere or decoration?
 
 Atmosphere is a relation distributed through a place. Decoration is a surface
 that leaves the underlying activity unchanged.
@@ -515,7 +522,7 @@ relationship with it.
 Consequence gives atmosphere direction: the music can support, expose,
 interrupt, or make room.
 
-## 147. Writing with a Place
+## 147. Writing with a place
 
 Begin without making sound. Listen long enough to hear cycles rather than a
 single impression. Ventilation begins and stops. Traffic changes. A door opens
@@ -556,9 +563,9 @@ or merely stops occupying it.
 Composing that return lets the ending give the place back changed in attention,
 if not in fact.
 
-## 148. Three Experiments
+## 148. Three experiments
 
-### 1. Before the First Sound
+### 1. Before the first sound
 
 Choose one site and listen for fifteen minutes. Do not collect poetic
 descriptions. Make four lists: cycles, distances, masking relations, and social
@@ -572,7 +579,7 @@ Did its decay belong to the site? Did anyone's behavior change?
 
 Do not add a second sound until you can describe what the first one did.
 
-### 2. One Score, Three Places
+### 2. One score, three places
 
 Write a short portable score with one invariant and one site-determined
 variable. The invariant might be a contour, interval, or sequence of densities.
@@ -587,7 +594,7 @@ Do not revise only dynamics. Ask whether the site's response changes form. If
 the work remains identical except for volume, admit that it is portable rather
 than site-determined. Portability is an answer.
 
-### 3. The Publicness Audit
+### 3. The publicness audit
 
 Design a thirty-minute work for a shared space. Draw a map showing sources,
 reach, quiet zones, routes, and exits.
@@ -606,7 +613,7 @@ relations.
 That outside hearing may reveal a formal condition no rehearsal inside the
 ensemble could detect.
 
-## 149. What the Cistern Returns
+## 149. What the cistern returns
 
 Return underground. Oliveros sounds a tone. Dempster answers. Panaiotis waits.
 The earlier tone continues traveling around them, softened and multiplied by

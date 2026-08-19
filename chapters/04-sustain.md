@@ -1,6 +1,13 @@
 # Section 4: Sustain
 
-## 42. Entering the Interior of a Sound
+::: {.section-summary}
+A sustained sound does not stand still. This Section enters its internal
+rhythm, including overtone, breath, bow, resonance, beating, fatigue, and
+release, to ask how continuity can remain alive long enough for small changes
+to become structural.
+:::
+
+## 42. Entering the interior of a sound
 
 La Monte Young remembered wind before he remembered music. In the Idaho log
 cabin where he was born, it moved under the eaves and through gaps at the
@@ -50,7 +57,7 @@ sustained sound concealed?
 That is the promise of sustain: continuity can enlarge a sound until its
 smallest motions begin to carry form.
 
-## 43. Three Kinds of Continuity
+## 43. Three kinds of continuity
 
 Imagine a violinist bowing one pitch, a pianist striking the same pitch with
 the sustain pedal down, and a percussionist rolling softly on a metal plate.
@@ -91,7 +98,7 @@ composer's work begins by asking what the line requires in the world.
 Once the means of continuation is chosen deliberately, the line becomes a field
 of audible decisions.
 
-## 44. A Sound Is More Than Its Pitch
+## 44. A sound is more than its pitch
 
 Strike a low piano string and listen past the first recognition of its note
 name. The bright edge of the attack recedes. A warmer body remains. Some upper
@@ -142,7 +149,7 @@ decisions.
 Listen at those stages, and one written note opens into several compositional
 times.
 
-## 45. Rhythm Inside a Unison
+## 45. Rhythm inside a unison
 
 Ask two players to sustain what they consider the same pitch without vibrato.
 At first you may hear one enlarged tone. Then the sound begins to breathe in
@@ -215,7 +222,7 @@ event capable of producing motion and, sometimes, apparent new material.
 Treat that motion as material, and a single interval can generate pulse,
 density, and arrival without adding an attack.
 
-## 46. Four Centers, Not Four Lines
+## 46. Four centers, not four lines
 
 Giacinto Scelsi's *Quattro pezzi su una nota sola*—four pieces, each on one
 note—was composed in 1959 for a chamber orchestra of twenty-five players.
@@ -275,7 +282,7 @@ number one possesses unusual spiritual credentials.
 Once one note is allowed an interior, limitation becomes depth rather than
 deprivation.
 
-## 47. Drone, Pedal, and Reference
+## 47. Drone, pedal, and reference
 
 Three terms are often used as if they all meant “a long low note.” They name
 different possible jobs.
@@ -330,7 +337,7 @@ that taught a composer how to hear it.
 Heard as a function, the drone becomes flexible again: it can ground one
 relation, expose another, and change jobs over time.
 
-## 48. The Room Selects
+## 48. The room selects
 
 Alvin Lucier begins *I Am Sitting in a Room* by speaking a text. That speech is
 captured, returned through the room, captured again, and returned repeatedly.
@@ -393,7 +400,7 @@ and how long the returned sound can alter the next event.
 Every resonant body therefore offers a different continuation, and choosing
 among them is already a way of shaping form.
 
-## 49. The Body Keeps the Tone Alive
+## 49. The body keeps the tone alive
 
 A written whole note can conceal an extraordinary amount of work.
 
@@ -444,7 +451,7 @@ alive and what their keeping may reveal.
 When that care becomes audible, duration can reveal collaboration rather than
 conceal effort.
 
-## 50. Release Belongs to the Sound
+## 50. Release belongs to the sound
 
 Play a low piano note with the sustain pedal down. Lift your finger while
 keeping the pedal depressed. One action has ended, but the sounding relation
@@ -480,7 +487,7 @@ sustained event may begin when no one is touching it.
 Wait for that final part, and release can supply the transition you might
 otherwise have written as a new event.
 
-## 51. When Sustain Goes Flat
+## 51. When sustain goes flat
 
 The first failure is literal extension. A note that lasts longer does not
 necessarily acquire an interior.
@@ -531,7 +538,7 @@ costs.
 Hearing the cost does not diminish continuity; it gives the sustained sound a
 body, a history, and stakes.
 
-## 52. Designing the Interior
+## 52. Designing the interior
 
 Begin by naming the identity that will remain. It may be a fundamental pitch,
 an interval, a band of noise, an instrumental action, a registral center, or a
@@ -578,9 +585,9 @@ that makes this sound capable of carrying time.
 Choose that motion clearly, and one sound can travel without abandoning its
 name.
 
-## 53. Three Experiments
+## 53. Three experiments
 
-### 1. Follow the Decay
+### 1. Follow the decay
 
 Choose one struck, plucked, or otherwise decaying sound with a duration long
 enough to enter.
@@ -606,7 +613,7 @@ the first event has ended?
 The clock time between attacks matters less than the state of the sound when
 the second action occurs.
 
-### 2. Tune the Motion
+### 2. Tune the motion
 
 Ask two performers to sustain a comfortable unison with as little vibrato as
 their instruments naturally permit. Let one player remain a reference while
@@ -628,7 +635,7 @@ for expressive mistuning.
 Afterward, reverse the roles. Then remove the fixed reference and let both
 players move. Notice what becomes harder to hear when no one holds the measure.
 
-### 3. One Sound, Three Continuities
+### 3. One sound, three continuities
 
 Choose one pitch, interval, or noise band and carry it through three conditions.
 
@@ -655,7 +662,7 @@ the method makes its conditions audible.
 Composing the handoff lets continuity feel larger than any single source that
 produces it.
 
-## 54. The Sound Along the Line
+## 54. The sound along the line
 
 Return to Young's remembered telephone poles. The hum seems continuous because
 the electrical system continues, but the heard sound belongs to a location.

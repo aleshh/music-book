@@ -23,12 +23,6 @@
     letter-spacing: 0.04em;
   }
 
-  @bottom-left {
-    color: #696969;
-    content: counter(page);
-    font-family: var(--book-sans);
-    font-size: 7pt;
-  }
 }
 
 @page :right {
@@ -43,16 +37,53 @@
     letter-spacing: 0.04em;
   }
 
-  @bottom-right {
-    color: #696969;
-    content: counter(page);
-    font-family: var(--book-sans);
-    font-size: 7pt;
-  }
 }
 
 @page :first {
   @top-right {
+    content: none;
+  }
+
+}
+
+@page section-title {
+  @top-left {
+    content: none;
+  }
+
+  @top-right {
+    content: none;
+  }
+
+  @bottom-left {
+    content: none;
+  }
+
+  @bottom-right {
+    content: none;
+  }
+}
+
+@page section-title:left {
+  margin-left: 0.375in;
+  margin-right: 0.625in;
+}
+
+@page section-title:right {
+  margin-left: 0.625in;
+  margin-right: 0.375in;
+}
+
+@page :blank {
+  @top-left {
+    content: none;
+  }
+
+  @top-right {
+    content: none;
+  }
+
+  @bottom-left {
     content: none;
   }
 
@@ -84,14 +115,14 @@ h3 {
 }
 
 header#title-block-header {
-  align-items: center;
+  align-items: flex-start;
   break-after: page;
   display: flex;
   flex-direction: column;
   height: 5.8in;
   justify-content: center;
   page-break-after: always;
-  text-align: center;
+  text-align: left;
 }
 
 #title-block-header .title {
@@ -148,10 +179,25 @@ section.level1 {
 
 section.level1 > h1 {
   border-top: 3pt solid var(--text-color);
-  margin: 0.64in 0 0.5in;
+  margin: 1.12in 0 0.22in;
   max-width: 3.05in;
+  page: section-title;
   padding-top: 0.18in;
   text-align: left;
+}
+
+section.level1 > .section-summary {
+  break-after: page;
+  color: #3f3f3f;
+  font-size: 10.25pt;
+  line-height: 1.38;
+  max-width: 2.9in;
+  page: section-title;
+  page-break-after: always;
+}
+
+section.level1 > .section-summary p {
+  margin: 0;
 }
 
 section.level2 {
@@ -163,8 +209,8 @@ section.level2 > h2 {
   margin: 1.55em 0 0.72em;
 }
 
-section.level1 > h1 + section.level2 > h2 {
-  margin-top: 0;
+section.level1 > .section-summary + section.level2 > h2 {
+  margin-top: 1.55em;
 }
 
 .chapter-notes {

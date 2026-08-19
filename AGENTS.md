@@ -140,17 +140,17 @@ the hidden intellectual framework:
 The completed first draft uses twelve Sections:
 
 1. Section 1: Attend
-2. Section 2: Experience Time
+2. Section 2: Experience time
 3. Section 3: Limit
 4. Section 4: Sustain
-5. Section 5: Make a Harmonic World
-6. Section 6: Repeat — Making Sameness Consequential
-7. Section 7: Drift — Coordinating Without Locking
-8. Section 8: Layer — Turning Relationship into Form
-9. Section 9: Color — Letting Sound Carry the Argument
-10. Section 10: Release Control
+5. Section 5: Make a harmonic world
+6. Section 6: Repeat — Making sameness consequential
+7. Section 7: Drift — Coordinating without locking
+8. Section 8: Layer — Turning relationship into form
+9. Section 9: Color — Letting sound carry the argument
+10. Section 10: Release control
 11. Section 11: Place
-12. Section 12: Discover the Form
+12. Section 12: Discover the form
 
 All twelve section drafts, briefs, and source ledgers now exist. `Repeat` and
 `Drift` were separated after the sample repetition section showed
@@ -196,16 +196,20 @@ argument has earned its duration.
 ## Numbered-piece flow and paragraph rhythm
 
 The current manuscript has 164 short pieces numbered continuously through the
-twelve Sections. Each begins on a new page in PDF and requests a new page in
-EPUB. Section titles receive their own divider pages.
+twelve Sections. Pieces flow continuously in PDF and each receives its own EPUB
+document. Section titles receive one divider page containing the Section summary;
+the first piece follows immediately, with no inserted blank verso. All
+reader-facing Section, piece, and exercise headings use sentence case and align
+left, including the book title page.
 
 Favor short, breathable body paragraphs. The fast-flow edit split 662 of 1,325
 body paragraphs at natural sentence boundaries, producing 1,987 paragraphs
 without changing the argument or splitting notes, lists, and headings. Preserve
 that rhythm when revising: paragraphs should normally make one move, and a new
-consequence or turn in the thought may begin a new paragraph. Do not reduce the
-prose to a sequence of isolated one-sentence emphases merely to create white
-space.
+consequence or turn in the thought may begin a new paragraph. In the finished
+book, body paragraphs have no extra vertical space; the first paragraph of each
+piece is flush left and later paragraphs are indented. Do not reduce the prose
+to a sequence of isolated one-sentence emphases merely to create white space.
 
 ## Recurring section movement
 

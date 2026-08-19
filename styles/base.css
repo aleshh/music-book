@@ -46,9 +46,9 @@ body {
 }
 
 p {
-  margin: 0 0 0.48em;
+  margin: 0;
   orphans: 3;
-  text-indent: 0;
+  text-indent: 1.15em;
   widows: 3;
 }
 
@@ -83,12 +83,23 @@ h3 {
   margin: 1.8em 0 0.6em;
 }
 
-h1 + p,
-h2 + p,
-h3 + p,
-blockquote + p,
-ol + p,
-ul + p,
+section.level1 > h1 .section-label {
+  display: block;
+  font-family: var(--book-sans);
+  font-size: 0.48em;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  line-height: 1;
+  margin-bottom: 0.34em;
+}
+
+section.level1 > h1 .section-name {
+  display: block;
+}
+
+.titlepage p,
+.section-summary p,
+section.level2 > p:first-of-type,
 .chapter-notes p {
   text-indent: 0;
 }

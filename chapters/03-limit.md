@@ -1,6 +1,13 @@
 # Section 3: Limit
 
-## 29. What a Boundary Makes Audible
+::: {.section-summary}
+A useful limit does more than remove possibilities; it redistributes
+consequence among those that remain. This Section asks what can be bounded:
+pitch, rhythm, density, behavior, and duration; and how a rule can focus choice
+without becoming an alibi.
+:::
+
+## 29. What a boundary makes audible
 
 In the winter of 1940–41, four professional musicians were prisoners at Stalag
 VIII-A near Görlitz. Henri Akoka played clarinet. Jean Le Boulaire played
@@ -54,7 +61,7 @@ has been stated?
 A strong boundary does not close the work; it concentrates the place where
 invention can begin.
 
-## 30. A Limit Is Not a Lack
+## 30. A limit is not a lack
 
 Imagine a table with three objects on it: a cup, a key, and a folded piece of
 paper. If these are the only objects available, we can describe the table as
@@ -96,7 +103,7 @@ has developed a consequential way of meeting it.
 Meeting a condition actively can turn an inherited limit into audible character
 without pretending the condition was a gift.
 
-## 31. What, Exactly, Is Limited?
+## 31. What, exactly, is limited?
 
 The word *constraint* often suggests a prohibition: do not use more than five
 pitches; do not repeat a duration; do not play loudly.
@@ -168,7 +175,7 @@ None has yet earned the right to govern the piece.
 Finish the sentence clearly, and the constraint becomes a promise the music can
 test.
 
-## 32. The Price of an Event
+## 32. The price of an event
 
 A limit changes what an event costs.
 
@@ -211,7 +218,7 @@ weight can be felt.
 Prepare the field carefully, and even a modest exception can change the scale
 of the whole.
 
-## 33. Two Voices, One Language
+## 33. Two voices, one language
 
 On February 7, 1976, according to his wife, Nora, Arvo Pärt wrote a short piano
 piece after roughly eight years of creative searching.
@@ -276,7 +283,7 @@ heard. Reduction has not removed choice. It has made choice easier to locate.
 That is the freedom a useful rule creates: not fewer decisions, but decisions
 whose consequences can be heard.
 
-## 34. A Rule Is Not an Alibi
+## 34. A rule is not an alibi
 
 Once a process has been designed, it can become tempting to obey it with a kind
 of relief. The rule will choose the next pitch. The count will determine the
@@ -341,7 +348,7 @@ reporting the result.
 The report is valuable: it tells the composer where the method must become
 music.
 
-## 35. Rules That Behave
+## 35. Rules that behave
 
 Some limits work as fences. They keep particular materials outside. Others
 work as engines: each event alters what can happen next.
@@ -408,7 +415,7 @@ fill out forms unless the forms are the point.
 
 A clear hierarchy lets the rules generate motion instead of merely policing it.
 
-## 36. Four Notes, Five Egos
+## 36. Four notes, five egos
 
 Tom Johnson's *The Four Note Opera* uses A, B, D, and E. Five singers—a
 soprano, contralto, tenor, baritone, and bass—play characters named for their
@@ -461,7 +468,7 @@ composer discovers a characteristic set of consequences inside it.
 Consequences are where a borrowed limit becomes a composer's own field of
 discovery.
 
-## 37. Tasteful Thinness
+## 37. Tasteful thinness
 
 Reduction has acquired a flattering cultural vocabulary. A sparse object may be
 called disciplined, essential, contemplative, pure, or honest before anyone has
@@ -515,7 +522,7 @@ should not be exempt from judgment because it is simple enough to summarize.
 Once simplicity loses its halo, its actual expressive range becomes much
 larger.
 
-## 38. When the Rule Should Break
+## 38. When the rule should break
 
 Some constraints are productive precisely because they never break. Their
 continuity creates the condition in which every other relation becomes legible.
@@ -564,7 +571,7 @@ chosen.
 A rule that can answer pressure rather than merely survive it has begun to
 behave like form.
 
-## 39. Designing a Useful Limit
+## 39. Designing a useful limit
 
 Begin with a musical problem, not an admiration for small numbers.
 
@@ -609,9 +616,9 @@ answer back.
 Inside such a boundary, resistance is not failure; it is the music showing you
 where to continue.
 
-## 40. Three Experiments
+## 40. Three experiments
 
-### 1. The Cost of One Event
+### 1. The cost of one event
 
 Take a short passage you have already written. Do not simplify everything.
 Remove one category of possibility: upward motion, simultaneous attacks, one
@@ -631,7 +638,7 @@ If it does not, restore the removed possibility. The exercise is not a contest
 to see how much can be subtracted. It asks whether absence has altered
 consequence.
 
-### 2. One Inventory, Three Laws
+### 2. One inventory, three laws
 
 Choose a small inventory of five sound-actions. They might be pitches, short
 figures, instrumental actions, spoken fragments, or mixed events. Keep this
@@ -652,7 +659,7 @@ and which makes them sound like a grammar?
 
 The inventory is not the composition. The relations are.
 
-### 3. The Constraint Audit
+### 3. The constraint audit
 
 Write or improvise an ensemble passage with three or four explicit
 restrictions.
@@ -683,7 +690,7 @@ Do not hide labor behind elegance.
 When the difficulty is audible, performers and listeners can meet it as part of
 the work rather than as a hidden cost.
 
-## 41. The Vessel and What It Holds
+## 41. The vessel and what it holds
 
 Return to Stalag VIII-A. There are four musicians: clarinet, violin, cello, and
 piano. Those facts matter. They shape register, balance, attack, sustain,

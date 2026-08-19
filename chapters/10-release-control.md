@@ -1,6 +1,13 @@
-# Section 10: Release Control
+# Section 10: Release control
 
-## 120. Who Makes the Next Decision?
+::: {.section-summary}
+Composers never control everything, but they do decide where control will
+reside. This Section maps responsibility among score, performer, chance,
+improvisation, leadership, error, and recovery, asking how freedom can be
+designed without becoming abandonment.
+:::
+
+## 120. Who makes the next decision?
 
 A group preparing Julius Eastman's *Stay On It* cannot begin by opening the
 composer's definitive full score. No such manuscript is known.
@@ -47,7 +54,7 @@ whose hand, ear, memory, or circumstance can act next.
 When that next agent is chosen clearly, the work can become more responsive
 without becoming less composed.
 
-## 121. Control Is Not One Thing
+## 121. Control is not one thing
 
 Imagine a short piece for three players. The pitches are fixed, the durations
 are approximate, and each performer chooses when to begin. Is it controlled or
@@ -96,7 +103,7 @@ debts.
 Mapping decisions this way reveals new places for trust, structure, and
 surprise.
 
-## 122. The Score as a Map of Responsibility
+## 122. The score as a map of responsibility
 
 Notation is often described as a representation of sound. It is also a map of
 responsibility.
@@ -146,7 +153,7 @@ Good notation does not maximize information. It makes responsibility legible.
 When responsibility is legible, performers can act decisively instead of
 guessing what freedom was supposed to mean.
 
-## 123. What Makes the Work Itself?
+## 123. What makes the work itself?
 
 Open form raises a question fixed scores can postpone: how different may two
 performances become before they are no longer performances of the same work?
@@ -186,7 +193,7 @@ Name what must survive. Then allow the surface to discover how.
 A clear identity gives the surface room to surprise everyone, including the
 composer.
 
-## 124. Chance Does Not Improvise
+## 124. Chance does not improvise
 
 Chance, indeterminacy, and improvisation are often placed in one large box
 labeled freedom. They locate decisions in different places.
@@ -238,7 +245,7 @@ oracle is not available for cross-examination. The composer is.
 Responsibility is not the enemy of chance; it is what lets chance become a
 serious compositional partner.
 
-## 125. Precision Moves into the Relationship
+## 125. Precision moves into the relationship
 
 Christian Wolff's *For 1, 2 or 3 People*, composed in 1964, leaves
 instrumentation open and permits a performance to select from ten pieces.
@@ -280,7 +287,7 @@ alone.
 Compose that attentiveness well, and relationships can produce detail no
 individual part could contain.
 
-## 126. Improvisation Is Prepared Attention
+## 126. Improvisation is prepared attention
 
 The word *improvise* can mean several very different tasks.
 
@@ -325,7 +332,7 @@ Trust is not vagueness. It is confidence placed in a named capacity.
 
 Named capacity turns openness from abdication into collaboration.
 
-## 127. From Sound to Tape to Page
+## 127. From sound to tape to page
 
 In Section 4, we heard Giacinto Scelsi's *Quattro pezzi su una nota sola* as
 music that finds several forms of activity inside one pitch center. The score
@@ -373,7 +380,7 @@ Credit should travel with it.
 Following that chain can enlarge authorship without allowing anyone's
 contribution to vanish.
 
-## 128. Labor Does Not Disappear into the Work
+## 128. Labor does not disappear into the work
 
 Collaborative music often preserves an old hierarchy in its credits. The
 composer's name appears in large type.
@@ -417,7 +424,7 @@ These questions do not drain spontaneity. They make trust possible.
 When risk and recognition are visible, performers can offer more of their
 judgment without being asked to disappear into the result.
 
-## 129. Leadership Can Move
+## 129. Leadership can move
 
 Distributed agency does not require every performer to hold identical power at
 every moment.
@@ -456,7 +463,7 @@ Refusing to name those distributions does not remove them.
 Once those distributions are audible, they can be revised, and the ensemble can
 discover forms of leadership the composer could not assign in advance.
 
-## 130. Error, Tolerance, and Recovery
+## 130. Error, tolerance, and recovery
 
 Fixed scores contain errors. Open scores contain errors plus arguments about
 whether the event was an error.
@@ -495,7 +502,7 @@ know what must be preserved, what may change, and how to find one another again.
 Designing a way back gives performers permission to take risks that a brittle
 form would punish.
 
-## 131. The Freedom No One Asked For
+## 131. The freedom no one asked for
 
 The most common failure in open composition is not chaos. It is uncredited
 completion.
@@ -540,7 +547,7 @@ choices that do not matter. Test the boundaries. Credit the labor.
 Clear ownership makes freedom usable: each open decision can carry actual
 consequence instead of decorative uncertainty.
 
-## 132. Designing a Family of Outcomes
+## 132. Designing a family of outcomes
 
 Begin by naming the invariant. What must every performance preserve: a pitch,
 theme, text, behavior, sequence, relation, or ethical condition?
@@ -578,9 +585,9 @@ reason to release control at all.
 The family succeeds when its members remain recognizably related and genuinely
 capable of surprising one another.
 
-## 133. Three Experiments
+## 133. Three experiments
 
-### 1. Name the Decision Maker
+### 1. Name the decision maker
 
 Take a short completed score or plan. Make seven columns: material, onset,
 duration, relation, color, transition, and ending.
@@ -598,7 +605,7 @@ performer who may revise it.
 
 The exercise may produce no new notes. It will produce a more honest score.
 
-### 2. One Piece, Three Scores
+### 2. One piece, three scores
 
 Choose a musical identity that can be stated in one sentence: for example, a
 low reference tone repeatedly gathers three rising fragments and is eventually
@@ -620,7 +627,7 @@ compose information you omitted.
 
 Do not assume the most open version is the most alive.
 
-### 3. Fix One, Share One, Chance One
+### 3. Fix one, share one, chance one
 
 Choose three parameters such as pitch, duration, and articulation.
 
@@ -643,7 +650,7 @@ allocation changes.
 Each revision can move freedom closer to the knowledge that makes it musically
 alive.
 
-## 134. Staying with the Work
+## 134. Staying with the work
 
 Return to *Stay On It*. A theme persists. Cells gather around it. Performers
 choose, cue, and improvise. A section may become raucous, sparse, disciplined,

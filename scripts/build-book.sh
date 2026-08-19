@@ -7,6 +7,7 @@ cd "$project_root"
 
 output_stem="ambient-and-minimalist-music"
 pdf_output="output/pdf/${output_stem}.pdf"
+pdf_raw="tmp/pdfs/${output_stem}-chrome.pdf"
 epub_output="output/epub/${output_stem}.epub"
 pdf_html="tmp/pdfs/${output_stem}.html"
 chrome_log="tmp/pdfs/chrome.log"
@@ -46,6 +47,36 @@ find_chrome() {
   die "PDF output needs Google Chrome or Chromium; set CHROME_BIN to its executable"
 }
 
+find_pdf_python() {
+  local candidate
+
+  if [[ -n "${PYTHON_BIN:-}" ]]; then
+    candidate="$PYTHON_BIN"
+    if [[ -x "$candidate" ]] && "$candidate" -c 'import pypdf, reportlab' >/dev/null 2>&1; then
+      printf '%s\n' "$candidate"
+      return
+    fi
+  fi
+
+  if command -v python3 >/dev/null 2>&1; then
+    candidate="$(command -v python3)"
+    if "$candidate" -c 'import pypdf, reportlab' >/dev/null 2>&1; then
+      printf '%s\n' "$candidate"
+      return
+    fi
+  fi
+
+  if [[ -n "${HOME:-}" ]]; then
+    candidate="${HOME}/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3"
+    if [[ -x "$candidate" ]] && "$candidate" -c 'import pypdf, reportlab' >/dev/null 2>&1; then
+      printf '%s\n' "$candidate"
+      return
+    fi
+  fi
+
+  die "PDF finalization needs Python 3 with pypdf and reportlab; set PYTHON_BIN or install both"
+}
+
 shopt -s nullglob
 chapter_files=(chapters/[0-9][0-9]-*.md)
 (( ${#chapter_files[@]} > 0 )) || die "no numbered Markdown files found in chapters/"
@@ -56,6 +87,7 @@ common_args=(
   --file-scope
   --metadata-file=book.yaml
   --lua-filter=filters/chapter-notes.lua
+  --lua-filter=filters/section-headings.lua
   --resource-path=".:styles:fonts"
   --section-divs
   --toc
@@ -67,6 +99,8 @@ build_pdf() {
   need_command pandoc
   local chrome_bin
   chrome_bin="$(find_chrome)"
+  local pdf_python
+  pdf_python="$(find_pdf_python)"
 
   mkdir -p output/pdf tmp/pdfs
 
@@ -90,7 +124,7 @@ build_pdf() {
     --disable-extensions \
     --no-pdf-header-footer \
     --user-data-dir="$chrome_profile" \
-    --print-to-pdf="$project_root/$pdf_output" \
+    --print-to-pdf="$project_root/$pdf_raw" \
     "file://$project_root/$pdf_html" >"$chrome_log" 2>&1 || chrome_status=$?
 
   rm -rf -- "$chrome_profile"
@@ -101,7 +135,14 @@ build_pdf() {
     die "Chrome PDF rendering failed with status $chrome_status"
   fi
 
-  [[ -s "$pdf_output" ]] || die "Chrome did not create $pdf_output"
+  [[ -s "$pdf_raw" ]] || die "Chrome did not create $pdf_raw"
+
+  "$pdf_python" scripts/ensure-print-spreads.py \
+    --expected-count="${#chapter_files[@]}" \
+    "$pdf_raw" \
+    "$pdf_output"
+
+  [[ -s "$pdf_output" ]] || die "PDF finalization did not create $pdf_output"
   printf 'Built %s\n' "$pdf_output"
 }
 

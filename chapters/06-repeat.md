@@ -1,6 +1,12 @@
 # Section 6: Repeat
 
-## 69. Making Sameness Consequential
+::: {.section-summary}
+To repeat something is to place it in the company of memory. This Section asks
+how recurrence changes identity, pressure, expectation, accumulation, and
+care, and how a cycle can remain consequential after its contents are familiar.
+:::
+
+## 69. Making sameness consequential
 
 Roscoe Mitchell had one hour.
 
@@ -92,7 +98,7 @@ will the change occur?*
 Once the invariant is clear, every other parameter becomes newly available for
 invention.
 
-## 70. Same Sound, Different Event
+## 70. Same sound, different event
 
 Imagine a pianist playing a low D. After a pause, she plays the same D again,
 at the same dynamic, with the same touch.
@@ -151,7 +157,7 @@ the material.
 That transformation is a gift of recurrence: familiar material can keep
 acquiring new functions without being replaced.
 
-## 71. Where Change Can Go
+## 71. Where change can go
 
 When a repeating passage feels inert, composers often assume that they need to
 alter the passage. Sometimes they do. But material is only one of four places
@@ -220,7 +226,7 @@ measurable because they have somewhere to register.
 Hold the reference steady, and changes too small to stand alone can begin to
 write the larger form.
 
-## 72. How Large Is “Again”?
+## 72. How large is “again”?
 
 Before deciding how repetition will change, decide what counts as one time.
 
@@ -292,7 +298,7 @@ repeated unit determines the size of the difference we can hear.
 Cross those levels deliberately, and a modest cell can cast consequences far
 beyond its own length.
 
-## 73. Eight Hundred and Forty
+## 73. Eight hundred and forty
 
 Erik Satie left *Vexations* as a page of slow, chromatic keyboard music and a
 peculiar note. The wording does not straightforwardly command every pianist to
@@ -343,7 +349,7 @@ repetition changes.
 Designing for those human changes lets a repeated score become a living
 duration rather than a copy machine.
 
-## 74. Freedom Inside the Cycle
+## 74. Freedom inside the cycle
 
 In 1964, Terry Riley wrote fifty-three short musical cells on a single page.
 Some are no more than a repeated pitch or a small rhythmic turn; others have a
@@ -422,7 +428,7 @@ single will.
 A well-made cycle can hold collective freedom without dissolving the common
 world.
 
-## 75. Accumulation Remembers
+## 75. Accumulation remembers
 
 Fifteen years after *In C*, Julius Eastman made a different kind of collective
 repetition audible in *Gay Guerrilla*. At a Northwestern University residency
@@ -510,7 +516,7 @@ can still remember.
 What leaves can shape the form as strongly as what enters, because the listener
 keeps carrying the missing layer forward.
 
-## 76. The Melody Stays; the Light Changes
+## 76. The melody stays; the light changes
 
 Maurice Ravel's *Boléro* offers a severe experiment in moving change away from
 melody and harmony. Its snare-drum rhythm persists. Two long melodies alternate
@@ -560,7 +566,7 @@ scale. By refusing one kind of development, he enlarges another.
 
 Protecting the invariant gives transformation room to become unmistakable.
 
-## 77. Repetition and Care
+## 77. Repetition and care
 
 In 1971, filmmaker Alan Power gave Gavin Bryars unused recordings from a film
 about people living rough in London. On one short fragment, an unidentified man
@@ -611,7 +617,7 @@ The accompaniment changes the light without trying to straighten the line.
 Careful repetition does not freeze its object; it creates the conditions in
 which that object's irregular life can be heard.
 
-## 78. A Ground Is Not a Loop
+## 78. A ground is not a loop
 
 The finale of Brahms's Fourth Symphony is built over an eight-measure pattern
 adapted from the closing chaconne of Bach's cantata BWV 150.
@@ -637,7 +643,7 @@ thing the listener follows, or the thing that allows everything else to travel?
 When the ground is strong enough, travel can become daring without becoming
 arbitrary.
 
-## 79. Designing the Return
+## 79. Designing the return
 
 We can now turn these encounters into a set of compositional decisions. They
 are not a taxonomy of repetitive music. They are questions that prevent
@@ -736,7 +742,7 @@ return.
 Compose with the ending already latent in the cycle, and every return can lean
 toward a different fate.
 
-## 80. When the Method Goes Slack
+## 80. When the method goes slack
 
 Repetition often fails not because there is too much of it, but because the
 composer has not decided what it is for.
@@ -790,9 +796,9 @@ proposition. A method acquires character through the conditions we give it.
 That is encouraging news: the same method can support radically different music
 when its conditions are chosen precisely.
 
-## 81. Try It
+## 81. Try it
 
-### Notice: Ten Returns
+### Notice: ten returns
 
 Choose a phrase that lasts between three and seven seconds. It should be clear
 enough that you can repeat it without consulting notation.
@@ -818,7 +824,7 @@ Now repeat the study on another day. Do not expect the same thresholds. This is
 not an experiment designed to prove a universal count. It is practice in
 hearing the listener as one location of change.
 
-### Isolate: Calm and Pressure
+### Isolate: calm and pressure
 
 Use one cell to make two short studies. Keep its pitches and order fixed.
 
@@ -837,7 +843,7 @@ Compare the results. Which parameters carried the affect? If the calm version
 depended only on softness and the pressured version only on loudness, exchange
 their dynamics and solve the problem again.
 
-### Complicate: A Repeating Condition
+### Complicate: a repeating condition
 
 Write five to nine short modules for three or more performers. Give everyone
 the same ordered collection. Each player may repeat a module or move to the
@@ -861,7 +867,7 @@ can give performers time to hear and responsibility for what happens next.
 The result can belong to the players in front of you while retaining a
 structure strong enough to be shared again.
 
-## 82. The Phrase Returns
+## 82. The phrase returns
 
 At Willisau, Roscoe Mitchell did not repeat the opening of *Nonaah* because he
 had nowhere else to go.

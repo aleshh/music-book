@@ -1,6 +1,13 @@
-# Section 5: Make a Harmonic World
+# Section 5: Make a harmonic world
 
-## 55. Gravity Without Destination
+::: {.section-summary}
+Harmony can establish gravity without promising a conventional destination.
+This Section considers how collections, reference tones, voice-leading,
+spacing, register, and interval design turn available pitches into a world
+with its own unequal terrain.
+:::
+
+## 55. Gravity without destination
 
 At the Paris Exposition of 1889, Claude Debussy heard musicians from Java. Six
 years later, writing to Pierre Louÿs, he praised the nuance of Javanese music
@@ -52,7 +59,7 @@ weight?
 The reward is a harmony that can remain open without becoming vague, and stable
 without becoming inert.
 
-## 56. A Collection Is Not a World
+## 56. A collection is not a world
 
 Take five pitches: D, E, G, A, and C.
 
@@ -106,7 +113,7 @@ music.
 Define the behavior, and even a small collection can begin to offer paths,
 thresholds, and return.
 
-## 57. How a Pitch Acquires Weight
+## 57. How a pitch acquires weight
 
 Functional harmony gives us a finely developed account of attraction. A leading
 tone tends upward, a dissonance receives a patterned resolution, and a dominant
@@ -175,7 +182,7 @@ that the composer has not noticed the tonic created by thirty low Ds.
 Once those forces are audible, the composer can strengthen, contradict, or
 gradually transfer their weight.
 
-## 58. A Symmetrical Scale, an Unequal Piece
+## 58. A symmetrical scale, an unequal piece
 
 Debussy's *Voiles*, the second prelude in the first book of *Préludes*, spends
 most of its outer spans inside one whole-tone collection. A whole-tone scale
@@ -236,7 +243,7 @@ A category can be transformed without its replacement being stolen whole.
 That recognition expands the field: inherited categories become choices rather
 than laws.
 
-## 59. When a Reference Becomes Harmony
+## 59. When a reference becomes harmony
 
 In the preceding section, we distinguished a drone, a pedal, and a reference
 tone by the jobs they perform.
@@ -277,7 +284,7 @@ object acquires another function.
 Move the floor deliberately, and fixed pitches can travel farther than a
 progression.
 
-## 60. Voice-Leading Is the Journey
+## 60. Voice-leading is the journey
 
 Chord symbols encourage us to imagine harmony as a row of labeled boxes. One
 box says D minor, the next B-flat major, the next C. The labels identify useful
@@ -322,7 +329,7 @@ voice has nowhere to hide, which is either an opportunity or an indictment.
 That exposure is useful: a single moving voice can make an apparently static
 chord undertake a real journey.
 
-## 61. A Home Inside a Home
+## 61. A home inside a home
 
 We met Arvo Pärt's *Für Alina* in the section on limitation because its lucid
 rule made exceptions consequential.
@@ -370,7 +377,7 @@ continually reenacting tonal syntax.
 This leaves a wide field between cadence and weightlessness, ready to be
 composed rather than merely labeled.
 
-## 62. Harmony Occupies Space
+## 62. Harmony occupies space
 
 Play C, E, and G near middle C. Then move C down two octaves and G up one. The
 pitch classes are identical; the sonority is not.
@@ -416,7 +423,7 @@ perceptible. Air is not a harmonic parameter. Distance is.
 Compose the distances, and the chord can change posture before it changes
 pitch.
 
-## 63. Intervals You Can Build
+## 63. Intervals you can build
 
 In 1971, Lou Harrison and his partner William Colvig began constructing an
 ensemble of metal percussion instruments later known as Old Granddad. Its
@@ -471,7 +478,7 @@ system is a proposal about behavior, not a diagram hovering above sound.
 Once behavior enters the design, tuning becomes a source of phrase and form
 rather than a preliminary calculation.
 
-## 64. Ambiguity Needs Evidence
+## 64. Ambiguity needs evidence
 
 Ambiguous harmony supports more than one plausible hearing. Vague harmony
 supports none strongly enough to matter.
@@ -509,7 +516,7 @@ strong enough to follow.
 Sustain both hearings clearly, and uncertainty becomes a field the listener can
 explore rather than a problem awaiting correction.
 
-## 65. When a Field Becomes Wallpaper
+## 65. When a field becomes wallpaper
 
 Field harmony has familiar conveniences. A composer selects a consonant mode,
 spreads its pitches widely, adds a low drone, and permits notes to enter at a
@@ -557,7 +564,7 @@ paint sample.
 Give the field that uneven terrain, and return, departure, and surprise become
 possible without importing a conventional progression.
 
-## 66. Designing the World
+## 66. Designing the world
 
 Begin with a collection small enough to hear relationally. Five to seven
 pitches are often sufficient, though two can be a world and twelve need not be
@@ -598,9 +605,9 @@ expressive through the consequences it makes available.
 When those consequences remain audible, the harmonic method can support more
 than one character without losing its identity.
 
-## 67. Three Experiments
+## 67. Three experiments
 
-### 1. Give One Pitch Weight
+### 1. Give one pitch weight
 
 Choose five pitches that do not immediately force one familiar chord. Make
 three one-minute studies using exactly that collection.
@@ -616,7 +623,7 @@ Afterward, identify the smallest piece of evidence that made each center
 credible. If the center changes only because you intended it to, revise the
 behavior.
 
-### 2. One Collection, Three Voicings
+### 2. One collection, three voicings
 
 Choose a four- or five-note sonority. Do not add or remove any pitch class.
 
@@ -631,7 +638,7 @@ which path makes the harmonic transformation easier to remember.
 Do not use a crescendo to explain the form. Let space and voice-leading carry
 it.
 
-### 3. Two Plausible Homes
+### 3. Two plausible homes
 
 Build a field that can support two centers. Give each center a distinctive
 bass relation, phrase ending, or registral shape, and give them at least one
@@ -652,7 +659,7 @@ unfinished, strengthen both homes rather than choosing one.
 A charged ambiguity gives the next gesture somewhere meaningful to lean,
 whichever center it favors.
 
-## 68. What the Encounter Changes
+## 68. What the encounter changes
 
 Debussy did not return from the 1889 Exposition carrying a complete harmonic
 system. He returned to years of composing, listening, reading, argument, and

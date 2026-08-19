@@ -1,6 +1,13 @@
 # Section 9: Color
 
-## 109. Letting Sound Carry the Argument
+::: {.section-summary}
+A note name tells us remarkably little about the event that reaches the ear.
+This Section treats timbre, articulation, resonance, blend, and resistance as
+structures with syntax and memory, rather than decoration applied after the
+pitches are chosen.
+:::
+
+## 109. Letting sound carry the argument
 
 In 1997, DJ Shadow described how he built the drums on *Endtroducing.....*. He
 did not usually take a performed break and repeat it as one intact loop. He
@@ -63,7 +70,7 @@ notes become real enough to have edges, weight, distance, and consequence.
 Compose those dimensions directly, and a single note can arrive with the formal
 force of a new harmony.
 
-## 110. A Note Is Not Its Name
+## 110. A note is not its name
 
 Write a middle C on a page. The symbol tells us a great deal and almost nothing.
 
@@ -125,7 +132,7 @@ enough to carry form.
 That range gives every familiar instrument more compositional futures than its
 name suggests.
 
-## 111. Color Has Grammar
+## 111. Color has grammar
 
 Calling a sound warm, dark, thin, metallic, breathy, or rough can begin a
 conversation. It cannot complete one. These words gather several perceptions
@@ -184,7 +191,7 @@ same argument?*
 Once color has verbs, it can carry continuity, contrast, and return with the
 precision usually reserved for pitch.
 
-## 112. A Percussion Ensemble Inside One Piano
+## 112. A percussion ensemble inside one piano
 
 In 1940, the dancer and choreographer Syvilla Fort asked John Cage to compose
 music for her *Bacchanale* at Seattle's Cornish School. Cage had been writing
@@ -247,7 +254,7 @@ Novelty gives a sound one entrance. Form asks what happens after it arrives.
 A discovered difference becomes useful when you can bring it back, alter its
 role, and make its return matter.
 
-## 113. Articulation Gives Time an Edge
+## 113. Articulation gives time an edge
 
 Two notes can have the same written duration and occupy time differently.
 
@@ -305,7 +312,7 @@ note values do.
 Shape that trajectory, and the sound itself can supply the phrase the notation
 only begins.
 
-## 114. Blend, Resistance, and the Sound Between
+## 114. Blend, resistance, and the sound between
 
 When two instruments play together, “blend” is often treated as a compliment. A
 well-blended section is disciplined; a player who stands out has failed to
@@ -368,7 +375,7 @@ combination permits that its members could not do alone.
 Find that permission, and the combined sound becomes a third participant rather
 than a compromise.
 
-## 115. The Voice Finds More Voices
+## 115. The voice finds more voices
 
 Around 1965, Meredith Monk was sitting at a piano and vocalizing in the
 classical manner she had learned. She had already trained in music and dance,
@@ -443,7 +450,7 @@ form asks it to do. “Interesting texture” is not a solvent for history.
 Working accurately with what sound carries can deepen transformation rather
 than restrict it.
 
-## 116. Designing a Color Form
+## 116. Designing a color form
 
 Color becomes formal when the listener can hear identity, relation, and
 consequence across time. Several questions help make that possible.
@@ -521,7 +528,7 @@ attention to what the sound leaves behind.
 Compose the remainder, and one release can become the threshold of the next
 event.
 
-## 117. When Novelty Goes Slack
+## 117. When novelty goes slack
 
 The first danger is **the adjective instead of the sound**. A sketch asks for
 something warm, luminous, icy, earthy, or haunting, but no action has been
@@ -572,9 +579,9 @@ attractive materials but differences with something at stake.
 Restore a real difference, and color regains the power to alter what can happen
 next.
 
-## 118. Three Experiments
+## 118. Three experiments
 
-### 1. One Note, Several Bodies
+### 1. One note, several bodies
 
 Choose one comfortable sustained pitch. Ask a performer to produce it in four
 ways, altering one physical action at a time: point of contact, breath content,
@@ -593,7 +600,7 @@ Arrange the four versions into a phrase. Then reverse them. If the order makes
 no difference, the colors may be distinct but not yet syntactic. Find a
 transition or contrast that creates expectation.
 
-### 2. A Family of Attacks
+### 2. A family of attacks
 
 Make two versions of one short rhythm.
 
@@ -611,7 +618,7 @@ attacks until their differences do formal work.
 The aim is not to make a sequence “more human.” It is to hear how much
 information lives inside events notation might call the same.
 
-### 3. A Three-Part Color Form
+### 3. A three-part color form
 
 Choose a narrow pitch collection and one rhythmic identity. Keep both
 recognizable throughout three short sections.
@@ -639,7 +646,7 @@ most convenient signal.
 Once the convenient signal is removed, the surviving structure reveals what the
 colors themselves can do.
 
-## 119. What the Air Carries
+## 119. What the air carries
 
 Return to DJ Shadow listening between the drums. What he called air was not
 silence. It contained the source record's surface, the room around the kit, the

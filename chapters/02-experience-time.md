@@ -1,6 +1,13 @@
-# Section 2: Experience Time
+# Section 2: Experience time
 
-## 13. Making Duration Perceptible
+::: {.section-summary}
+A clock can measure a piece without describing how the piece feels. Here
+duration becomes a compositional material: articulated by pulse, rarity,
+memory, bodily effort, and the changing scale at which an event acquires
+weight.
+:::
+
+## 13. Making duration perceptible
 
 About three months before a concert in 1999, four packages arrived for the
 members of the FLUX Quartet. Each contained a thick, bound, oversized score.
@@ -52,7 +59,7 @@ Duration is not an empty container. Music gives us clocks.
 Once we hear those clocks separately, duration becomes something we can shape
 rather than merely endure.
 
-## 14. Six Hours Is Not a Tempo
+## 14. Six hours is not a tempo
 
 Set a metronomic pulse aside for the moment and imagine three passages, each
 exactly one minute long.
@@ -111,7 +118,7 @@ that length consequential.
 A long work earns its scale when small relations begin to do work that shorter
 time could not give them.
 
-## 15. The Clocks Music Gives Us
+## 15. The clocks music gives us
 
 A clock does two things: it supplies a recurring unit, and it lets us compare a
 present interval with that unit. Music can provide many such measures.
@@ -218,7 +225,7 @@ performance once someone must obey it.
 The surrounding clock can become counterpoint, resistance, or part of the
 score.
 
-## 17. Passing Time and Remembered Time
+## 17. Passing time and remembered time
 
 After a journey, we sometimes say that it went quickly and then recount a dozen
 distinct episodes. Another afternoon seemed endless while it occurred but
@@ -279,7 +286,7 @@ abolish the clock to compose a powerful experience of suspended direction.
 The gain is more precise than timelessness: a composer can loosen direction
 without pretending time has disappeared.
 
-## 18. The Weight of a Rare Event
+## 18. The weight of a rare event
 
 Write nine attacks across four minutes. No tremolo, no sustained rearticulation:
 nine beginnings. The restriction immediately makes spacing part of the music.
@@ -325,7 +332,7 @@ unarticulated. Duration does not acquire meaning merely by being left open.
 Give the silence something to transform, and waiting becomes an event the
 listener can enter.
 
-## 19. After Ninety Minutes, Scale
+## 19. After ninety minutes, scale
 
 Feldman once suggested that after roughly an hour and a half, “form” gives way
 to “scale.”[^6] The wording is provocative, not a scientific threshold. A
@@ -387,7 +394,7 @@ Automatic inflation changes the ruler. Scale changes what the ruler can measure.
 When scale changes what can be heard, length stops being an expense and becomes
 a source of form.
 
-## 20. Memory That Cannot Quite Repeat Itself
+## 20. Memory that cannot quite repeat itself
 
 Feldman's *Triadic Memories* approaches the problem from a smaller but still
 extended frame. In one passage, chords recur in unequal numbers.
@@ -426,7 +433,7 @@ cannot name the street.
 That uncertain neighborhood can sustain return without reducing it to
 confirmation.
 
-## 21. Change Without a Moment
+## 21. Change without a moment
 
 Éliane Radigue's *Trilogie de la Mort*, created between 1985 and 1993, lasts
 nearly three hours across its three parts: *Kyema*, *Kailasha*, and
@@ -476,7 +483,7 @@ time has acted.
 A process can remain almost hidden and still leave the listener with
 unmistakable evidence of motion.
 
-## 22. The Abyss and the Bird
+## 22. The abyss and the bird
 
 Olivier Messiaen's *Abîme des oiseaux*, the third movement of *Quatuor pour la
 fin du Temps*, reaches an expansive experience of time in a much shorter span.
@@ -523,7 +530,7 @@ then length may be structural.
 Length then becomes available as a real choice, reserved for relations that
 need time to become themselves.
 
-## 23. Anticipation Without Climax
+## 23. Anticipation without climax
 
 Waiting is often treated as a promise. A dominant chord waits for resolution. A
 crescendo waits for arrival. A repeated pattern waits for the interruption that
@@ -564,7 +571,7 @@ duration feels inhabited or merely deferred.
 
 When local gestures can stand on their own, anticipation gains room to breathe.
 
-## 24. Boredom Is Not a Verdict
+## 24. Boredom is not a verdict
 
 Sooner or later, any honest discussion of extended music reaches boredom. The
 subject attracts two unhelpful responses. One declares boredom proof that the
@@ -609,7 +616,7 @@ responsible for what consistency does.
 The useful response is curiosity: what has stopped changing, and what small
 decision could make time active again?
 
-## 25. Bodies Keep Time
+## 25. Bodies keep time
 
 In 1996, the Kronos Quartet planned another performance of *String Quartet II*.
 They cancelled after rehearsals caused serious back and shoulder problems.[^11]
@@ -655,7 +662,7 @@ The score may say five hours. The music asks who will live them.
 Treating those lived hours as material can make duration more humane and more
 exact at once.
 
-## 26. Designing the Span
+## 26. Designing the span
 
 Before deciding how long a work should be, identify the relation that requires
 time.
@@ -715,9 +722,9 @@ The standard is not efficiency. It is necessity at the chosen scale.
 Necessity does not make the work austere; it gives every minute a reason to
 belong.
 
-## 27. Three Experiments
+## 27. Three experiments
 
-### 1. Passing and Remembering
+### 1. Passing and remembering
 
 Choose two passages of equal clock length and contrasting event density. Listen
 without checking the time.
@@ -733,7 +740,7 @@ partly shaped by what attention is asked to measure.
 Do not derive a universal rule such as “more events make time go faster.” Use
 the results to identify the clocks you actually heard.
 
-### 2. Nine Attacks
+### 2. Nine attacks
 
 Write a four-minute study containing exactly nine attacks. Shape it with
 spacing, decay, register, dynamics, and the relation among attacks. At least one
@@ -748,7 +755,7 @@ afterward? What made one silence a continuation and another a boundary?
 If every attack carries equal weight, revise their relations before changing
 their sound.
 
-### 3. Change Without a Moment
+### 3. Change without a moment
 
 Make a five-minute transformation between two clearly different states. Let the
 change be continuous enough that a listener can hear that it occurred but
@@ -770,7 +777,7 @@ work's scale than the longest duration you can defend.
 That threshold is a practical discovery: it tells you how long uncertainty
 needs in order to live.
 
-## 28. Four Scores, Several Hours Later
+## 28. Four scores, several hours later
 
 Return to the FLUX Quartet several hours into *String Quartet II*. The
 oversized scores are no longer startling objects.

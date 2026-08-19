@@ -4,15 +4,25 @@ body {
   margin: 5%;
 }
 
+.titlepage,
+.titlepage h1,
+.titlepage p {
+  text-align: left;
+}
+
 section.level1 {
   break-before: page;
   page-break-before: always;
 }
 
 section.level1 > h1 {
+  margin-bottom: 0.3em;
+  text-align: left;
+}
+
+section.level1 > .section-summary {
   break-after: page;
   page-break-after: always;
-  text-align: center;
 }
 
 section.level2 {

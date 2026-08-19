@@ -1,6 +1,13 @@
 # Section 7: Drift
 
-## 83. When the Copies Separate
+::: {.section-summary}
+Two parts can begin together and remain related while their clocks separate.
+This Section treats phase, pulse, breath, and independent tempo as ways of
+composing relation without lockstep, then asks when useful instability becomes
+blur.
+:::
+
+## 83. When the copies separate
 
 In 1964, Steve Reich recorded a Pentecostal preacher known as Brother Walter
 in San Francisco's Union Square. The sermon concerned Noah, the flood, and the
@@ -47,7 +54,7 @@ among times.
 Once those relations are composed, independence can produce clarity, surprise,
 and common form at once.
 
-## 84. Drift Begins with Agreement
+## 84. Drift begins with agreement
 
 Imagine two percussionists repeating the same five-attack figure in unison. One
 gradually becomes a little faster. At first the disagreement may sound like
@@ -93,7 +100,7 @@ can be felt.
 A clear agreement gives separation meaning and gives the eventual return
 somewhere to land.
 
-## 85. Pulse Is Not Meter
+## 85. Pulse is not meter
 
 A **pulse** is a recurring temporal interval we can use as a reference. A
 **meter** groups pulses into a hierarchy: stronger and weaker positions, bars,
@@ -139,7 +146,7 @@ Does the relation among them repeat, or change?
 Answer them, and an apparently free texture gains a temporal profile the ear
 can follow.
 
-## 86. Phase: Hearing the Offset Move
+## 86. Phase: hearing the offset move
 
 **Phase** names a particular changing relation between periodic events. Two
 copies of a pattern share a cycle and begin at the same point. One changes
@@ -186,7 +193,7 @@ available to the ear.
 Choose that degree carefully, and phase becomes a moving perspective rather
 than a demonstration of a trick.
 
-## 87. A Process Enters the Body
+## 87. A process enters the body
 
 After the recorded-speech pieces, Reich wanted to transfer gradual phase to
 live performance. He first recorded a short piano pattern and tried to play
@@ -232,7 +239,7 @@ enough cognitive room for time itself to become performable.
 With that room, performers can turn a tiny pattern into a precise instrument
 for hearing relationship.
 
-## 88. Several Ways to Leave Togetherness
+## 88. Several ways to leave togetherness
 
 Phase is only one member of a larger family. Independent time can be designed
 through several different relations.
@@ -283,7 +290,7 @@ solve the wrong problem.
 The right independence does not make the music vague; it makes one question
 more audible.
 
-## 89. The Tempos Cross
+## 89. The tempos cross
 
 Conlon Nancarrow spent much of his mature career composing for player piano,
 marking rolls so that rhythmic relations beyond ordinary human performance
@@ -328,7 +335,7 @@ music gives us a way to recognize convergence.
 Prepare that recognition, and a fleeting crossing can carry the force of an
 arrival.
 
-## 90. Breath Against Pulse
+## 90. Breath against pulse
 
 In *Music for 18 Musicians*, Reich places two measures of time beside one
 another. Pianos and mallet instruments maintain a regular pulse.
@@ -373,7 +380,7 @@ gives them a hidden stopwatch and less air.
 Used where it matters, bodily measure can give a phrase both flexibility and an
 unmistakable human scale.
 
-## 91. Coincidence Is Not Yet Form
+## 91. Coincidence is not yet form
 
 When clocks separate, unplanned vertical events appear. Two notes arrive
 together.
@@ -423,7 +430,7 @@ and continuing.
 Give one meeting a consequence, and coincidence can open a new region of the
 piece.
 
-## 92. Give Independence a Boundary
+## 92. Give independence a boundary
 
 Independent parts still need a score of responsibilities, whether or not that
 score uses conventional notation.
@@ -469,7 +476,7 @@ performers know what relation their freedom must keep alive.
 A clear boundary does not diminish freedom; it gives performers enough common
 ground to use it boldly.
 
-## 93. When Drift Becomes Blur
+## 93. When drift becomes blur
 
 The first failure is insufficient difference. Two loops begin at nearly the
 same speed, but the piece ends before their separation becomes audible. The
@@ -511,7 +518,7 @@ Drift should change how the parts mean one another.
 Restore that relation, and even a blurred passage can regain direction without
 losing its looseness.
 
-## 94. Designing the Separation
+## 94. Designing the separation
 
 Begin with a relation clear enough to lose. Unison is the most obvious, but not
 the only one.
@@ -557,9 +564,9 @@ for choosing which discoveries enter the work.
 
 The plan gives drift a beginning; listening gives it discoveries worth keeping.
 
-## 95. Three Experiments
+## 95. Three experiments
 
-### 1. Hear the Third Rhythm
+### 1. Hear the third rhythm
 
 Choose a short pattern of five to seven attacks with at least one distinctive
 long interval. Two players repeat it in unison.
@@ -576,7 +583,7 @@ resultant becomes clearer, then less clear.
 The exercise is not to produce a perfect Reich imitation. It is to hear that a
 relationship can generate a third object without adding material.
 
-### 2. Three Clocks, One Span
+### 2. Three clocks, one span
 
 Give three parts the same total span and material derived from one interval or
 contour.
@@ -593,7 +600,7 @@ nearby.
 Compare the forms. Did the common ending feel discovered or merely scheduled?
 Which invariant made the middle belong together?
 
-### 3. Breath Against Pulse
+### 3. Breath against pulse
 
 Establish an unaccented pulse with one or two players. Winds, voices, bowed
 instruments, or any performers working with a comfortable physical gesture
@@ -617,7 +624,7 @@ permanent furniture.
 Preserve the function rather than the furniture, and the pulse can keep the
 ensemble related while its surface stays alive.
 
-## 96. The Warning in the Counterpoint
+## 96. The warning in the counterpoint
 
 Return to the two copies of Brother Walter. At the beginning they speak as one.
 As they separate, the warning becomes echo, rhythm, density, and argument.

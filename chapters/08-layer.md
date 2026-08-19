@@ -1,6 +1,12 @@
 # Section 8: Layer
 
-## 97. Turning Relationship into Form
+::: {.section-summary}
+A layer is not merely another part; it changes what the surrounding parts can
+be. This Section follows lines as they gather into streams, densities,
+registers, and masses, making relationship itself carry the form.
+:::
+
+## 97. Turning relationship into form
 
 On November 14, 2024, Patrick Shiroishi stood alone at Cafe OTO in London with
 a saxophone. He began plainly. A tone entered, showed its edge, and ended.
@@ -63,7 +69,7 @@ other sounds. Layering becomes form when those jobs change.
 Once jobs can change, a handful of strands can generate a form much larger than
 their inventory.
 
-## 98. Parts, Streams, and Layers
+## 98. Parts, streams, and layers
 
 Imagine three performers.
 
@@ -138,7 +144,7 @@ the form.
 Composing legibility this way lets familiar material keep changing its social
 life inside the texture.
 
-## 99. A Line Can Lose Its Name
+## 99. A line can lose its name
 
 A melody usually remains a melody because we can connect its successive events.
 We hear one note as continuing the action of another.
@@ -198,7 +204,7 @@ together.
 That gives the composer motion without replacement: the same things can keep
 becoming a different whole.
 
-## 100. Density Has More Than One Number
+## 100. Density has more than one number
 
 Density is often confused with the number of parts. The mistake is
 understandable. Eight players can make more sound than two. But “more” has
@@ -271,7 +277,7 @@ Thickness is a condition. Form requires a change in what thickness does.
 
 Change the consequence, and density becomes a verb rather than a head count.
 
-## 101. Register Draws the Field
+## 101. Register draws the field
 
 Register is one of the fastest ways to make layers separable, but separation is
 only its first use.
@@ -329,7 +335,7 @@ who can touch, who can hide, and who is left alone.
 Draw those relations deliberately, and register can make a texture approach,
 withdraw, open, or close without adding a line.
 
-## 102. Eighty-Nine Parts, No Soloist
+## 102. Eighty-nine parts, no soloist
 
 György Ligeti's *Atmosphères* begins with a proposition that is difficult to
 reduce at the piano. A large orchestra sustains a densely packed sonority.
@@ -398,7 +404,7 @@ hear another line recovered from the mass.
 A composed threshold lets the ear enjoy both scales: the life of one line and
 the force of the many.
 
-## 103. Masking Is Not Erasure
+## 103. Masking is not erasure
 
 When one layer becomes inaudible beneath another, we often say it has been
 masked. The word can imply that the hidden sound has simply been covered by a
@@ -444,7 +450,7 @@ clearing is an honest editor.
 What survives the clearing has earned a chance to carry the next part of the
 form.
 
-## 104. The Mass Changes While Staying
+## 104. The mass changes while staying
 
 Phill Niblock's music offers another account of layering, built less from the
 collision of active lines than from sustained tones placed in close relation.
@@ -504,7 +510,7 @@ evidence.
 When those relations are tuned carefully, apparent stillness can keep producing
 fresh internal events.
 
-## 105. Accumulation Has a Shape
+## 105. Accumulation has a shape
 
 Layering often enters a piece as a default narrative: begin alone, add parts,
 reach fullness, stop. The shape works. It has worked often enough to become
@@ -575,7 +581,7 @@ that time has passed.
 Shape what each arrival changes, and accumulation becomes a journey rather than
 a receipt.
 
-## 106. When Fullness Goes Slack
+## 106. When fullness goes slack
 
 The first failure of layering is **addition without consequence**. A new strand arrives
 at regular intervals, producing the outline of growth without the internal
@@ -619,9 +625,9 @@ memory may be the first one the composer needs to forget.
 Letting one unnecessary layer go may return consequence to every layer that
 remains.
 
-## 107. Three Experiments
+## 107. Three experiments
 
-### 1. When Two Become One
+### 1. When two become one
 
 Choose three sustained sounds. They may be made by players, voices, resonant
 objects, or recorded material. Begin with them clearly separated in register
@@ -645,7 +651,7 @@ separates again.
 The exercise is not a test of correct perception. It teaches you which
 relations create blend with these particular sounds, players, and room.
 
-### 2. Mask Without Muting
+### 2. Mask without muting
 
 Write three continuing strands, each with a clear identity. Over a short form,
 make each strand disappear perceptually and later return without allowing it
@@ -667,7 +673,7 @@ problem only with balance.
 Aim for the unstable region in which the sound is present but its identity can
 be lost and recovered.
 
-### 3. Archive and Answer
+### 3. Archive and answer
 
 Create a phrase lasting five to fifteen seconds. Preserve it with live capture,
 or ask another performer to repeat it exactly. Continue playing against it.
@@ -695,7 +701,7 @@ may become the most important difference.
 That difference is not a defect to eliminate; it may be the opening through
 which the live form enters.
 
-## 108. What the Earlier Self Becomes
+## 108. What the earlier self becomes
 
 Shiroishi's layered work carries more than an ingenious solution to solo
 instrumentation. On *Forgetting Is Violent*, he begins one suite not with
