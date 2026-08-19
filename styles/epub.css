@@ -10,6 +10,41 @@ body {
   text-align: left;
 }
 
+.titlepage .author {
+  font-family: var(--book-sans);
+  font-weight: 600;
+  margin-top: 1.5em;
+}
+
+.publication-data {
+  break-after: page;
+  break-before: page;
+  font-size: 0.85em;
+  line-height: 1.4;
+  page-break-after: always;
+  page-break-before: always;
+}
+
+.publication-data p {
+  margin: 0 0 0.8em;
+  text-indent: 0;
+}
+
+.publication-data .ai-disclosure {
+  margin-top: 1.25em;
+}
+
+section.publication-heading > h1 {
+  display: none;
+}
+
+section.publication-heading .publication-data {
+  break-after: auto;
+  break-before: auto;
+  page-break-after: auto;
+  page-break-before: auto;
+}
+
 section.level1 {
   break-before: page;
   page-break-before: always;

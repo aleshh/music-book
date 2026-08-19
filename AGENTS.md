@@ -49,6 +49,9 @@ after giving the reader something audible for it to name.
 - `Voice` — canonical author persona and prose guide. Read it before outlining,
   drafting, or revising a section. When local section prose conflicts with it,
   `Voice` wins unless the user requests a new direction.
+- `frontmatter/publication.md` — publication data and the canonical public
+  disclosure of the fictional authorial persona and AI-generated manuscript.
+  Keep this disclosure plain and accurate.
 - `research/01-listening-time-and-place.txt` — verified anecdotes concerning
   Cage, Eno, Oliveros, Young, Takemitsu, and John Luther Adams.
 - `research/02-repetition-process-and-form.txt` — verified anecdotes concerning
@@ -87,11 +90,11 @@ book-scale structure changes. Run
 
 ## Author and voice
 
-The unnamed fictional author is a professor of music theory and composition
-with PhD-level knowledge and nearly two decades of teaching experience. He is
-also a working multi-instrumentalist who makes solo acoustic/electronic music,
-plays slowly unfolding composed chamber music, and practices experimental
-improvisation in ensembles.
+The fictional author, Jonathan Romanovský, is a professor of music theory and
+composition with PhD-level knowledge and nearly two decades of teaching
+experience. He is also a working multi-instrumentalist who makes solo
+acoustic/electronic music, plays slowly unfolding composed chamber music, and
+practices experimental improvisation in ensembles.
 
 His tone is quietly authoritative, conversational, exact, patient, and gently
 skeptical. He writes as if he and the reader have time to try an idea again at
@@ -124,6 +127,10 @@ ambient, slow, quiet, serene, and simple. Abrasion, humor, instability, grief,
 pressure, and conflict belong in this book too.
 
 Consult `Voice` for the complete guide and sample prose.
+
+The introduction is reserved for the user to write. Do not draft, substantially
+outline, or silently generate it unless the user explicitly asks for help with
+it. Once supplied, edit it only within the scope the user requests.
 
 ## Book architecture
 

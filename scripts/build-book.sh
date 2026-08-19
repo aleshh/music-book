@@ -10,6 +10,8 @@ pdf_output="output/pdf/${output_stem}.pdf"
 pdf_raw="tmp/pdfs/${output_stem}-chrome.pdf"
 epub_output="output/epub/${output_stem}.epub"
 pdf_html="tmp/pdfs/${output_stem}.html"
+publication_html="tmp/pdfs/publication.html"
+publication_source="frontmatter/publication.md"
 chrome_log="tmp/pdfs/chrome.log"
 
 die() {
@@ -105,8 +107,16 @@ build_pdf() {
   mkdir -p output/pdf tmp/pdfs
 
   pandoc \
+    --from=markdown+smart \
+    --to=html5 \
+    --output="$publication_html" \
+    "$publication_source"
+
+  pandoc \
     "${common_args[@]}" \
     --to=html5 \
+    --template=templates/pdf.html \
+    --include-before-body="$publication_html" \
     --css=styles/base.css \
     --css=styles/pdf.css \
     --embed-resources \
@@ -157,6 +167,7 @@ build_epub() {
     --css=styles/base.css \
     --css=styles/epub.css \
     --output="$epub_output" \
+    "$publication_source" \
     "${chapter_files[@]}"
 
   [[ -s "$epub_output" ]] || die "Pandoc did not create $epub_output"

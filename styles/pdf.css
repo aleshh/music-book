@@ -74,6 +74,27 @@
   margin-right: 0.375in;
 }
 
+@page publication {
+  margin-left: 0.5in;
+  margin-right: 0.5in;
+
+  @top-left {
+    content: none;
+  }
+
+  @top-right {
+    content: none;
+  }
+
+  @bottom-left {
+    content: none;
+  }
+
+  @bottom-right {
+    content: none;
+  }
+}
+
 @page :blank {
   @top-left {
     content: none;
@@ -139,6 +160,41 @@ header#title-block-header {
   font-style: italic;
   font-weight: 400;
   margin: 1em 0 0;
+}
+
+#title-block-header .author {
+  font-family: var(--book-sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin: 1.7em 0 0;
+  text-indent: 0;
+}
+
+.publication-data {
+  break-after: page;
+  break-before: page;
+  display: flex;
+  flex-direction: column;
+  font-size: 8pt;
+  height: 5.75in;
+  justify-content: flex-end;
+  line-height: 1.38;
+  page: publication;
+  page-break-after: always;
+  page-break-before: always;
+}
+
+h1.publication-heading {
+  display: none;
+}
+
+.publication-data p {
+  margin: 0 0 0.7em;
+  text-indent: 0;
+}
+
+.publication-data .ai-disclosure {
+  margin-top: 1em;
 }
 
 #TOC {

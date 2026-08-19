@@ -28,6 +28,7 @@ except ImportError as exc:
 
 
 SECTION_TITLE = re.compile(r"^Section\s+\d+", re.IGNORECASE)
+PUBLICATION_PAGE = re.compile(r"^Copyright\s+©\s+\d{4}\s+Alesh Houdek")
 
 
 def page_text(page: object) -> str:
@@ -47,7 +48,12 @@ def page_size(page: object) -> tuple[float, float]:
 
 
 def should_number(page_number: int, text: str) -> bool:
-    return page_number > 1 and bool(text) and not SECTION_TITLE.match(text)
+    return (
+        page_number > 1
+        and bool(text)
+        and not SECTION_TITLE.match(text)
+        and not PUBLICATION_PAGE.match(text)
+    )
 
 
 def add_page_numbers(writer: PdfWriter) -> None:

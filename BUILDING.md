@@ -72,6 +72,8 @@ python3 scripts/restructure-fast-flow.py --renumber
 ## Formatting controls
 
 - Edit `book.yaml` for the title, subtitle, language, and other book metadata.
+- Edit `frontmatter/publication.md` for the publication statement and AI
+  authorship disclosure.
 - Edit `styles/base.css` for the body and heading fonts, type size, leading,
   colors, paragraph indents, and shared typography.
 - Edit `styles/pdf.css` for the PDF page size, margins, title page, contents,
@@ -91,6 +93,11 @@ its small bold label, left-aligned title, and short orientation; the opening
 numbered piece begins on the immediately following page, without an inserted blank verso. The build
 finishes with `scripts/ensure-print-spreads.py`, which applies the final physical
 page numbers and verifies every Section transition.
+
+The title page names Jonathan Romanovský as the fictional authorial persona.
+The following publication page names Alesh Houdek as self-publisher and states
+the division between Houdek’s human-authored contributions and the AI-generated
+manuscript.
 
 Body paragraphs are set without vertical space between them. The first
 paragraph of each numbered piece is flush left; subsequent body paragraphs are
