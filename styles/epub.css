@@ -16,6 +16,13 @@ body {
   margin-top: 1.5em;
 }
 
+.titlepage .preface-by {
+  color: var(--muted-color);
+  font-family: var(--book-sans);
+  font-size: 0.9em;
+  margin-top: 0.45em;
+}
+
 .publication-data {
   break-after: page;
   break-before: page;

@@ -74,6 +74,8 @@ python3 scripts/restructure-fast-flow.py --renumber
 - Edit `book.yaml` for the title, subtitle, language, and other book metadata.
 - Edit `frontmatter/publication.md` for the publication statement and AI
   authorship disclosure.
+- Edit `frontmatter/preface.md` for Alesh Houdek's preface. It appears after
+  the contents and before Section 1.
 - Edit `styles/base.css` for the body and heading fonts, type size, leading,
   colors, paragraph indents, and shared typography.
 - Edit `styles/pdf.css` for the PDF page size, margins, title page, contents,
@@ -94,7 +96,8 @@ numbered piece begins on the immediately following page, without an inserted bla
 finishes with `scripts/ensure-print-spreads.py`, which applies the final physical
 page numbers and verifies every Section transition.
 
-The title page names Jonathan Romanovský as the fictional authorial persona.
+The title page names Jonathan Romanovský as the fictional authorial persona and
+credits the preface to Alesh Houdek.
 The following publication page names Alesh Houdek as self-publisher and states
 the division between Houdek’s human-authored contributions and the AI-generated
 manuscript.

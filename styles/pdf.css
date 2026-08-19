@@ -170,6 +170,15 @@ header#title-block-header {
   text-indent: 0;
 }
 
+#title-block-header .preface-by {
+  color: var(--muted-color);
+  font-family: var(--book-sans);
+  font-size: 0.82rem;
+  font-weight: 400;
+  margin: 0.45em 0 0;
+  text-indent: 0;
+}
+
 .publication-data {
   break-after: page;
   break-before: page;

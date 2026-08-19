@@ -12,6 +12,7 @@ epub_output="output/epub/${output_stem}.epub"
 pdf_html="tmp/pdfs/${output_stem}.html"
 publication_html="tmp/pdfs/publication.html"
 publication_source="frontmatter/publication.md"
+preface_source="frontmatter/preface.md"
 chrome_log="tmp/pdfs/chrome.log"
 
 die() {
@@ -121,6 +122,7 @@ build_pdf() {
     --css=styles/pdf.css \
     --embed-resources \
     --output="$pdf_html" \
+    "$preface_source" \
     "${chapter_files[@]}"
 
   local chrome_profile
@@ -168,6 +170,7 @@ build_epub() {
     --css=styles/epub.css \
     --output="$epub_output" \
     "$publication_source" \
+    "$preface_source" \
     "${chapter_files[@]}"
 
   [[ -s "$epub_output" ]] || die "Pandoc did not create $epub_output"

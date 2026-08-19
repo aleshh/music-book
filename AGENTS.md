@@ -52,6 +52,9 @@ after giving the reader something audible for it to name.
 - `frontmatter/publication.md` — publication data and the canonical public
   disclosure of the fictional authorial persona and AI-generated manuscript.
   Keep this disclosure plain and accurate.
+- `frontmatter/preface.md` — Alesh Houdek's human-authored account of how the
+  book came into being. Preserve his voice and wording unless he explicitly
+  requests editing.
 - `research/01-listening-time-and-place.txt` — verified anecdotes concerning
   Cage, Eno, Oliveros, Young, Takemitsu, and John Luther Adams.
 - `research/02-repetition-process-and-form.txt` — verified anecdotes concerning
