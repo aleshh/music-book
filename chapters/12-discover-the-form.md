@@ -1,12 +1,5 @@
 # Section 12: Discover the form
 
-::: {.section-summary}
-Form is not simply the outline left behind when a piece ends. This Section
-gathers the book's methods into questions of continuation, renewal, scale, and
-closure, asking how a work can discover the length and ending its relationships
-require.
-:::
-
 ## 150. Continuing and leaving
 
 In 1969, Gavin Bryars made a sketch for an exhibition at Portsmouth College of

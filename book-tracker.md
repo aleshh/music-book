@@ -1,6 +1,6 @@
 # Book Progress and Material Ledger
 
-Last updated: 2026-08-08
+Last updated: 2026-08-28
 
 This is the book-wide editorial dashboard. It tracks section progress, the
 primary home of major ideas, and the use of anecdotes, repertoire, and invented
@@ -143,7 +143,7 @@ deciding what musical claim the story will support.
 | 3 | Eno's quiet harp record mingles with rain | **Used—primary, Sec. 1** | “The Harp and the Rain”; do not retell the origin story in Place |
 | 4 | A forty-five-second reverberation gives Deep Listening its name | **Used—primary, Sec. 11** | Opens and closes Place; acoustic memory changes pacing and ensemble action; do not reduce Oliveros's broader practice to the cistern |
 | 5 | La Monte Young listens to wind and telephone poles | **Used—primary, Sec. 4** | Opens and closes Sustain; the recollection introduces a stable sound with a changing interior; do not retell the childhood account |
-| 6 | Takemitsu hears a forbidden love song during wartime | Available | Attend or the prelude; requires historical care |
+| 6 | Takemitsu hears a forbidden love song during wartime | **Used—primary, Introduction** | Opens and closes the Introduction; a fragile, forbidden sound changes the field it enters. Singer omitted because accounts conflict; do not retell elsewhere |
 | 7 | `Inuksuit` lets a landscape enter the piece | **Used—primary, Sec. 11** | “A Piece the Listener Walks Through”; site-determined form, dispersed performers, mobile listeners, and culturally specific naming |
 | 8 | Satie asks an audience not to listen | **Used—primary, Sec. 1** | Opens and closes the section; instructions, audience silence, and Satie's appeals all used |
 | 9 | `Vexations` becomes an eighteen-hour community | **Used—primary, Sec. 6** | Full 1963 realization told in “Eight Hundred and Forty”; do not retell |
@@ -396,13 +396,18 @@ job already performed, so a future return must do something else.
   Failed Me Yet`; Pärt and Takemitsu distinguish written ending, aftersound,
   formal consequence, and social release.
 - No accidental anecdote reuse, duplicated substantial paragraph, or repeated
-  exercise mechanism was found. Anecdote 6 remains available rather than being
-  forced into the Takemitsu discussion.
+  exercise mechanism was found. Anecdote 6 was subsequently assigned to the
+  Introduction, where it performs a new book-scale framing function rather
+  than repeating the `Rain Tree` analysis in Section 12.
 - The completed draft confirms the twelve-section structure. No section merge,
   split, or reorder is recommended before reader review.
 
 ## Latest format and flow audit: Sections and numbered pieces
 
+- Revised 2026-08-28: Section summaries were removed from the manuscript and
+  their book-mapping function moved into the Introduction. Each Section divider
+  now contains only its label and title; the first numbered piece begins on the
+  following page.
 - Completed 2026-08-07: the twelve former book-scale chapters are now Sections.
   Their 164 existing second-level divisions are numbered globally and carry no
   categorical label; `Notes` remains unnumbered.

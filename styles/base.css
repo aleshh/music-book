@@ -98,7 +98,6 @@ section.level1 > h1 .section-name {
 }
 
 .titlepage p,
-.section-summary p,
 section.level2 > p:first-of-type,
 .chapter-notes p {
   text-indent: 0;

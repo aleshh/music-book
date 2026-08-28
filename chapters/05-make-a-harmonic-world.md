@@ -1,12 +1,5 @@
 # Section 5: Make a harmonic world
 
-::: {.section-summary}
-Harmony can establish gravity without promising a conventional destination.
-This Section considers how collections, reference tones, voice-leading,
-spacing, register, and interval design turn available pitches into a world
-with its own unequal terrain.
-:::
-
 ## 55. Gravity without destination
 
 At the Paris Exposition of 1889, Claude Debussy heard musicians from Java. Six

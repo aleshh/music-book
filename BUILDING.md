@@ -74,8 +74,9 @@ python3 scripts/restructure-fast-flow.py --renumber
 - Edit `book.yaml` for the title, subtitle, language, and other book metadata.
 - Edit `frontmatter/publication.md` for the publication statement and AI
   authorship disclosure.
-- Edit `frontmatter/preface.md` for Alesh Houdek's preface. It appears after
-  the contents and before Section 1.
+- Edit `frontmatter/foreword.md` for Alesh Houdek's Foreword and
+  `frontmatter/introduction.md` for the AI-authored Introduction. They appear
+  in that order after the contents and before Section 1.
 - Edit `styles/base.css` for the body and heading fonts, type size, leading,
   colors, paragraph indents, and shared typography.
 - Edit `styles/pdf.css` for the PDF page size, margins, title page, contents,
@@ -91,21 +92,21 @@ allowed to wrap so they cannot make the browser shrink the rest of the page.
 
 The compact PDF layout lets numbered pieces follow one another instead of
 forcing each one onto a new page. Every Section receives one divider page with
-its small bold label, left-aligned title, and short orientation; the opening
+only its small bold label and left-aligned title; the opening
 numbered piece begins on the immediately following page, without an inserted blank verso. The build
 finishes with `scripts/ensure-print-spreads.py`, which applies the final physical
 page numbers and verifies every Section transition.
 
 The title page names Jonathan Romanovský as the fictional authorial persona and
-credits the preface to Alesh Houdek.
+credits the Foreword to Alesh Houdek.
 The following publication page names Alesh Houdek as self-publisher and states
 the division between Houdek’s human-authored contributions and the AI-generated
 manuscript.
 
 Body paragraphs are set without vertical space between them. The first
 paragraph of each numbered piece is flush left; subsequent body paragraphs are
-indented. Section summaries, block quotations, lists, and notes remain flush
-left. Reader-facing Section, piece, and exercise headings use sentence case.
+indented. Block quotations, lists, and notes remain flush left. Reader-facing
+Section, piece, and exercise headings use sentence case.
 
 This is a custom KDP paperback trim within the regular-trim range. Before
 upload, compare the final page count with KDP's current inside-margin table;

@@ -16,7 +16,7 @@ body {
   margin-top: 1.5em;
 }
 
-.titlepage .preface-by {
+.titlepage .foreword-by {
   color: var(--muted-color);
   font-family: var(--book-sans);
   font-size: 0.9em;
@@ -58,13 +58,10 @@ section.level1 {
 }
 
 section.level1 > h1 {
-  margin-bottom: 0.3em;
-  text-align: left;
-}
-
-section.level1 > .section-summary {
   break-after: page;
+  margin-bottom: 0.3em;
   page-break-after: always;
+  text-align: left;
 }
 
 section.level2 {

@@ -1,12 +1,5 @@
 # Section 7: Drift
 
-::: {.section-summary}
-Two parts can begin together and remain related while their clocks separate.
-This Section treats phase, pulse, breath, and independent tempo as ways of
-composing relation without lockstep, then asks when useful instability becomes
-blur.
-:::
-
 ## 83. When the copies separate
 
 In 1964, Steve Reich recorded a Pentecostal preacher known as Brother Walter

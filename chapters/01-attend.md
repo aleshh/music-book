@@ -1,12 +1,5 @@
 # Section 1: Attend
 
-::: {.section-summary}
-Music does not merely occupy time; it proposes ways of noticing. This Section
-follows that proposal from foreground and background to memory, distraction,
-and refusal, asking what a composer can shape without pretending to own the
-listener's attention.
-:::
-
 ## 1. Composing the listener's notice
 
 In March 1920, an audience entered the Galerie Barbazanges in Paris for a play

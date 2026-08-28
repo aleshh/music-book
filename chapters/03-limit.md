@@ -1,12 +1,5 @@
 # Section 3: Limit
 
-::: {.section-summary}
-A useful limit does more than remove possibilities; it redistributes
-consequence among those that remain. This Section asks what can be bounded:
-pitch, rhythm, density, behavior, and duration; and how a rule can focus choice
-without becoming an alibi.
-:::
-
 ## 29. What a boundary makes audible
 
 In the winter of 1940–41, four professional musicians were prisoners at Stalag

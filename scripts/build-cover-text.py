@@ -72,7 +72,7 @@ def main() -> None:
 
     pdf.setFillColor(muted)
     pdf.setFont(fonts["sans"], 9.0)
-    pdf.drawString(x, author_baseline - 0.16 * inch, "Preface by Alesh Houdek")
+    pdf.drawString(x, author_baseline - 0.16 * inch, "Foreword by Alesh Houdek")
 
     pdf.showPage()
     pdf.save()
@@ -80,13 +80,13 @@ def main() -> None:
     svg = f'''<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="220pt" height="133pt" viewBox="0 0 220 133" role="img" aria-labelledby="title desc">
   <title id="title">Ambient and Minimalist Music cover text</title>
-  <desc id="desc">Title, subtitle, author, and preface credit</desc>
+  <desc id="desc">Title, subtitle, author, and foreword credit</desc>
   <g text-anchor="start">
     <text x="8" y="26.565" fill="#171717" font-family="Arial" font-size="25.5" font-weight="700">Ambient and</text>
     <text x="8" y="53.065" fill="#171717" font-family="Arial" font-size="25.5" font-weight="700">Minimalist Music</text>
     <text x="8" y="73.945" fill="#6b6b6b" font-family="Big Caslon" font-size="13.5">A Composer’s Field Guide</text>
     <text x="8" y="111.385" fill="#171717" font-family="Arial" font-size="10.8" font-weight="700">Jonathan Romanovský</text>
-    <text x="8" y="122.905" fill="#6b6b6b" font-family="Arial" font-size="9">Preface by Alesh Houdek</text>
+    <text x="8" y="122.905" fill="#6b6b6b" font-family="Arial" font-size="9">Foreword by Alesh Houdek</text>
   </g>
 </svg>
 '''

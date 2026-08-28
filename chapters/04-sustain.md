@@ -1,12 +1,5 @@
 # Section 4: Sustain
 
-::: {.section-summary}
-A sustained sound does not stand still. This Section enters its internal
-rhythm, including overtone, breath, bow, resonance, beating, fatigue, and
-release, to ask how continuity can remain alive long enough for small changes
-to become structural.
-:::
-
 ## 42. Entering the interior of a sound
 
 La Monte Young remembered wind before he remembered music. In the Idaho log

@@ -1,12 +1,5 @@
 # Section 2: Experience time
 
-::: {.section-summary}
-A clock can measure a piece without describing how the piece feels. Here
-duration becomes a compositional material: articulated by pulse, rarity,
-memory, bodily effort, and the changing scale at which an event acquires
-weight.
-:::
-
 ## 13. Making duration perceptible
 
 About three months before a concert in 1999, four packages arrived for the

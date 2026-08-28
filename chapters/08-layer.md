@@ -1,11 +1,5 @@
 # Section 8: Layer
 
-::: {.section-summary}
-A layer is not merely another part; it changes what the surrounding parts can
-be. This Section follows lines as they gather into streams, densities,
-registers, and masses, making relationship itself carry the form.
-:::
-
 ## 97. Turning relationship into form
 
 On November 14, 2024, Patrick Shiroishi stood alone at Cafe OTO in London with

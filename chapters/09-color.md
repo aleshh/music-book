@@ -1,12 +1,5 @@
 # Section 9: Color
 
-::: {.section-summary}
-A note name tells us remarkably little about the event that reaches the ear.
-This Section treats timbre, articulation, resonance, blend, and resistance as
-structures with syntax and memory, rather than decoration applied after the
-pitches are chosen.
-:::
-
 ## 109. Letting sound carry the argument
 
 In 1997, DJ Shadow described how he built the drums on *Endtroducing.....*. He

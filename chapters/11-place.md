@@ -1,12 +1,5 @@
 # Section 11: Place
 
-::: {.section-summary}
-Music always happens somewhere, even when the score behaves as though the room
-were interchangeable. This Section considers acoustics, movement, activity,
-audience location, public consent, and environmental specificity as forces
-that can enter the work's form.
-:::
-
 ## 135. Writing a music and its surroundings
 
 In 1988, Pauline Oliveros, Stuart Dempster, and Panaiotis descended into a vast

@@ -1,11 +1,5 @@
 # Section 6: Repeat
 
-::: {.section-summary}
-To repeat something is to place it in the company of memory. This Section asks
-how recurrence changes identity, pressure, expectation, accumulation, and
-care, and how a cycle can remain consequential after its contents are familiar.
-:::
-
 ## 69. Making sameness consequential
 
 Roscoe Mitchell had one hour.

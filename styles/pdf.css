@@ -170,7 +170,7 @@ header#title-block-header {
   text-indent: 0;
 }
 
-#title-block-header .preface-by {
+#title-block-header .foreword-by {
   color: var(--muted-color);
   font-family: var(--book-sans);
   font-size: 0.82rem;
@@ -244,25 +244,13 @@ section.level1 {
 
 section.level1 > h1 {
   border-top: 3pt solid var(--text-color);
+  break-after: page;
   margin: 1.12in 0 0.22in;
   max-width: 3.05in;
   page: section-title;
+  page-break-after: always;
   padding-top: 0.18in;
   text-align: left;
-}
-
-section.level1 > .section-summary {
-  break-after: page;
-  color: #3f3f3f;
-  font-size: 10.25pt;
-  line-height: 1.38;
-  max-width: 2.9in;
-  page: section-title;
-  page-break-after: always;
-}
-
-section.level1 > .section-summary p {
-  margin: 0;
 }
 
 section.level2 {
@@ -272,10 +260,6 @@ section.level2 {
 
 section.level2 > h2 {
   margin: 1.55em 0 0.72em;
-}
-
-section.level1 > .section-summary + section.level2 > h2 {
-  margin-top: 1.55em;
 }
 
 .chapter-notes {

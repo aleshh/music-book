@@ -1,12 +1,5 @@
 # Section 10: Release control
 
-::: {.section-summary}
-Composers never control everything, but they do decide where control will
-reside. This Section maps responsibility among score, performer, chance,
-improvisation, leadership, error, and recovery, asking how freedom can be
-designed without becoming abandonment.
-:::
-
 ## 120. Who makes the next decision?
 
 A group preparing Julius Eastman's *Stay On It* cannot begin by opening the

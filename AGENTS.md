@@ -52,9 +52,14 @@ after giving the reader something audible for it to name.
 - `frontmatter/publication.md` — publication data and the canonical public
   disclosure of the fictional authorial persona and AI-generated manuscript.
   Keep this disclosure plain and accurate.
-- `frontmatter/preface.md` — Alesh Houdek's human-authored account of how the
+- `frontmatter/foreword.md` — Alesh Houdek's human-authored account of how the
   book came into being. Preserve his voice and wording unless he explicitly
   requests editing.
+- `frontmatter/introduction.md` — the AI-authored opening, including the
+  Takemitsu anecdote, statement of purpose and readership, AI disclosure, and
+  map of the twelve Sections.
+- `frontmatter/introduction-source-ledger.md` — claim trail and caveats for the
+  Introduction; it is editorial documentation and is not included in builds.
 - `research/01-listening-time-and-place.txt` — verified anecdotes concerning
   Cage, Eno, Oliveros, Young, Takemitsu, and John Luther Adams.
 - `research/02-repetition-process-and-form.txt` — verified anecdotes concerning
@@ -131,9 +136,10 @@ pressure, and conflict belong in this book too.
 
 Consult `Voice` for the complete guide and sample prose.
 
-The introduction is reserved for the user to write. Do not draft, substantially
-outline, or silently generate it unless the user explicitly asks for help with
-it. Once supplied, edit it only within the scope the user requests.
+The Foreword is the user's human-authored contribution. Preserve its voice and
+wording unless he explicitly requests editing. The Introduction was drafted by
+the AI at the user's request and may be revised with the rest of the manuscript;
+keep its authorship disclosure direct and accurate.
 
 ## Book architecture
 
@@ -207,8 +213,9 @@ argument has earned its duration.
 
 The current manuscript has 164 short pieces numbered continuously through the
 twelve Sections. Pieces flow continuously in PDF and each receives its own EPUB
-document. Section titles receive one divider page containing the Section summary;
-the first piece follows immediately, with no inserted blank verso. All
+document. Section titles receive one divider page containing only the Section
+label and title; the first piece follows immediately, with no inserted blank
+verso. All
 reader-facing Section, piece, and exercise headings use sentence case and align
 left, including the book title page.
 
