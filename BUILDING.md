@@ -13,6 +13,19 @@ That builds both editions:
 
 You can also run `make pdf`, `make epub`, or `make clean`.
 
+For the paperback production pair, run:
+
+```sh
+make paperback
+```
+
+This rebuilds the interior PDF, reads its final page count, and creates the
+matching full-wrap cover at
+`output/pdf/ambient-and-minimalist-music-paperback-cover.pdf`. To regenerate
+only the cover from an already-current interior, run `make paperback-cover`.
+The cover assumes black ink on cream paper; edit `cover/full-wrap.json` to
+change its copy or production inputs.
+
 To report the manuscript count without rebuilding anything, run:
 
 ```sh
@@ -72,11 +85,15 @@ python3 scripts/restructure-fast-flow.py --renumber
 ## Formatting controls
 
 - Edit `book.yaml` for the title, subtitle, language, and other book metadata.
-- Edit `frontmatter/publication.md` for the publication statement and AI
-  authorship disclosure.
+- Edit `frontmatter/publication.md` for the publication statement and the scope
+  of the publisher's copyright claim. Declare AI-generated content in KDP's
+  publishing workflow rather than adding a separate legalistic notice here.
 - Edit `frontmatter/foreword.md` for Alesh Houdek's Foreword and
-  `frontmatter/introduction.md` for the AI-authored Introduction. They appear
-  in that order after the contents and before Section 1.
+  `frontmatter/introduction.md` for the collaboratively developed Introduction.
+  They appear in that order after the contents and before Section 1. Each
+  starts on a new page, but its heading and opening text share that page.
+- Edit `backmatter/about-the-authorial-voice.md` for the closing "About the author" explanation of
+  the generated Romanovský persona. It follows Section 12.
 - Edit `styles/base.css` for the body and heading fonts, type size, leading,
   colors, paragraph indents, and shared typography.
 - Edit `styles/pdf.css` for the PDF page size, margins, title page, contents,
@@ -97,11 +114,12 @@ numbered piece begins on the immediately following page, without an inserted bla
 finishes with `scripts/ensure-print-spreads.py`, which applies the final physical
 page numbers and verifies every Section transition.
 
-The title page names Jonathan Romanovský as the fictional authorial persona and
-credits the Foreword to Alesh Houdek.
+The title page identifies Jonathan Romanovský as a generated authorial persona,
+credits the book's development and editing to Alesh Houdek, and credits his
+Foreword.
 The following publication page names Alesh Houdek as self-publisher and states
-the division between Houdek’s human-authored contributions and the AI-generated
-manuscript.
+the scope of his copyright claim. The Introduction gives the reader a plain
+account of the book's human-AI collaboration.
 
 Body paragraphs are set without vertical space between them. The first
 paragraph of each numbered piece is flush left; subsequent body paragraphs are

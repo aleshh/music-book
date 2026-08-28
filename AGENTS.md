@@ -49,17 +49,23 @@ after giving the reader something audible for it to name.
 - `Voice` — canonical author persona and prose guide. Read it before outlining,
   drafting, or revising a section. When local section prose conflicts with it,
   `Voice` wins unless the user requests a new direction.
-- `frontmatter/publication.md` — publication data and the canonical public
-  disclosure of the fictional authorial persona and AI-generated manuscript.
-  Keep this disclosure plain and accurate.
+- `frontmatter/publication.md` — publication data and a concise statement of
+  the scope of Alesh Houdek's copyright claim. Amazon's required AI-content
+  declaration belongs in KDP's publishing workflow, not in this file.
 - `frontmatter/foreword.md` — Alesh Houdek's human-authored account of how the
   book came into being. Preserve his voice and wording unless he explicitly
   requests editing.
-- `frontmatter/introduction.md` — the AI-authored opening, including the
-  Takemitsu anecdote, statement of purpose and readership, AI disclosure, and
-  map of the twelve Sections.
+- `frontmatter/introduction.md` — the collaboratively developed opening,
+  including the Takemitsu anecdote, statement of purpose and readership,
+  account of the human-AI process, and map of the twelve Sections.
 - `frontmatter/introduction-source-ledger.md` — claim trail and caveats for the
   Introduction; it is editorial documentation and is not included in builds.
+- `backmatter/about-the-authorial-voice.md` — a concise "About the author" account
+  of the generated Romanovský persona and Alesh Houdek's role in developing the
+  manuscript.
+- `cover/full-wrap.json` — editable paperback-cover copy and production inputs.
+  `scripts/build-paperback-cover.py` reads the final interior page count and
+  derives the exact cream-paper spine and full-wrap dimensions.
 - `research/01-listening-time-and-place.txt` — verified anecdotes concerning
   Cage, Eno, Oliveros, Young, Takemitsu, and John Luther Adams.
 - `research/02-repetition-process-and-form.txt` — verified anecdotes concerning
@@ -139,7 +145,8 @@ Consult `Voice` for the complete guide and sample prose.
 The Foreword is the user's human-authored contribution. Preserve its voice and
 wording unless he explicitly requests editing. The Introduction was drafted by
 the AI at the user's request and may be revised with the rest of the manuscript;
-keep its authorship disclosure direct and accurate.
+keep its account of the collaboration direct and accurate without turning it
+into a legalistic disclosure notice.
 
 ## Book architecture
 
@@ -215,7 +222,8 @@ The current manuscript has 164 short pieces numbered continuously through the
 twelve Sections. Pieces flow continuously in PDF and each receives its own EPUB
 document. Section titles receive one divider page containing only the Section
 label and title; the first piece follows immediately, with no inserted blank
-verso. All
+verso. The Foreword, Introduction, and authorial-voice note each begin on a new
+page, but their headings share that page with their opening text. All
 reader-facing Section, piece, and exercise headings use sentence case and align
 left, including the book title page.
 

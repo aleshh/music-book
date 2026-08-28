@@ -14,6 +14,7 @@ publication_html="tmp/pdfs/publication.html"
 publication_source="frontmatter/publication.md"
 foreword_source="frontmatter/foreword.md"
 introduction_source="frontmatter/introduction.md"
+about_source="backmatter/about-the-authorial-voice.md"
 chrome_log="tmp/pdfs/chrome.log"
 
 die() {
@@ -125,7 +126,8 @@ build_pdf() {
     --output="$pdf_html" \
     "$foreword_source" \
     "$introduction_source" \
-    "${chapter_files[@]}"
+    "${chapter_files[@]}" \
+    "$about_source"
 
   local chrome_profile
   chrome_profile="$(mktemp -d /tmp/ambient-book-chrome.XXXXXX)"
@@ -174,7 +176,8 @@ build_epub() {
     "$publication_source" \
     "$foreword_source" \
     "$introduction_source" \
-    "${chapter_files[@]}"
+    "${chapter_files[@]}" \
+    "$about_source"
 
   [[ -s "$epub_output" ]] || die "Pandoc did not create $epub_output"
   printf 'Built %s\n' "$epub_output"

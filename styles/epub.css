@@ -16,10 +16,23 @@ body {
   margin-top: 1.5em;
 }
 
+.titlepage .author-note,
+.titlepage .developed-by,
 .titlepage .foreword-by {
   color: var(--muted-color);
   font-family: var(--book-sans);
   font-size: 0.9em;
+}
+
+.titlepage .author-note {
+  margin-top: 0.15em;
+}
+
+.titlepage .developed-by {
+  margin-top: 1em;
+}
+
+.titlepage .foreword-by {
   margin-top: 0.45em;
 }
 
@@ -35,10 +48,6 @@ body {
 .publication-data p {
   margin: 0 0 0.8em;
   text-indent: 0;
-}
-
-.publication-data .ai-disclosure {
-  margin-top: 1.25em;
 }
 
 section.publication-heading > h1 {
@@ -62,6 +71,11 @@ section.level1 > h1 {
   margin-bottom: 0.3em;
   page-break-after: always;
   text-align: left;
+}
+
+section.level1.matter > h1 {
+  break-after: auto;
+  page-break-after: auto;
 }
 
 section.level2 {

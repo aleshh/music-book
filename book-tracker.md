@@ -404,6 +404,15 @@ job already performed, so a future return must do something else.
 
 ## Latest format and flow audit: Sections and numbered pieces
 
+- Revised 2026-08-28: the title page now identifies Jonathan Romanovský as a
+  generated authorial persona and credits Alesh Houdek's development and
+  editing. A closing authorial-voice note explains the persona's purpose and
+  the collaborative writing process without presenting a fictional biography
+  as fact. Its reader-facing heading is `About the author`.
+- Revised 2026-08-28: the Foreword and Introduction now begin on new pages
+  without receiving title-only divider pages. The publication page keeps a
+  concise, scoped copyright notice; the fuller account of the human-AI
+  collaboration remains part of the Introduction.
 - Revised 2026-08-28: Section summaries were removed from the manuscript and
   their book-mapping function moved into the Introduction. Each Section divider
   now contains only its label and title; the first numbered piece begins on the

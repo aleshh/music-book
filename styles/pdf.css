@@ -170,13 +170,26 @@ header#title-block-header {
   text-indent: 0;
 }
 
+#title-block-header .author-note,
+#title-block-header .developed-by,
 #title-block-header .foreword-by {
   color: var(--muted-color);
   font-family: var(--book-sans);
   font-size: 0.82rem;
   font-weight: 400;
-  margin: 0.45em 0 0;
   text-indent: 0;
+}
+
+#title-block-header .author-note {
+  margin: 0.12em 0 0;
+}
+
+#title-block-header .developed-by {
+  margin: 1.05em 0 0;
+}
+
+#title-block-header .foreword-by {
+  margin: 0.18em 0 0;
 }
 
 .publication-data {
@@ -200,10 +213,6 @@ h1.publication-heading {
 .publication-data p {
   margin: 0 0 0.7em;
   text-indent: 0;
-}
-
-.publication-data .ai-disclosure {
-  margin-top: 1em;
 }
 
 #TOC {
@@ -251,6 +260,16 @@ section.level1 > h1 {
   page-break-after: always;
   padding-top: 0.18in;
   text-align: left;
+}
+
+section.level1.matter > h1 {
+  border-top: 0;
+  break-after: auto;
+  margin: 0 0 1em;
+  max-width: none;
+  page: auto;
+  page-break-after: auto;
+  padding-top: 0;
 }
 
 section.level2 {

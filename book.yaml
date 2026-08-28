@@ -2,6 +2,10 @@ title: "Ambient and Minimalist Music"
 subtitle: "A Composer's Field Guide"
 author: "Jonathan Romanovský"
 creator:
+  - role: author-note
+    text: "A generated authorial persona"
+  - role: developed-by
+    text: "Developed and edited by Alesh Houdek"
   - role: foreword-by
     text: "Foreword by Alesh Houdek"
 lang: en-US
