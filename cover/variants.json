@@ -1,0 +1,332 @@
+{
+  "page": {
+    "width_in": 4.25,
+    "height_in": 7.0
+  },
+  "content": {
+    "title_lines": ["Ambient and", "Minimalist Music"],
+    "subtitle": "A Composer’s Field Guide",
+    "author": "Jonathan Romanovský",
+    "credit": "Preface by Alesh Houdek"
+  },
+  "palette": {
+    "green": "#B9DDCD",
+    "yellow": "#E8D99B",
+    "green-copy": "#A9D5BE",
+    "yellow-copy": "#EFDC83",
+    "paper": "#F3EFE5",
+    "green-line": "#619B83",
+    "yellow-line": "#C8A936",
+    "pink-line": "#B96F7D",
+    "pink": "#DFAFB8",
+    "white": "#FFFDF8",
+    "ink": "#181716",
+    "muted": "#5F5B57"
+  },
+  "variants": [
+    {
+      "id": "v1-centered",
+      "name": "Centered stack",
+      "background": "green",
+      "layers": [
+        {"color": "pink", "x": 0.20, "y": 0.50, "w": 3.88, "h": 6.10},
+        {"color": "yellow", "x": 0.38, "y": 0.74, "w": 3.49, "h": 5.62},
+        {"color": "green", "x": 0.55, "y": 1.04, "w": 3.16, "h": 5.00},
+        {"color": "pink", "x": 0.44, "y": 1.34, "w": 3.36, "h": 4.38},
+        {"color": "yellow", "x": 0.62, "y": 1.60, "w": 3.02, "h": 3.86}
+      ],
+      "card": {"x": 0.47, "y": 1.78, "w": 3.31, "h": 3.44},
+      "type": {"x": 0.78, "title_top": 4.66, "title_size": 22.5, "title_leading": 23.0}
+    },
+    {
+      "id": "v2-offset",
+      "name": "Misregistered stack",
+      "background": "pink",
+      "layers": [
+        {"color": "yellow", "x": 0.15, "y": 0.44, "w": 3.90, "h": 6.18},
+        {"color": "green", "x": 0.42, "y": 0.70, "w": 3.54, "h": 5.70},
+        {"color": "pink", "x": 0.27, "y": 0.98, "w": 3.59, "h": 5.12},
+        {"color": "yellow", "x": 0.58, "y": 1.30, "w": 3.05, "h": 4.52},
+        {"color": "green", "x": 0.39, "y": 1.55, "w": 3.36, "h": 3.98}
+      ],
+      "card": {"x": 0.58, "y": 1.82, "w": 3.22, "h": 3.40},
+      "type": {"x": 0.86, "title_top": 4.67, "title_size": 22.0, "title_leading": 22.6}
+    },
+    {
+      "id": "v3-compressed",
+      "name": "Compressed register",
+      "background": "yellow",
+      "layers": [
+        {"color": "green", "x": 0.18, "y": 0.66, "w": 3.91, "h": 5.66},
+        {"color": "pink", "x": 0.31, "y": 0.93, "w": 3.61, "h": 5.16},
+        {"color": "yellow", "x": 0.50, "y": 1.18, "w": 3.20, "h": 4.66},
+        {"color": "green", "x": 0.38, "y": 1.48, "w": 3.45, "h": 4.03},
+        {"color": "pink", "x": 0.65, "y": 1.70, "w": 2.94, "h": 3.56},
+        {"color": "yellow", "x": 0.48, "y": 1.88, "w": 3.25, "h": 3.20}
+      ],
+      "card": {"x": 0.62, "y": 1.72, "w": 3.04, "h": 3.55},
+      "type": {"x": 0.88, "title_top": 4.73, "title_size": 21.0, "title_leading": 21.6}
+    },
+    {
+      "id": "v4-many-centered",
+      "name": "Many layers, steady register",
+      "background": "pink",
+      "nest": {
+        "count": 27,
+        "colors": ["green-copy", "yellow-copy", "pink"],
+        "growth_w": [0.14, 0.12, 0.15, 0.13],
+        "growth_h": [0.17, 0.14, 0.16, 0.15],
+        "shift_x": [0.010, -0.006, 0.004, -0.008],
+        "shift_y": [-0.006, 0.009, -0.004, 0.005]
+      },
+      "card": {"x": 0.78, "y": 0.58, "w": 3.12, "h": 3.28},
+      "type": {
+        "x": 1.03,
+        "title_top": 3.31,
+        "title_size": 20.8,
+        "title_leading": 21.4,
+        "subtitle_gap": 0.25,
+        "author_gap": 0.50,
+        "credit_gap": 0.14
+      }
+    },
+    {
+      "id": "v5-many-drift",
+      "name": "Many layers, gentle drift",
+      "background": "green-copy",
+      "nest": {
+        "count": 30,
+        "colors": ["yellow-copy", "pink", "green-copy"],
+        "growth_w": [0.125, 0.145, 0.115, 0.135],
+        "growth_h": [0.145, 0.165, 0.135, 0.155],
+        "shift_x": [0.016, 0.010, -0.012, -0.006],
+        "shift_y": [-0.010, 0.008, 0.005, -0.007]
+      },
+      "card": {"x": 0.70, "y": 0.66, "w": 3.22, "h": 3.12},
+      "type": {
+        "x": 0.96,
+        "title_top": 3.25,
+        "title_size": 21.0,
+        "title_leading": 21.4,
+        "subtitle_gap": 0.25,
+        "author_gap": 0.48,
+        "credit_gap": 0.14
+      }
+    },
+    {
+      "id": "v6-many-compressed",
+      "name": "Many layers, compressed center",
+      "background": "yellow-copy",
+      "nest": {
+        "count": 33,
+        "colors": ["pink", "green-copy", "yellow-copy"],
+        "growth_w": [0.11, 0.13, 0.12, 0.14],
+        "growth_h": [0.13, 0.15, 0.14, 0.16],
+        "shift_x": [0.014, -0.004, 0.011, -0.009],
+        "shift_y": [0.006, -0.011, 0.004, -0.007]
+      },
+      "card": {"x": 0.84, "y": 0.52, "w": 3.02, "h": 3.34},
+      "type": {
+        "x": 1.08,
+        "title_top": 3.30,
+        "title_size": 20.1,
+        "title_leading": 20.6,
+        "subtitle_gap": 0.24,
+        "author_gap": 0.48,
+        "credit_gap": 0.13
+      }
+    },
+    {
+      "id": "v7-random-edges",
+      "name": "Random edge expansion",
+      "background": "pink",
+      "random_nest": {
+        "count": 28,
+        "seed": 614,
+        "colors": ["green-copy", "yellow-copy", "pink"],
+        "base_min": 0.025,
+        "base_max": 0.050,
+        "accent_min": 0.075,
+        "accent_max": 0.180
+      },
+      "card": {"x": 0.74, "y": 1.39, "w": 3.18, "h": 1.86},
+      "type": {
+        "x": 1.00,
+        "title_top": 2.75,
+        "title_size": 20.5,
+        "title_leading": 20.7,
+        "subtitle_gap": 0.23,
+        "author_gap": 0.39,
+        "credit_gap": 0.13
+      }
+    },
+    {
+      "id": "v8-random-drift",
+      "name": "Random expansion with stronger drift",
+      "background": "green-copy",
+      "random_nest": {
+        "count": 30,
+        "seed": 1983,
+        "colors": ["yellow-copy", "pink", "green-copy"],
+        "base_min": 0.020,
+        "base_max": 0.045,
+        "accent_min": 0.110,
+        "accent_max": 0.240
+      },
+      "card": {"x": 0.78, "y": 1.41, "w": 3.12, "h": 1.82},
+      "type": {
+        "x": 1.03,
+        "title_top": 2.73,
+        "title_size": 20.2,
+        "title_leading": 20.5,
+        "subtitle_gap": 0.22,
+        "author_gap": 0.39,
+        "credit_gap": 0.13
+      }
+    },
+    {
+      "id": "v9-random-leaps",
+      "name": "Random expansion with large edge leaps",
+      "background": "yellow-copy",
+      "random_nest": {
+        "count": 32,
+        "seed": 73,
+        "colors": ["pink", "green-copy", "yellow-copy"],
+        "base_min": 0.015,
+        "base_max": 0.040,
+        "accent_min": 0.150,
+        "accent_max": 0.280
+      },
+      "card": {"x": 0.80, "y": 1.34, "w": 3.08, "h": 1.94},
+      "type": {
+        "x": 1.04,
+        "title_top": 2.77,
+        "title_size": 20.0,
+        "title_leading": 20.3,
+        "subtitle_gap": 0.24,
+        "author_gap": 0.40,
+        "credit_gap": 0.13
+      }
+    },
+    {
+      "id": "v10-hairline-field",
+      "name": "Hairline field",
+      "background": "paper",
+      "random_nest": {
+        "count": 36,
+        "seed": 481,
+        "colors": ["green-line", "yellow-line", "pink-line"],
+        "base_min": 0.005,
+        "base_max": 0.015,
+        "accent_min": 0.030,
+        "accent_max": 0.085
+      },
+      "render": {
+        "mode": "outline",
+        "stroke_widths": [0.55, 0.85, 0.65, 1.10],
+        "card_stroke": {"color": "green-line", "width": 0.7}
+      },
+      "card": {"x": 0.76, "y": 1.41, "w": 3.16, "h": 1.82},
+      "type": {
+        "x": 1.01,
+        "title_top": 2.73,
+        "title_size": 20.3,
+        "title_leading": 20.6,
+        "subtitle_gap": 0.22,
+        "author_gap": 0.39,
+        "credit_gap": 0.13
+      }
+    },
+    {
+      "id": "v11-weighted-lines",
+      "name": "Weighted outline field",
+      "background": "pink",
+      "random_nest": {
+        "count": 28,
+        "seed": 902,
+        "colors": ["green-line", "green-line", "yellow-line", "pink-line"],
+        "base_min": 0.030,
+        "base_max": 0.080,
+        "accent_min": 0.085,
+        "accent_max": 0.190
+      },
+      "render": {
+        "mode": "outline",
+        "stroke_widths": [0.55, 2.20, 0.70, 1.15, 0.45],
+        "card_stroke": {"color": "yellow-line", "width": 1.0}
+      },
+      "card": {"x": 0.80, "y": 1.39, "w": 3.10, "h": 1.86},
+      "type": {
+        "x": 1.04,
+        "title_top": 2.75,
+        "title_size": 20.1,
+        "title_leading": 20.4,
+        "subtitle_gap": 0.22,
+        "author_gap": 0.39,
+        "credit_gap": 0.13
+      }
+    },
+    {
+      "id": "v12-triple-register",
+      "name": "Triple registration",
+      "background": "paper",
+      "random_nest": {
+        "count": 11,
+        "seed": 2718,
+        "colors": ["green-line"],
+        "base_min": 0.090,
+        "base_max": 0.160,
+        "accent_min": 0.120,
+        "accent_max": 0.260
+      },
+      "render": {
+        "mode": "registration",
+        "registrations": [
+          {"color": "green-line", "stroke_width": 0.75, "offset_x": -0.018, "offset_y": 0.012},
+          {"color": "yellow-line", "stroke_width": 0.75, "offset_x": 0.000, "offset_y": -0.016},
+          {"color": "pink-line", "stroke_width": 0.75, "offset_x": 0.018, "offset_y": 0.007}
+        ],
+        "card_stroke": {"color": "pink-line", "width": 0.8}
+      },
+      "card": {"x": 0.75, "y": 1.42, "w": 3.18, "h": 1.80},
+      "type": {
+        "x": 1.00,
+        "title_top": 2.72,
+        "title_size": 20.4,
+        "title_leading": 20.6,
+        "subtitle_gap": 0.22,
+        "author_gap": 0.39,
+        "credit_gap": 0.13
+      }
+    },
+    {
+      "id": "v13-green-intervals",
+      "name": "Green intervals with color incidents",
+      "background": "yellow-copy",
+      "random_nest": {
+        "count": 34,
+        "seed": 1618,
+        "colors": ["green-line", "green-line", "green-line", "yellow-line", "green-line", "green-line", "pink-line"],
+        "base_min": 0.025,
+        "base_max": 0.070,
+        "accent_min": 0.065,
+        "accent_max": 0.175
+      },
+      "render": {
+        "mode": "outline",
+        "stroke_widths": [0.45, 0.55, 1.80, 0.45, 0.80, 0.50],
+        "card_stroke": {"color": "green-line", "width": 1.1}
+      },
+      "card": {"x": 0.78, "y": 1.40, "w": 3.14, "h": 1.84},
+      "type": {
+        "x": 1.03,
+        "title_top": 2.74,
+        "title_size": 20.2,
+        "title_leading": 20.5,
+        "subtitle_gap": 0.22,
+        "author_gap": 0.39,
+        "credit_gap": 0.13
+      }
+    }
+  ]
+}
