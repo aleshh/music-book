@@ -167,3 +167,71 @@ Sources:
   analysis corroborating the relation among individual hits, sampled
   atmosphere, and live feel):
   https://dj.dancecult.net/index.php/dancecult/article/download/369/459/1590
+
+=========================================================================
+35. OBLIQUE STRATEGIES RETURNS AN OUTSIDE QUESTION TO THE WORK
+
+Musical idea: A chance procedure need not choose notes. It can choose a
+temporary working attitude, allowing a composer under pressure to recover an
+alternative that habit has made unavailable. The outside instruction changes
+the question; the composer still hears and answers for the result.
+
+User's proposal: Make the relationship between this book and Brian Eno and
+Peter Schmidt's `Oblique Strategies` explicit. Explain the deck as a tool a
+musician can consult when a piece needs a jolt of outside thought, quote only
+two or three cards, and let that precedent shape a nonlinear way of using the
+book.
+
+Verified account: Eno and Schmidt published `Oblique Strategies: Over One
+Hundred Worthwhile Dilemmas` together in 1975. In a 1978 interview, Eno said
+that he had begun collecting short principles to interrupt a narrowed view of
+work. Studio deadlines encouraged linear effort even when the line was going
+nowhere; a card could dislocate the current view and suggest another direction.
+When he showed the collection to Schmidt, Schmidt revealed an independently
+developed notebook of comparable propositions. They combined the collections,
+added to them, and published a small edition.
+
+Eno said that he drew randomly when a piece had stopped moving or when several
+options seemed equally plausible. The selected card did not supply a passage
+of music. It altered the position from which he would make the next decision.
+Geeta Dayal's history, drawing on Eno's 1980 radio interview, sharpens the
+practical motive: panic made other, tangential ways of working easy to forget.
+
+The deck has changed across editions. Three short, independently documented
+examples are “Use an old idea,” “Repetition is a form of change,” and
+“Humanize something free of error.” Together they show that a strategy may be
+a direct instruction, a proposition to test, or a deliberate reversal of the
+value currently assigned to a musical condition.
+
+Best book use: Insert a supporting encounter immediately after compositional
+chance in Section 10, Release control. Distinguish a random choice of material
+from a random choice of working position. Use the encounter to motivate a
+frontmatter note explaining sequential and nonlinear reading, plus 36 brief
+interventions distilled from the book's existing exercises and a diagnostic
+backmatter index. The book should draw the structural comparison directly but
+not claim to be another card deck: its additional contribution is to explain
+the audible consequence and limitation behind each intervention.
+
+Verification: HIGH for the 1975 collaboration, Eno's account of the separate
+collections, his random use at moments of impasse, and the pressure/forgotten-
+alternative rationale. HIGH that the three quoted sentences have appeared as
+Oblique Strategies; MEDIUM for treating them as a single-edition group, so do
+not assign all three to the original deck. Quote no more than these fifteen
+words in the manuscript. Do not reduce Peter Schmidt to a helper or make the
+deck solely Eno's invention.
+
+Sources:
+- Brian Eno, interview by Glenn O'Brien, originally published in `Interview`,
+  June 1978 (first-person history and account of random use at an impasse):
+  https://www.interviewmagazine.com/music/new-again-brian-eno
+- Geeta Dayal, “Brian Eno, Peter Schmidt, and Cybernetics,” Rhizome, October
+  21, 2009 (independent development, 1975 publication, and the 1980 KPFA
+  account of studio panic and tangential approaches):
+  https://old.rhizome.org/editorial/2009/oct/21/brian-eno-peter-schmidt-and-cybernetics/
+- Eno Shop, official current product page (title, collaborators, purpose, 2001
+  fifth edition, and “Use an old idea”):
+  https://enoshop.co.uk/products/oblique-strategies
+- Ràdio Web MACBA, `INTERRUPTIONS #18: Vox et repetitio` (“Repetition is a
+  form of change” attributed to Eno and Schmidt):
+  https://img.macba.cat/wp-content/uploads/2024/03/18Interruptions_eng-1.pdf
+- Rhizome article above (“Humanize something free of error”).

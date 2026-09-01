@@ -41,10 +41,11 @@ from the user enter here before they enter a section. Preserve the substance of
 the contribution and any supplied source; do not polish away what made it
 interesting before deciding what job it can do.
 
-No unresolved incoming material as of 2026-08-06. The Patrick Shiroishi and DJ
-Shadow contributions have been researched and moved to the anecdote ledger as
-items 31 and 32. Their original wording and all verification caveats are
-preserved in `research/06-user-contributed-material.txt`.
+No unresolved incoming material as of 2026-08-28. The Patrick Shiroishi, DJ
+Shadow, and *Oblique Strategies* contributions have been researched and moved
+to the anecdote ledger as items 31, 32, and 35. Their original substance and all
+verification caveats are preserved in
+`research/06-user-contributed-material.txt`.
 
 For each incoming item:
 
@@ -172,6 +173,7 @@ deciding what musical claim the story will support.
 | 32 | DJ Shadow treats a drum break as a family of nonidentical events, preserving alternate hits, decay, ambience, and performed timing | **Used—primary, Sec. 9** | Opens and closes the section; repeated rhythmic function carries varied sonic identity. The corrected nine- and sixteen-fragment accounts are used; never restore the unverified “dozen snares from a jazz record” version |
 | 33 | Two identical copies of Brother Walter's warning drift apart and reveal phase | **Used—primary, Sec. 7** | Opens and closes Drift; changing offset generates counterpoint while the speaker and sermon remain identifiable |
 | 34 | The orchestra sinks; the music continues | **Used—primary, Sec. 12** | Opens and closes Discover the Form; disputed testimony becomes a qualified premise about endings changing conditions of continuation |
+| 35 | Eno and Schmidt's *Oblique Strategies* returns a forgotten or tangential working position when pressure narrows the available question | **Used—supporting, Sec. 10 and book access system** | “The instruction you forgot” distinguishes chance-selected material from a chance-selected working attitude. The usage note and 36-intervention index make the book's related nonlinear function explicit; do not retell the origin elsewhere |
 
 Source-bank locations:
 
@@ -180,8 +182,8 @@ Source-bank locations:
 - 15–21: `research/03-texture-timbre-and-embodiment.txt`
 - 22–28: `research/04-agency-transmission-and-memory.txt`
 - 29–30: `research/05-drafting-discoveries.txt`
-- 31–32: `research/06-user-contributed-material.txt`
-- 33 onward (chapter-led discoveries): `research/05-drafting-discoveries.txt`
+- 31–32 and 35: `research/06-user-contributed-material.txt`
+- 33–34 (chapter-led discoveries): `research/05-drafting-discoveries.txt`
 
 ## Repertoire and authority already used in drafted sections
 
@@ -417,15 +419,19 @@ job already performed, so a future return must do something else.
   their book-mapping function moved into the Introduction. Each Section divider
   now contains only its label and title; the first numbered piece begins on the
   following page.
+- Revised 2026-08-28: *Oblique Strategies* now appears in Section 10 as a tool
+  that selects a working position rather than musical material. A new usage
+  note establishes sequential and problem-led reading routes; a diagnostic
+  backmatter index offers 36 interventions distilled from the existing
+  experiments. This is a second access system, not a thirteenth Section.
 - Completed 2026-08-07: the twelve former book-scale chapters are now Sections.
-  Their 164 existing second-level divisions are numbered globally and carry no
+  Their now 165 second-level divisions are numbered globally and carry no
   categorical label; `Notes` remains unnumbered.
-- Each Section receives a divider page, and every numbered piece begins on a
-  new PDF page. The PDF grew from 114 to 199 pages without adding substantive
-  prose. No PDF page contains two numbered-piece openings.
+- Each Section receives a divider page. Numbered pieces flow continuously in
+  the compact PDF rather than forcing a page break after every short piece.
 - The EPUB is split at heading level 2, giving every piece its own XHTML
   document and reliable reader-level page transition. Its navigation contains
-  all twelve Sections and all 164 numbered pieces in sequence.
+  all twelve Sections and all 165 numbered pieces in sequence.
 - Of 1,325 body prose paragraphs, 662 were split at natural sentence boundaries,
   producing 1,987 paragraphs: exactly 1.500 times the original body-paragraph
   count. Headings, lists, exercises, quotations, and source notes were excluded
@@ -438,15 +444,16 @@ job already performed, so a future return must do something else.
 
 ## Latest voice audit: restrained lift
 
-- Completed 2026-08-08: all 164 numbered pieces received one calibrated lift
-  move. Each addition turns analysis toward a compositional possibility,
+- Completed 2026-08-08: all 164 pieces then present received one calibrated
+  lift move. The later *Oblique Strategies* piece was drafted with its own
+  earned forward turn. Each addition turns analysis toward a compositional possibility,
   restores agency after a caution, or gives an ending a modest forward vector.
 - The pass added 2,633 words, moving the stable editorial count from 63,474 to
   66,107. It did not alter historical claims, anecdotes, exercises, source
   notes, Section order, or numbered-piece order.
-- `scripts/apply-lift-pass.py` records all 164 additions and verifies their
-  intended homes. A second run inserts nothing; it is an audit trail for this
-  completed editorial pass, not a routine drafting command.
+- `scripts/apply-lift-pass.py` records the 164 historical additions at their
+  current renumbered homes. A second run inserts nothing; it is an audit trail
+  for this completed editorial pass, not a routine drafting command.
 - The governing voice rule now appears in both `Voice` and `AGENTS.md`:
   inspiration should arise from clearer musical agency and consequence, not
   hype, generic encouragement, or a repeated motivational cadence.

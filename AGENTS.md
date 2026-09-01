@@ -60,6 +60,14 @@ after giving the reader something audible for it to name.
   account of the human-AI process, and map of the twelve Sections.
 - `frontmatter/introduction-source-ledger.md` — claim trail and caveats for the
   Introduction; it is editorial documentation and is not included in builds.
+- `frontmatter/how-to-use-this-book.md` — the two reading routes: cumulative
+  sequence and problem-led intervention. It introduces the explicit
+  *Oblique Strategies* precedent and points to the backmatter access system.
+- `frontmatter/how-to-use-this-book-source-ledger.md` — claim trail for the
+  Eno/Schmidt precedent; it is editorial documentation and is not included in
+  builds.
+- `backmatter/when-the-piece-stops-moving.md` — diagnostic index and 36 concise
+  interventions distilled from the twelve existing experiment groups.
 - `backmatter/about-the-authorial-voice.md` — a concise "About the author" account
   of the generated Romanovský persona and Alesh Houdek's role in developing the
   manuscript.
@@ -218,14 +226,14 @@ argument has earned its duration.
 
 ## Numbered-piece flow and paragraph rhythm
 
-The current manuscript has 164 short pieces numbered continuously through the
+The current manuscript has 165 short pieces numbered continuously through the
 twelve Sections. Pieces flow continuously in PDF and each receives its own EPUB
 document. Section titles receive one divider page containing only the Section
 label and title; the first piece follows immediately, with no inserted blank
-verso. The Foreword, Introduction, and authorial-voice note each begin on a new
-page, but their headings share that page with their opening text. All
-reader-facing Section, piece, and exercise headings use sentence case and align
-left, including the book title page.
+verso. The Foreword, Introduction, usage note, diagnostic index, and
+authorial-voice note each begin on a new page, but their headings share that
+page with their opening text. All reader-facing Section, piece, and exercise
+headings use sentence case and align left, including the book title page.
 
 Favor short, breathable body paragraphs. The fast-flow edit split 662 of 1,325
 body paragraphs at natural sentence boundaries, producing 1,987 paragraphs

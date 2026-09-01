@@ -78,6 +78,42 @@
   device or imply that Cage's use exhausts its philosophical and cultural
   meaning.
 
+## Brian Eno and Peter Schmidt, *Oblique Strategies*
+
+- Claim: Eno and Schmidt jointly published *Oblique Strategies* in 1975 after
+  discovering that they had independently developed collections of prompts for
+  difficult working situations.
+- Sources: Brian Eno's first-person account in Glenn O'Brien's 1978 interview;
+  Geeta Dayal's Rhizome history, which also cites Eno's 1980 KPFA interview;
+  the current official Eno Shop description.
+  https://www.interviewmagazine.com/music/new-again-brian-eno
+  https://old.rhizome.org/editorial/2009/oct/21/brian-eno-peter-schmidt-and-cybernetics/
+  https://enoshop.co.uk/products/oblique-strategies
+- Confidence: HIGH.
+- Caveat: Eno and Schmidt's separate collections had antecedents and the deck
+  changed across editions. Do not imply that every quoted card appeared in the
+  first edition.
+
+- Claim: Eno used the cards when work reached an impasse, drawing at random to
+  interrupt linear effort and shift perception or approach. The cards selected
+  a way of working rather than directly specifying a finished musical result.
+- Sources: Eno's 1978 first-person interview and Dayal's account of the 1980
+  interview, above.
+- Confidence: HIGH.
+
+- Claim and quotation check: Documented cards include “Use an old idea,”
+  “Repetition is a form of change,” and “Humanize something free of error.”
+- Sources: current official Eno Shop listing; Museu d'Art Contemporani de
+  Barcelona's Ràdio Web MACBA publication; Dayal's Rhizome article.
+  https://enoshop.co.uk/products/oblique-strategies
+  https://img.macba.cat/wp-content/uploads/2024/03/18Interruptions_eng-1.pdf
+  https://old.rhizome.org/editorial/2009/oct/21/brian-eno-peter-schmidt-and-cybernetics/
+- Confidence: HIGH that these wordings have circulated as cards; MEDIUM for
+  assigning all three to one edition without inspecting that physical deck.
+- Copyright and editorial caveat: Quote only these three short cards (fifteen
+  words total) for criticism and explanation. Paraphrase the deck's operation;
+  do not reproduce or imitate a substantial portion of the card set.
+
 ## Section-specific interpretations
 
 - A score distributes decisions rather than simply containing more or less
@@ -88,3 +124,6 @@
   outcomes, even when no single result was directly selected.
 - Work identity may persist in relations and social practice, but openness must
   remain capable of producing an outcome that does not belong.
+- A randomly selected instruction can interrupt a composer's habitual frame
+  without absolving that composer of hearing, choosing, or revising what
+  follows.

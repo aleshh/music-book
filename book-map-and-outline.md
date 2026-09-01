@@ -18,10 +18,17 @@ A useful working distinction:
 
 Reader-facing terminology changed after the complete first draft. The twelve
 large units below are now **Sections**. Their existing second-level divisions
-are 164 short pieces, numbered continuously across the book and presented
+are 165 short pieces, numbered continuously across the book and presented
 without a categorical label. The older planning material below sometimes
 proposes a different number of broad Sections; it remains useful as an idea
 map rather than the current contents.
+
+The manuscript now also has a second access system. A frontmatter usage note
+makes the comparison with Eno and Schmidt's *Oblique Strategies* explicit, and
+a backmatter diagnostic index distills the twelve experiment groups into 36
+interventions. This does not add another Section or replace the cumulative
+sequence. It lets a musician enter through a present compositional problem and
+then follow the intervention back into the fuller argument.
 
 The strongest version may be a composer's field guide rather than a history or a theory textbook. History and theory enter when they illuminate a decision a composer can make.
 
@@ -760,7 +767,7 @@ That yields the twelve Sections in the current book:
 11. Section 11: Place
 12. Section 12: Discover the form
 
-This twelve-Section structure, containing 164 short numbered pieces, is the current
+This twelve-Section structure, containing 165 short numbered pieces, is the current
 table of contents. The sixteen-Section version remains useful as a complete map
 from which to select.
 
@@ -820,8 +827,15 @@ section map remains an index of subtopics, while the compact sequence is now
 the manuscript's actual table of contents rather than a provisional cut.
 
 The 2026-08-07 flow revision changed the reader-facing scale without changing
-the argument. These twelve units are now Section divider pages; their 164
+the argument. These twelve units are now Section divider pages; their now 165
 second-level divisions are short pieces numbered continuously across the book.
-Each piece starts a new page, and body prose now uses 1.500 times the original
-number of paragraphs. The result should be evaluated in reader review as a
-pacing choice, not mistaken for a substantive expansion of the text.
+They flow continuously in the compact PDF and receive separate EPUB documents.
+Body prose uses 1.500 times the original number of paragraphs. The result should
+be evaluated in reader review as a pacing choice, not mistaken for a
+substantive expansion of the text.
+
+The 2026-08-28 access revision adds *Oblique Strategies* to `Release Control`
+because it reveals a distinct allocation of chance: the draw selects a working
+position, while the composer still selects and judges the musical consequence.
+The accompanying usage note and 36-intervention index give that distinction a
+book-scale function without changing the twelve-Section architecture.

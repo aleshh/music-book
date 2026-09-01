@@ -70,7 +70,7 @@ agents a score may admit; rooms, publics, and surrounding sound also answer.
 - This is the deliberate continuation of Section 4's audible account of
   `Quattro pezzi`.
 
-## Supporting encounter
+## Supporting encounters
 
 ### John Cage, `Music of Changes`
 
@@ -80,6 +80,21 @@ agents a score may admit; rooms, publics, and surrounding sound also answer.
   freedom.
 - Chance changes how a decision is made, not whether its outcome has effects.
 
+### Brian Eno and Peter Schmidt, *Oblique Strategies*
+
+- Eno and Schmidt published the deck together in 1975 after discovering that
+  they had independently been collecting short working propositions.
+- Eno described the cards as a way to interrupt the linear, head-on thinking
+  that pressure in a studio can produce and to recover alternative approaches
+  he already knew but had forgotten in the moment.
+- A random card selects a temporary working attitude, question, or constraint;
+  it does not select the notes or judge the consequences.
+- Use three very short examples from different documented editions or accounts
+  to show the range without turning the book into a reproduction of the deck.
+- This gives the book's nonlinear access system an explicit precedent: its
+  interventions can return an outside question to a stalled piece, while the
+  surrounding arguments explain what the question changes musically.
+
 ## Required theoretical ground
 
 - Notation as allocation of responsibility rather than measurement of musical
@@ -87,6 +102,8 @@ agents a score may admit; rooms, publics, and surrounding sound also answer.
 - A continuum among fixed result, bounded choice, relational rule,
   improvisation, compositional chance, and environmental contingency.
 - Chance at composition versus indeterminacy at performance.
+- Chance that selects musical material versus chance that selects a working
+  position from which a person makes further decisions.
 - Result notation, action notation, relational notation, and attention
   notation.
 - Work identity as invariant material, behavior, relation, memory, or social
@@ -98,6 +115,7 @@ agents a score may admit; rooms, publics, and surrounding sound also answer.
 - Testing extreme legal interpretations of an open instruction.
 - Error, tolerance, and recovery in contingent scores.
 - The composer's responsibility for a family of outcomes.
+- External prompts as interruptions of habit, not substitutes for judgment.
 
 ## Boundaries
 

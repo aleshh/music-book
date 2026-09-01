@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 
-"""Report stable word and sentence-length statistics for the manuscript.
+"""Report stable word and sentence-length statistics for the book.
 
 The editorial count excludes generated ``N.`` labels so a structural
-renumbering does not masquerade as added prose. It otherwise counts every
-whitespace-delimited token in the numbered manuscript files, including Section
-titles, numbered-piece titles, exercises, notes, and source URLs. The raw source
-count is included as a transparent comparison.
+renumbering does not masquerade as added prose. It reports both the twelve
+numbered Section files and the full reader-facing sequence, including Foreword,
+Introduction, usage note, diagnostic index, and author note. The raw source
+counts are included as transparent comparisons.
 
 Sentence statistics describe body prose only. They exclude headings, source
 notes, generated number labels, and Markdown footnote markers so structural
@@ -22,6 +22,13 @@ from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 CHAPTER_DIR = PROJECT_ROOT / "chapters"
+READER_MATTER = (
+    PROJECT_ROOT / "frontmatter" / "foreword.md",
+    PROJECT_ROOT / "frontmatter" / "introduction.md",
+    PROJECT_ROOT / "frontmatter" / "how-to-use-this-book.md",
+    PROJECT_ROOT / "backmatter" / "when-the-piece-stops-moving.md",
+    PROJECT_ROOT / "backmatter" / "about-the-authorial-voice.md",
+)
 NUMBERED_PIECE_LABEL = re.compile(r"^(##) \d+\. ", re.MULTILINE)
 NUMBERED_PIECE_HEADING = re.compile(r"^## (\d+)\. ", re.MULTILINE)
 SECTION_HEADING = re.compile(r"^# Section (\d+): ", re.MULTILINE)
@@ -160,7 +167,13 @@ def main() -> None:
         raise SystemExit("word-count: no numbered manuscript files found")
 
     texts = [path.read_text(encoding="utf-8") for path in files]
+    missing_matter = [path for path in READER_MATTER if not path.exists()]
+    if missing_matter:
+        missing = ", ".join(str(path.relative_to(PROJECT_ROOT)) for path in missing_matter)
+        raise SystemExit(f"word-count: missing reader-facing source: {missing}")
+    matter_texts = [path.read_text(encoding="utf-8") for path in READER_MATTER]
     manuscript = "\n".join(texts)
+    reader_facing = "\n".join((*matter_texts[:3], manuscript, *matter_texts[3:]))
     piece_numbers = [
         int(match.group(1)) for match in NUMBERED_PIECE_HEADING.finditer(manuscript)
     ]
@@ -176,21 +189,27 @@ def main() -> None:
     editorial_text = NUMBERED_PIECE_LABEL.sub(r"\1 ", manuscript)
     editorial_count = token_count(editorial_text)
     source_count = token_count(manuscript)
+    reader_editorial = NUMBERED_PIECE_LABEL.sub(r"\1 ", reader_facing)
+    reader_editorial_count = token_count(reader_editorial)
+    reader_source_count = token_count(reader_facing)
     lengths = sentence_lengths(texts)
     if not lengths:
         raise SystemExit("word-count: no body-prose sentences found")
 
-    print(f"Editorial manuscript: {editorial_count:,} words")
-    print(f"Markdown source:      {source_count:,} words")
+    print(f"Full reader-facing book: {reader_editorial_count:,} words")
+    print(f"Core Section manuscript: {editorial_count:,} words")
+    print(f"Full Markdown source:    {reader_source_count:,} words")
+    print(f"Section Markdown source: {source_count:,} words")
     print(
         "Structure:            "
         f"{len(section_numbers)} Sections, {len(piece_numbers)} numbered pieces"
     )
     print()
     print("Editorial count excludes generated 'N.' labels.")
-    print("Both counts include headings, exercises, notes, and source URLs.")
+    print("Counts include headings, exercises, notes, and source URLs.")
+    print("Full-book counts exclude the title, publication data, and cover copy.")
     print()
-    print("Sentence length (body prose only):")
+    print("Sentence length (body prose in the twelve Sections only):")
     print(f"  Sentences:            {len(lengths):,}")
     print(f"  Average:              {statistics.mean(lengths):.2f} words")
     print(f"  Median:               {statistics.median(lengths):.1f} words")

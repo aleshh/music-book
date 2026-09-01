@@ -32,12 +32,16 @@ To report the manuscript count without rebuilding anything, run:
 make word-count
 ```
 
-This reports a stable editorial count that excludes generated `N.` heading
-labels, plus the literal Markdown-source count. Both include headings,
-exercises, notes, and source URLs. It also reports average, median, population
-standard deviation, quartile range, 90th percentile, and full range for body-
-prose sentence length. Sentence statistics exclude headings, source notes, and
-footnote markers so citations and URLs do not distort the prose measurements.
+This reports a full reader-facing count and a stable core-Section count, both
+excluding generated `N.` heading labels, plus their literal Markdown-source
+counts. The full count includes the Foreword, Introduction, usage note, twelve
+Sections, diagnostic index, and author note; it excludes title and publication
+data and cover copy. Counts include headings, exercises, notes, and source
+URLs. The script also reports average, median, population standard deviation,
+quartile range, 90th percentile, and full range for body-prose sentence length
+in the twelve Sections. Sentence statistics exclude headings, source notes,
+and footnote markers so citations and URLs do not distort the prose
+measurements.
 
 ## Requirements
 
@@ -90,10 +94,14 @@ python3 scripts/restructure-fast-flow.py --renumber
   publishing workflow rather than adding a separate legalistic notice here.
 - Edit `frontmatter/foreword.md` for Alesh Houdek's Foreword and
   `frontmatter/introduction.md` for the collaboratively developed Introduction.
-  They appear in that order after the contents and before Section 1. Each
-  starts on a new page, but its heading and opening text share that page.
+  `frontmatter/how-to-use-this-book.md` follows them and explains the book's
+  sequential and problem-led reading modes. They appear in that order after the
+  contents and before Section 1. Each starts on a new page, but its heading and
+  opening text share that page.
+- Edit `backmatter/when-the-piece-stops-moving.md` for the diagnostic index and
+  36 interventions. It follows Section 12.
 - Edit `backmatter/about-the-authorial-voice.md` for the closing "About the author" explanation of
-  the generated Romanovský persona. It follows Section 12.
+  the generated Romanovský persona. It follows the diagnostic index.
 - Edit `styles/base.css` for the body and heading fonts, type size, leading,
   colors, paragraph indents, and shared typography.
 - Edit `styles/pdf.css` for the PDF page size, margins, title page, contents,

@@ -14,6 +14,8 @@ publication_html="tmp/pdfs/publication.html"
 publication_source="frontmatter/publication.md"
 foreword_source="frontmatter/foreword.md"
 introduction_source="frontmatter/introduction.md"
+how_to_use_source="frontmatter/how-to-use-this-book.md"
+interventions_source="backmatter/when-the-piece-stops-moving.md"
 about_source="backmatter/about-the-authorial-voice.md"
 chrome_log="tmp/pdfs/chrome.log"
 
@@ -126,7 +128,9 @@ build_pdf() {
     --output="$pdf_html" \
     "$foreword_source" \
     "$introduction_source" \
+    "$how_to_use_source" \
     "${chapter_files[@]}" \
+    "$interventions_source" \
     "$about_source"
 
   local chrome_profile
@@ -176,7 +180,9 @@ build_epub() {
     "$publication_source" \
     "$foreword_source" \
     "$introduction_source" \
+    "$how_to_use_source" \
     "${chapter_files[@]}" \
+    "$interventions_source" \
     "$about_source"
 
   [[ -s "$epub_output" ]] || die "Pandoc did not create $epub_output"

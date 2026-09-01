@@ -238,7 +238,93 @@ oracle is not available for cross-examination. The composer is.
 Responsibility is not the enemy of chance; it is what lets chance become a
 serious compositional partner.
 
-## 125. Precision moves into the relationship
+## 125. The instruction you forgot
+
+A piece has stopped moving. You have tried adding a part, subtracting a part,
+changing the harmony, and taking a walk. Each attempt returns you to the same
+version of the same question.
+
+At such a moment, Brian Eno might draw a card.
+
+In 1975, Eno and the painter Peter Schmidt published *Oblique Strategies: Over
+One Hundred Worthwhile Dilemmas*. Both had already been collecting short
+propositions for difficult working situations. When they compared their
+collections, they found striking overlaps and decided to make a deck
+together.[^os]
+
+The cards did not contain melodies, chord sequences, or reliable instructions
+for making an adventurous record. They offered compressed disturbances. Across
+editions, these have included “Use an old idea,” “Repetition is a form of
+change,” and “Humanize something free of error.”[^os]
+
+Each sentence changes a different relation. The first changes the relation
+between invention and memory. The second asks whether recurrence has already
+altered a thing that notation still calls identical. The third makes
+imperfection a possible aim rather than a residue to remove.
+
+None tells you which old idea, what must repeat, or how error should enter. A
+card does not compose the answer. It changes the position from which the
+composer asks the question.
+
+Eno described the cards in practical rather than mystical terms. Under studio
+pressure, he found that effort became linear. If the current direction was
+wrong, working harder only carried the music farther along it.
+
+The pressure also made other approaches easy to forget. A randomly drawn card
+could interrupt the head-on attack and restore a tangential one. Its
+foreignness was useful precisely because it did not emerge from the narrowed
+state that had produced the impasse.
+
+This differs from the chance procedure in *Music of Changes*. Cage used chance
+to select musical events that entered a fixed score. An Oblique Strategy can
+use chance one level earlier: to select a temporary working attitude from which
+a person will make further choices.
+
+Suppose a passage has become polished and inert. “Humanize something free of
+error” does not require random wrong notes. You might ask which parameter has
+become unnaturally uniform.
+
+Perhaps every entrance sits at the same depth in the pulse. Perhaps repeated
+attacks share one envelope, the players cannot alter balance in response to the
+room, or a tuning system has erased the beatings that first gave the sonority
+life. The instruction becomes musical only when it identifies a relation you
+can change and a consequence you can hear.
+
+The chosen card may appear irrelevant. That misfit is not always a failure.
+Trying to understand how an instruction about fading could apply to a piece
+with no sustained sounds may reveal that its phrases disappear from memory in
+different ways. The useful change may occur in your description of the
+problem before it occurs in the sound.
+
+Nor must the card be obeyed. Random selection provides distance, not authority.
+If the instruction produces a weaker piece, the deck does not overrule the ear.
+If it repeatedly causes one musician to absorb the labor or risk, its
+indirection does not excuse the arrangement.
+
+The composer remains responsible for deciding what the experiment revealed.
+The card's job is finished once the former inevitability has become one option
+among others.
+
+A book like this can perform a related, slower task. Read in sequence, it builds
+an argument about time, attention, material, relation, and context. Opened at an
+impasse, it can instead supply an outside question: What if the width of
+attention changed? Which constraint has no audible consequence? Who actually
+decides the ending? What is the room already repeating?
+
+The thirty-six interventions at the back distill that second use. Choose the
+description nearest your difficulty, or choose an intervention without first
+looking for the correct one. Try its smallest action before reading the longer
+explanation it points toward.
+
+This book is not an oracle, and its generated authorial voice is not another
+musician in the room. It cannot hear the piece that troubles you. It can place
+one unfamiliar distinction beside it.
+
+Sometimes that is enough. A stalled work may not need an idea supplied from
+outside. It may need an outside instruction that returns one of your own ideas
+to view.
+
+## 126. Precision moves into the relationship
 
 Christian Wolff's *For 1, 2 or 3 People*, composed in 1964, leaves
 instrumentation open and permits a performance to select from ten pieces.
@@ -280,7 +366,7 @@ alone.
 Compose that attentiveness well, and relationships can produce detail no
 individual part could contain.
 
-## 126. Improvisation is prepared attention
+## 127. Improvisation is prepared attention
 
 The word *improvise* can mean several very different tasks.
 
@@ -325,7 +411,7 @@ Trust is not vagueness. It is confidence placed in a named capacity.
 
 Named capacity turns openness from abdication into collaboration.
 
-## 127. From sound to tape to page
+## 128. From sound to tape to page
 
 In Section 4, we heard Giacinto Scelsi's *Quattro pezzi su una nota sola* as
 music that finds several forms of activity inside one pitch center. The score
@@ -373,7 +459,7 @@ Credit should travel with it.
 Following that chain can enlarge authorship without allowing anyone's
 contribution to vanish.
 
-## 128. Labor does not disappear into the work
+## 129. Labor does not disappear into the work
 
 Collaborative music often preserves an old hierarchy in its credits. The
 composer's name appears in large type.
@@ -417,7 +503,7 @@ These questions do not drain spontaneity. They make trust possible.
 When risk and recognition are visible, performers can offer more of their
 judgment without being asked to disappear into the result.
 
-## 129. Leadership can move
+## 130. Leadership can move
 
 Distributed agency does not require every performer to hold identical power at
 every moment.
@@ -456,7 +542,7 @@ Refusing to name those distributions does not remove them.
 Once those distributions are audible, they can be revised, and the ensemble can
 discover forms of leadership the composer could not assign in advance.
 
-## 130. Error, tolerance, and recovery
+## 131. Error, tolerance, and recovery
 
 Fixed scores contain errors. Open scores contain errors plus arguments about
 whether the event was an error.
@@ -495,7 +581,7 @@ know what must be preserved, what may change, and how to find one another again.
 Designing a way back gives performers permission to take risks that a brittle
 form would punish.
 
-## 131. The freedom no one asked for
+## 132. The freedom no one asked for
 
 The most common failure in open composition is not chaos. It is uncredited
 completion.
@@ -540,7 +626,7 @@ choices that do not matter. Test the boundaries. Credit the labor.
 Clear ownership makes freedom usable: each open decision can carry actual
 consequence instead of decorative uncertainty.
 
-## 132. Designing a family of outcomes
+## 133. Designing a family of outcomes
 
 Begin by naming the invariant. What must every performance preserve: a pitch,
 theme, text, behavior, sequence, relation, or ethical condition?
@@ -578,7 +664,7 @@ reason to release control at all.
 The family succeeds when its members remain recognizably related and genuinely
 capable of surprising one another.
 
-## 133. Three experiments
+## 134. Three experiments
 
 ### 1. Name the decision maker
 
@@ -643,7 +729,7 @@ allocation changes.
 Each revision can move freedom closer to the knowledge that makes it musically
 alive.
 
-## 134. Staying with the work
+## 135. Staying with the work
 
 Return to *Stay On It*. A theme persists. Cells gather around it. Performers
 choose, cue, and improvise. A section may become raucous, sparse, disciplined,
@@ -695,6 +781,18 @@ capable of changing the piece in turn.
     <https://musicofjohncage.com/writings/>. The work uses the *I Ching* during
     composition but presents David Tudor and later pianists with a fixed,
     detailed score.
+
+[^os]: Brian Eno, interview by Glenn O'Brien, originally published in
+    *Interview*, June 1978,
+    <https://www.interviewmagazine.com/music/new-again-brian-eno>; Geeta Dayal,
+    “Brian Eno, Peter Schmidt, and Cybernetics,” Rhizome, October 21, 2009,
+    <https://old.rhizome.org/editorial/2009/oct/21/brian-eno-peter-schmidt-and-cybernetics/>;
+    Eno Shop, current *Oblique Strategies* edition and description,
+    <https://enoshop.co.uk/products/oblique-strategies>; Ràdio Web MACBA,
+    *INTERRUPTIONS #18: Vox et repetitio*,
+    <https://img.macba.cat/wp-content/uploads/2024/03/18Interruptions_eng-1.pdf>.
+    The deck changed across editions; the three short examples are documented
+    here without assigning all of them to the 1975 set.
 
 [^4]: Christian Wolff, BOMB interview, April 1, 1997,
     <https://bombmagazine.org/articles/1997/04/01/christian-wolff/>; Dartmouth,
