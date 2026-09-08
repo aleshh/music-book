@@ -1,4 +1,4 @@
-.PHONY: book pdf epub paperback paperback-cover cover-text word-count clean
+.PHONY: book pdf epub paperback paperback-cover cover-text word-count audit clean
 
 book: pdf epub
 
@@ -18,6 +18,9 @@ cover-text:
 
 word-count:
 	@python3 ./scripts/word-count.py
+
+audit:
+	@python3 ./scripts/publication-audit.py
 
 clean:
 	@./scripts/build-book.sh clean

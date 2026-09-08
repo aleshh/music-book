@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 330" role="img" aria-labelledby="title desc">
+  <title id="title">Beating produced by two nearby frequencies</title>
+  <desc id="desc">Two steady waves with slightly different frequencies are shown above a combined wave whose amplitude slowly grows and diminishes.</desc>
+  <rect width="640" height="330" fill="#ffffff"/>
+  <g stroke="#b5b5b5" stroke-width="1">
+    <line x1="92" y1="75" x2="610" y2="75"/>
+    <line x1="92" y1="155" x2="610" y2="155"/>
+    <line x1="92" y1="255" x2="610" y2="255"/>
+  </g>
+  <g fill="none" stroke="#1b1b1b" stroke-width="2.2">
+    <path d="M92 75 C105 45 118 45 131 75 S157 105 170 75 S196 45 209 75 S235 105 248 75 S274 45 287 75 S313 105 326 75 S352 45 365 75 S391 105 404 75 S430 45 443 75 S469 105 482 75 S508 45 521 75 S547 105 560 75 S586 45 599 75"/>
+    <path d="M92 155 C106 125 120 125 134 155 S162 185 176 155 S204 125 218 155 S246 185 260 155 S288 125 302 155 S330 185 344 155 S372 125 386 155 S414 185 428 155 S456 125 470 155 S498 185 512 155 S540 125 554 155 S582 185 596 155"/>
+    <path d="M92 255 C104 246 116 246 128 255 S152 264 164 255 S188 236 200 255 S224 274 236 255 S260 219 272 255 S296 291 308 255 S332 207 344 255 S368 303 380 255 S404 219 416 255 S440 291 452 255 S476 236 488 255 S512 274 524 255 S548 246 560 255 S584 264 596 255" stroke-width="3"/>
+    <path d="M92 255 C128 244 164 244 200 255 C236 281 272 303 308 303 C344 303 380 281 416 255 C452 229 488 229 524 255 C548 266 572 266 596 255" stroke="#777" stroke-dasharray="6 5"/>
+    <path d="M92 255 C128 266 164 266 200 255 C236 229 272 207 308 207 C344 207 380 229 416 255 C452 281 488 281 524 255 C548 244 572 244 596 255" stroke="#777" stroke-dasharray="6 5"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#1b1b1b">
+    <text x="18" y="80" font-size="15">tone A</text>
+    <text x="18" y="160" font-size="15">tone B</text>
+    <text x="18" y="250" font-size="15">together</text>
+    <text x="18" y="270" font-size="13" fill="#555">slow swell</text>
+  </g>
+</svg>

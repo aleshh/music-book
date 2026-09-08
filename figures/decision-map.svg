@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 390" role="img" aria-labelledby="title desc">
+  <title id="title">A map of musical decisions</title>
+  <desc id="desc">Rows name material, onset, duration, relation, color, transition, and ending. Marks across composer, performer, chance, and context show that control can be distributed differently for each decision.</desc>
+  <rect width="640" height="390" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#1b1b1b">
+    <text x="252" y="40" font-size="15" text-anchor="middle" font-weight="700">composer</text>
+    <text x="365" y="40" font-size="15" text-anchor="middle" font-weight="700">performer</text>
+    <text x="470" y="40" font-size="15" text-anchor="middle" font-weight="700">chance</text>
+    <text x="575" y="40" font-size="15" text-anchor="middle" font-weight="700">context</text>
+    <text x="24" y="86" font-size="15">material</text><text x="24" y="130" font-size="15">onset</text>
+    <text x="24" y="174" font-size="15">duration</text><text x="24" y="218" font-size="15">relation</text>
+    <text x="24" y="262" font-size="15">color</text><text x="24" y="306" font-size="15">transition</text>
+    <text x="24" y="350" font-size="15">ending</text>
+  </g>
+  <g stroke="#c2c2c2" stroke-width="1">
+    <line x1="180" y1="58" x2="610" y2="58"/>
+    <line x1="180" y1="102" x2="610" y2="102"/><line x1="180" y1="146" x2="610" y2="146"/>
+    <line x1="180" y1="190" x2="610" y2="190"/><line x1="180" y1="234" x2="610" y2="234"/>
+    <line x1="180" y1="278" x2="610" y2="278"/><line x1="180" y1="322" x2="610" y2="322"/>
+    <line x1="180" y1="366" x2="610" y2="366"/>
+    <line x1="198" y1="52" x2="198" y2="366"/><line x1="306" y1="52" x2="306" y2="366"/>
+    <line x1="414" y1="52" x2="414" y2="366"/><line x1="522" y1="52" x2="522" y2="366"/>
+    <line x1="610" y1="52" x2="610" y2="366"/>
+  </g>
+  <g fill="#1b1b1b">
+    <circle cx="252" cy="80" r="8"/><circle cx="365" cy="124" r="8"/>
+    <circle cx="365" cy="168" r="8"/><circle cx="365" cy="212" r="8"/>
+    <circle cx="252" cy="256" r="6"/><circle cx="365" cy="256" r="6"/>
+    <circle cx="470" cy="300" r="8"/><circle cx="575" cy="344" r="8"/>
+  </g>
+  <g fill="none" stroke="#1b1b1b" stroke-width="2">
+    <path d="M252 256 L365 256"/>
+  </g>
+</svg>

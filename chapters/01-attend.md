@@ -127,6 +127,8 @@ after a long absence may reorganize a room.
 Change the surrounding field, and the same sound can pass from atmosphere to
 event without changing a note.
 
+![Focal listening follows one relation closely; peripheral listening hears an event against a continuing condition; distributed listening moves among several possible centers.](figures/attention-width.svg){.book-figure}
+
 ## 3. What calls the ear
 
 Place a soft, evenly articulated figure in the middle register: A, E, A, E,

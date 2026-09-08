@@ -68,9 +68,15 @@ after giving the reader something audible for it to name.
   builds.
 - `backmatter/when-the-piece-stops-moving.md` — diagnostic index and 36 concise
   interventions distilled from the twelve existing experiment groups.
+- `backmatter/listening-paths.md` — a Section-by-Section route through the
+  principal works, keyed to the numbered pieces and organized by what to hear.
+- `backmatter/composer-and-work-finder.md` — a format-independent finder for
+  the principal composers and works, using piece numbers rather than pages.
 - `backmatter/about-the-authorial-voice.md` — a concise "About the author" account
   of the generated Romanovský persona and Alesh Houdek's role in developing the
   manuscript.
+- `publication-audit.md` — the manual source, quotation, image, font, metadata,
+  and rights audit. It is editorial documentation and is not included in builds.
 - `cover/full-wrap.json` — editable paperback-cover copy and production inputs.
   `scripts/build-paperback-cover.py` reads the final interior page count and
   derives the exact cream-paper spine and full-wrap dimensions.

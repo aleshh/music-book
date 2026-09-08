@@ -1,6 +1,6 @@
 # Book Progress and Material Ledger
 
-Last updated: 2026-08-28
+Last updated: 2026-09-01
 
 This is the book-wide editorial dashboard. It tracks section progress, the
 primary home of major ideas, and the use of anecdotes, repertoire, and invented
@@ -457,3 +457,24 @@ job already performed, so a future return must do something else.
 - The governing voice rule now appears in both `Voice` and `AGENTS.md`:
   inspiration should arise from clearer musical agency and consequence, not
   hype, generic encouragement, or a repeated motivational cadence.
+
+## Latest publication and reader-apparatus audit
+
+- Completed 2026-09-01: source-trail, quotation, image, font, metadata, and
+  rights findings are recorded in `publication-audit.md`. All 109 reader-facing
+  source notes resolve, all twelve Section ledgers remain present, and central
+  anecdotes were spot-checked again against live sources.
+- Five original monochrome diagrams now clarify attentional width (piece 2),
+  beating (45), phase offset (86), distributed decisions (121), and the four
+  locations of formal change (155). They add no new anecdote or repertoire use.
+- `backmatter/listening-paths.md` supplies a Section-by-Section route through
+  principal works, organized by what to hear rather than by historical rank.
+  It deliberately revisits only repertoire already allocated in this ledger.
+- `backmatter/composer-and-work-finder.md` provides a selective,
+  format-independent index keyed to numbered pieces rather than unstable print
+  pages.
+- The EPUB now has one stable identifier, one title, one author, a dedicated
+  front-only RGB cover, embedded figure descriptions, and a human-readable
+  filename. `make audit` repeats the deterministic checks.
+- The user's continuing cover-to-cover read remains the governing reader pass;
+  no outside-reader round is planned.

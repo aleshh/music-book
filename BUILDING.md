@@ -9,7 +9,12 @@ make book
 That builds both editions:
 
 - `output/pdf/ambient-and-minimalist-music.pdf`
-- `output/epub/ambient-and-minimalist-music.epub`
+- `output/epub/Ambient and Minimalist Music.epub`
+
+The EPUB build also creates the front-only RGB cover used inside the EPUB at
+`output/epub/Ambient and Minimalist Music - cover.jpg`. The capitalized,
+human-readable filename prevents personal-document services from falling back
+to a lowercase build slug for the displayed title.
 
 You can also run `make pdf`, `make epub`, or `make clean`.
 
@@ -32,6 +37,17 @@ To report the manuscript count without rebuilding anything, run:
 make word-count
 ```
 
+After building the EPUB, run the deterministic release checks with:
+
+```sh
+make audit
+```
+
+This verifies Section and piece numbering, source-note resolution, figure
+descriptions and resources, EPUB archive integrity, title and author metadata,
+the stable identifier, and the embedded cover declaration. The manual source
+and rights findings are recorded in `publication-audit.md`.
+
 This reports a full reader-facing count and a stable core-Section count, both
 excluding generated `N.` heading labels, plus their literal Markdown-source
 counts. The full count includes the Foreword, Introduction, usage note, twelve
@@ -49,6 +65,7 @@ measurements.
 - Google Chrome or Chromium for PDF rendering
 - Python 3 with `pypdf` and `reportlab` for deterministic Section-page checks
   and final physical-page folios
+- Python 3 with Pillow for the front-only EPUB cover
 - `make` and Bash
 
 The script looks for Chrome in its standard macOS and command-line locations.
@@ -100,8 +117,11 @@ python3 scripts/restructure-fast-flow.py --renumber
   opening text share that page.
 - Edit `backmatter/when-the-piece-stops-moving.md` for the diagnostic index and
   36 interventions. It follows Section 12.
+- Edit `backmatter/listening-paths.md` for the Section-by-Section listening
+  guide and `backmatter/composer-and-work-finder.md` for the format-independent
+  index keyed to numbered pieces. They follow the diagnostic index.
 - Edit `backmatter/about-the-authorial-voice.md` for the closing "About the author" explanation of
-  the generated Romanovský persona. It follows the diagnostic index.
+  the generated Romanovský persona. It follows the listening and finder pages.
 - Edit `styles/base.css` for the body and heading fonts, type size, leading,
   colors, paragraph indents, and shared typography.
 - Edit `styles/pdf.css` for the PDF page size, margins, title page, contents,
@@ -125,9 +145,9 @@ page numbers and verifies every Section transition.
 The title page identifies Jonathan Romanovský as a generated authorial persona,
 credits the book's development and editing to Alesh Houdek, and credits his
 Foreword.
-The following publication page names Alesh Houdek as self-publisher and states
-the scope of his copyright claim. The Introduction gives the reader a plain
-account of the book's human-AI collaboration.
+The following publication page states the scope of Alesh Houdek's copyright
+claim without adding a self-publisher line. The Introduction gives the reader
+a plain account of the book's human-AI collaboration.
 
 Body paragraphs are set without vertical space between them. The first
 paragraph of each numbered piece is flush left; subsequent body paragraphs are
@@ -137,8 +157,7 @@ Section, piece, and exercise headings use sentence case.
 This is a custom KDP paperback trim within the regular-trim range. Before
 upload, compare the final page count with KDP's current inside-margin table;
 books above 500 pages require at least a 0.75 inch inside margin. The current
-317-page build requires 0.625 inch inside, so the current setting meets the
-requirement and remains sufficient through 500 pages. For a tactile pocket-
+setting remains sufficient through 500 pages. For a tactile pocket-
 guide feel, black ink on cream paper with a matte cover is the working
 production assumption. EPUB readers often let readers override fonts, size,
 color, and spacing, so EPUB typography remains intentionally less rigid.

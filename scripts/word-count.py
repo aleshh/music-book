@@ -27,6 +27,8 @@ READER_MATTER = (
     PROJECT_ROOT / "frontmatter" / "introduction.md",
     PROJECT_ROOT / "frontmatter" / "how-to-use-this-book.md",
     PROJECT_ROOT / "backmatter" / "when-the-piece-stops-moving.md",
+    PROJECT_ROOT / "backmatter" / "listening-paths.md",
+    PROJECT_ROOT / "backmatter" / "composer-and-work-finder.md",
     PROJECT_ROOT / "backmatter" / "about-the-authorial-voice.md",
 )
 NUMBERED_PIECE_LABEL = re.compile(r"^(##) \d+\. ", re.MULTILINE)

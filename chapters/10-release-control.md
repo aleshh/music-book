@@ -96,6 +96,8 @@ debts.
 Mapping decisions this way reveals new places for trust, structure, and
 surprise.
 
+![One possible decision map distributes material, onset, duration, relation, color, transition, and ending among different agents.](figures/decision-map.svg){.book-figure}
+
 ## 122. The score as a map of responsibility
 
 Notation is often described as a representation of sound. It is also a map of

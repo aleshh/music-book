@@ -8,7 +8,8 @@ cd "$project_root"
 output_stem="ambient-and-minimalist-music"
 pdf_output="output/pdf/${output_stem}.pdf"
 pdf_raw="tmp/pdfs/${output_stem}-chrome.pdf"
-epub_output="output/epub/${output_stem}.epub"
+epub_output="output/epub/Ambient and Minimalist Music.epub"
+epub_cover="output/epub/Ambient and Minimalist Music - cover.jpg"
 pdf_html="tmp/pdfs/${output_stem}.html"
 publication_html="tmp/pdfs/publication.html"
 publication_source="frontmatter/publication.md"
@@ -16,6 +17,8 @@ foreword_source="frontmatter/foreword.md"
 introduction_source="frontmatter/introduction.md"
 how_to_use_source="frontmatter/how-to-use-this-book.md"
 interventions_source="backmatter/when-the-piece-stops-moving.md"
+listening_source="backmatter/listening-paths.md"
+finder_source="backmatter/composer-and-work-finder.md"
 about_source="backmatter/about-the-authorial-voice.md"
 chrome_log="tmp/pdfs/chrome.log"
 
@@ -84,6 +87,36 @@ find_pdf_python() {
   die "PDF finalization needs Python 3 with pypdf and reportlab; set PYTHON_BIN or install both"
 }
 
+find_cover_python() {
+  local candidate
+
+  if [[ -n "${PYTHON_BIN:-}" ]]; then
+    candidate="$PYTHON_BIN"
+    if [[ -x "$candidate" ]] && "$candidate" -c 'import PIL' >/dev/null 2>&1; then
+      printf '%s\n' "$candidate"
+      return
+    fi
+  fi
+
+  if command -v python3 >/dev/null 2>&1; then
+    candidate="$(command -v python3)"
+    if "$candidate" -c 'import PIL' >/dev/null 2>&1; then
+      printf '%s\n' "$candidate"
+      return
+    fi
+  fi
+
+  if [[ -n "${HOME:-}" ]]; then
+    candidate="${HOME}/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3"
+    if [[ -x "$candidate" ]] && "$candidate" -c 'import PIL' >/dev/null 2>&1; then
+      printf '%s\n' "$candidate"
+      return
+    fi
+  fi
+
+  die "EPUB cover generation needs Python 3 with Pillow; set PYTHON_BIN or install Pillow"
+}
+
 shopt -s nullglob
 chapter_files=(chapters/[0-9][0-9]-*.md)
 (( ${#chapter_files[@]} > 0 )) || die "no numbered Markdown files found in chapters/"
@@ -131,6 +164,8 @@ build_pdf() {
     "$how_to_use_source" \
     "${chapter_files[@]}" \
     "$interventions_source" \
+    "$listening_source" \
+    "$finder_source" \
     "$about_source"
 
   local chrome_profile
@@ -168,12 +203,18 @@ build_pdf() {
 
 build_epub() {
   need_command pandoc
+  local cover_python
+  cover_python="$(find_cover_python)"
   mkdir -p output/epub
+
+  "$cover_python" scripts/build-ebook-cover.py
 
   pandoc \
     "${common_args[@]}" \
     --to=epub3 \
+    --template=templates/epub.html \
     --split-level=2 \
+    --epub-cover-image="$epub_cover" \
     --css=styles/base.css \
     --css=styles/epub.css \
     --output="$epub_output" \
@@ -183,6 +224,8 @@ build_epub() {
     "$how_to_use_source" \
     "${chapter_files[@]}" \
     "$interventions_source" \
+    "$listening_source" \
+    "$finder_source" \
     "$about_source"
 
   [[ -s "$epub_output" ]] || die "Pandoc did not create $epub_output"
