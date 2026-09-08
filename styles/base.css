@@ -126,31 +126,6 @@ blockquote p {
   text-indent: 0;
 }
 
-figure {
-  break-inside: avoid;
-  margin: 1.45em 0 1.65em;
-  page-break-inside: avoid;
-}
-
-figure img,
-img.book-figure {
-  display: block;
-  height: auto;
-  margin: 0 auto;
-  max-width: 100%;
-  width: 100%;
-}
-
-figcaption {
-  color: var(--muted-color);
-  font-family: var(--book-sans);
-  font-size: 0.78em;
-  line-height: 1.35;
-  margin-top: 0.55em;
-  text-align: left;
-  text-indent: 0;
-}
-
 ol,
 ul {
   margin: 1em 0 1.3em;

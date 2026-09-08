@@ -43,8 +43,8 @@ After building the EPUB, run the deterministic release checks with:
 make audit
 ```
 
-This verifies Section and piece numbering, source-note resolution, figure
-descriptions and resources, EPUB archive integrity, title and author metadata,
+This verifies Section and piece numbering, source-note resolution, EPUB archive
+integrity, title and author metadata,
 the stable identifier, and the embedded cover declaration. The manual source
 and rights findings are recorded in `publication-audit.md`.
 

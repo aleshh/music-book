@@ -17,7 +17,6 @@ EXPECTED_TITLE = "Ambient and Minimalist Music"
 EXPECTED_AUTHOR = "Jonathan Romanovský"
 EXPECTED_IDENTIFIER = "urn:uuid:6571744f-18c0-4cfe-8305-f86a7b7291d8"
 URL = re.compile(r"https?://[^ )>\"`]+")
-IMAGE = re.compile(r"!\[([^\]]+)\]\(([^)]+)\)")
 PIECE = re.compile(r"^## (\d+)\. ", re.MULTILINE)
 SECTION = re.compile(r"^# Section (\d+): ", re.MULTILINE)
 FOOTNOTE_DEFINITION = re.compile(r"^\[\^([^\]]+)\]:", re.MULTILINE)
@@ -64,7 +63,6 @@ def audit_manuscript(audit: Audit) -> None:
     ]
     footnote_total = 0
     url_total: set[str] = set()
-    figure_total = 0
     for path in source_files:
         text = path.read_text(encoding="utf-8")
         references, definitions = footnote_sets(text)
@@ -76,11 +74,6 @@ def audit_manuscript(audit: Audit) -> None:
         )
         footnote_total += len(definitions)
         url_total.update(value.rstrip(".,;:") for value in URL.findall(text))
-        for alt, target in IMAGE.findall(text):
-            figure_total += 1
-            audit.require(bool(alt.strip()), f"empty figure description in {path}")
-            resource = PROJECT_ROOT / target
-            audit.require(resource.exists(), f"missing figure resource: {target}")
 
     for chapter in chapters:
         stem = chapter.stem
@@ -93,7 +86,6 @@ def audit_manuscript(audit: Audit) -> None:
     audit.require("Self-published by" not in publication, "obsolete self-published line remains")
     audit.detail(f"12 Sections; 165 numbered pieces")
     audit.detail(f"{footnote_total} resolved source notes; {len(url_total)} unique source URLs")
-    audit.detail(f"{figure_total} described figures with existing source files")
 
 
 def audit_epub(audit: Audit) -> None:
@@ -142,11 +134,6 @@ def audit_epub(audit: Audit) -> None:
         if cover_items:
             href = cover_items[0].attrib["href"]
             audit.require(f"EPUB/{href}" in archive.namelist(), f"missing embedded cover: {href}")
-        embedded_figures = [
-            name for name in archive.namelist() if name.lower().endswith(".svg")
-        ]
-        audit.require(len(embedded_figures) >= 5, "not all manuscript figures were embedded")
-
     audit.detail(
         "EPUB title, author, identifier, cover declaration, package structure, "
         "XML, and archive integrity verified"

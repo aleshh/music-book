@@ -106,7 +106,8 @@ publisher/imprint chosen by its registrant.
   the scoped rights statement.
 - The EPUB contains a front-only RGB cover and marks it as the cover image in
   both modern and legacy metadata.
-- All five SVG figures are embedded with descriptive alternative text.
+- The experimental SVG diagrams were removed after editorial review; the
+  reader-facing manuscript contains no third-party visual assets.
 - The listening paths and composer/work finder appear in the EPUB navigation.
 
 The final print proof should be made only after the interior page count is

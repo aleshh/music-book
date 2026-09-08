@@ -253,8 +253,6 @@ where change will matter.
 Find that place, and a small alteration can move the whole form farther than a
 page of new material.
 
-![Form can move through changes in material, relationships, the listener, or context; each location can alter the meaning of the others.](figures/locations-of-change.svg){.book-figure}
-
 ## 156. Several clocks at once
 
 A whole form rarely moves at one rate. A useful draft hears at least four

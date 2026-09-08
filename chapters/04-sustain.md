@@ -215,8 +215,6 @@ event capable of producing motion and, sometimes, apparent new material.
 Treat that motion as material, and a single interval can generate pulse,
 density, and arrival without adding an attack.
 
-![Two nearby steady frequencies produce a combined sound whose amplitude slowly swells and recedes.](figures/beating.svg){.book-figure}
-
 ## 46. Four centers, not four lines
 
 Giacinto Scelsi's *Quattro pezzi su una nota sola*—four pieces, each on one

@@ -186,8 +186,6 @@ available to the ear.
 Choose that degree carefully, and phase becomes a moving perspective rather
 than a demonstration of a trick.
 
-![A fixed four-position pattern and a moving copy pass through successive offsets, changing which attacks coincide.](figures/phase-offset.svg){.book-figure}
-
 ## 87. A process enters the body
 
 After the recorded-speech pieces, Reich wanted to transfer gradual phase to
